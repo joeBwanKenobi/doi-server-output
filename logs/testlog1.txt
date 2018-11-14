@@ -1,0 +1,463 @@
+L 09/24/2018 - 12:11:33: "Garebear<557><STEAM_1:1:51146872><>" connected, address "172.1.119.26:27005"
+L 09/24/2018 - 12:11:33: "Garebear<557><STEAM_1:1:51146872><STEAM_1:1:51146872>" STEAM USERID validated
+L 09/24/2018 - 12:11:43: "GOLDEN AK<558><STEAM_1:0:46048519><>" connected, address "67.247.206.175:27005"
+L 09/24/2018 - 12:11:43: "GOLDEN AK<558><STEAM_1:0:46048519><STEAM_1:0:46048519>" STEAM USERID validated
+L 09/24/2018 - 12:12:11: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "mion<555><STEAM_1:1:61086992><#us>" with "nam_akm<74>" at (-218.386032, 352.354126, 0.031250)
+L 09/24/2018 - 12:12:23: "Garebear<557><STEAM_1:1:51146872><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:12:23: "Garebear<557><STEAM_1:1:51146872><>" entered the game
+L 09/24/2018 - 12:12:32: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_m607<78>" at (79.881203, -541.816284, 0.031250)
+L 09/24/2018 - 12:12:35: "GOLDEN AK<558><STEAM_1:0:46048519><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:12:35: "GOLDEN AK<558><STEAM_1:0:46048519><>" entered the game
+L 09/24/2018 - 12:13:21: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "mion<555><STEAM_1:1:61086992><#us>" with "nam_akm<74>" at (-1221.404663, -486.847961, 0.031250)
+L 09/24/2018 - 12:13:34: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" with "nam_akm<74>" at (106.725166, -591.982849, 0.031250)
+L 09/24/2018 - 12:13:41: "GOLDEN AK<558><STEAM_1:0:46048519><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_svt40<70>" at (-194.081360, -1328.414307, 0.031250)
+L 09/24/2018 - 12:13:47: "GOLDEN AK<558><STEAM_1:0:46048519><#nva>" say "SORRY"
+L 09/24/2018 - 12:13:57: Team "#nva" triggered "obj_captured" (object "")
+L 09/24/2018 - 12:13:57: "Bepis<554><STEAM_1:0:39648097><#nva>" triggered "obj_captured" (name "")
+L 09/24/2018 - 12:14:14: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "mion<555><STEAM_1:1:61086992><#us>" with "nam_akm<74>" at (268.521179, 3769.675537, -255.968750)
+L 09/24/2018 - 12:14:41: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" with "nam_rpk<34>" at (-220.066132, 4411.019043, -383.968750)
+L 09/24/2018 - 12:15:01: Team "#nva" triggered "obj_captured" (object "")
+L 09/24/2018 - 12:15:01: "Bepis<554><STEAM_1:0:39648097><#nva>" triggered "obj_captured" (name "")
+L 09/24/2018 - 12:15:04: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "mion<555><STEAM_1:1:61086992><#us>" with "nam_rpk<34>" at (-1665.845947, 4445.779297, -123.758743)
+L 09/24/2018 - 12:15:16: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_rpk<34>" at (-204.619293, 5542.698730, -303.542389)
+L 09/24/2018 - 12:15:24: "Garebear<557><STEAM_1:1:51146872><#nva>" say "sorry"
+L 09/24/2018 - 12:15:31: "Bepis<554><STEAM_1:0:39648097><#nva>" say_team "move your fuccin ass"
+L 09/24/2018 - 12:15:49: "mion<555><STEAM_1:1:61086992><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m60<30>" at (-3466.086670, 4843.878906, -631.098816)
+L 09/24/2018 - 12:16:04: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "mion<555><STEAM_1:1:61086992><#us>" with "nam_akm<74>" at (-4121.416992, 5244.533691, -623.968750)
+L 09/24/2018 - 12:16:27: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_thompson_m1928a1<58>" at (-4416.122559, 6074.081543, -630.687805)
+L 09/24/2018 - 12:17:18: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "GOLDEN AK<558><STEAM_1:0:46048519><#nva>" with "nam_thompson_m1928a1<58>" at (-5258.501953, 5020.334473, -631.968750)
+L 09/24/2018 - 12:17:32: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" with "nam_akm<74>" at (-5159.093262, 4436.438965, -623.725525)
+L 09/24/2018 - 12:17:32: Team "#nva" triggered "Round_Win"
+L 09/24/2018 - 12:17:34: "GOLDEN AK<558><STEAM_1:0:46048519><#nva>" disconnected (reason "Disconnected.")
+L 09/24/2018 - 12:18:12: server_cvar: "nextlevel" "la_drang offensive"
+L 09/24/2018 - 12:18:18: Loading map "la_drang"
+L 09/24/2018 - 12:18:18: server cvars start
+L 09/24/2018 - 12:18:18: "sv_maxspeed" = "1000.000000"
+L 09/24/2018 - 12:18:18: "mp_ignore_timer_conditions" = "0"
+L 09/24/2018 - 12:18:18: "spec_allow_bots" = "0"
+L 09/24/2018 - 12:18:18: "sv_rollangle" = "0"
+L 09/24/2018 - 12:18:18: "ins_teamsize" = "0"
+L 09/24/2018 - 12:18:18: "mp_cp_proximity_check_frequency" = "3"
+L 09/24/2018 - 12:18:18: "mp_timer_taglines" = "17"
+L 09/24/2018 - 12:18:18: "sv_cheats" = "0"
+L 09/24/2018 - 12:18:18: "r_VehicleViewDampen" = "1"
+L 09/24/2018 - 12:18:18: "doi_bot_difficulty" = "0"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_party_color" = ""
+L 09/24/2018 - 12:18:18: "mp_allowNPCs" = "1"
+L 09/24/2018 - 12:18:18: "sv_deadtalk_team" = "1"
+L 09/24/2018 - 12:18:18: "mp_timer_voting" = "15"
+L 09/24/2018 - 12:18:18: "mp_maxgames" = "1"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_friend_obstruct" = "0"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_vip_color" = ""
+L 09/24/2018 - 12:18:18: "sv_stopspeed_prone" = "45"
+L 09/24/2018 - 12:18:18: "mp_flashlight" = "0"
+L 09/24/2018 - 12:18:18: "mp_maxrounds" = "3"
+L 09/24/2018 - 12:18:18: "sv_tags" = "battleye"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_height" = "20"
+L 09/24/2018 - 12:18:18: "sv_stepsize" = "18"
+L 09/24/2018 - 12:18:18: "mp_teamlist" = "hgrunt;scientist"
+L 09/24/2018 - 12:18:18: "sv_alltalk" = "1"
+L 09/24/2018 - 12:18:18: "mp_timer_pregame" = "10"
+L 09/24/2018 - 12:18:18: "doi_coop_bot_ranking_officer" = "6"
+L 09/24/2018 - 12:18:18: "mp_footsteps" = "1"
+L 09/24/2018 - 12:18:18: "mp_supply_rate_losing_team_low" = "0"
+L 09/24/2018 - 12:18:18: "sv_noclipaccelerate" = "5"
+L 09/24/2018 - 12:18:18: "mp_timer_preround_switch" = "30"
+L 09/24/2018 - 12:18:18: "sv_hud_deathmessages" = "0"
+L 09/24/2018 - 12:18:18: "sv_wateraccelerate" = "10"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_mindist" = "25"
+L 09/24/2018 - 12:18:18: "sv_playlist" = "nam/mp_battles"
+L 09/24/2018 - 12:18:18: "mp_autocrosshair" = "1"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_aimangle" = "45"
+L 09/24/2018 - 12:18:18: "solo_timer_pregame" = "0"
+L 09/24/2018 - 12:18:18: "sv_rollspeed" = "200"
+L 09/24/2018 - 12:18:18: "sv_airaccelerate" = "10"
+L 09/24/2018 - 12:18:18: "mp_teams_unbalance_limit" = "1"
+L 09/24/2018 - 12:18:18: "mp_timelimit" = "20"
+L 09/24/2018 - 12:18:18: "sv_deadtalk" = "0"
+L 09/24/2018 - 12:18:18: "mp_supply_gain_obj_destroyed" = "1"
+L 09/24/2018 - 12:18:18: "sv_alltalk_dead" = "0"
+L 09/24/2018 - 12:18:18: "mp_minteamplayers" = "1"
+L 09/24/2018 - 12:18:18: "mp_fadetoblack" = "0"
+L 09/24/2018 - 12:18:18: "mp_cp_proximity_distance" = "3500"
+L 09/24/2018 - 12:18:18: "sv_alltalk_endgame" = "1"
+L 09/24/2018 - 12:18:18: "sv_waterfriction" = "1"
+L 09/24/2018 - 12:18:18: "mp_spawnprotectiontime_navspawn" = "15"
+L 09/24/2018 - 12:18:18: "sv_steamgroup" = ""
+L 09/24/2018 - 12:18:18: "mp_friendlyfire_explosives" = "0"
+L 09/24/2018 - 12:18:18: "mp_lobbytime" = "10"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator" = "1"
+L 09/24/2018 - 12:18:18: "mp_cp_capture_time" = "80"
+L 09/24/2018 - 12:18:18: "sv_hud_enemy_wave_display" = "1"
+L 09/24/2018 - 12:18:18: "mp_cp_speedup_max" = "6"
+L 09/24/2018 - 12:18:18: "mp_supply_rate_losing_team_high" = "0"
+L 09/24/2018 - 12:18:18: "mp_supply_gain" = "1"
+L 09/24/2018 - 12:18:18: "coop" = "0"
+L 09/24/2018 - 12:18:18: "sv_hud_scoreboard_show_score_dead" = "1"
+L 09/24/2018 - 12:18:18: "nextlevel" = "la_drang offensive"
+L 09/24/2018 - 12:18:18: "mp_coop_lobbysize" = "6"
+L 09/24/2018 - 12:18:18: "sv_stopspeed" = "75.000000"
+L 09/24/2018 - 12:18:18: "sv_specaccelerate" = "5"
+L 09/24/2018 - 12:18:18: "deathmatch" = "1"
+L 09/24/2018 - 12:18:18: "ins_bot_difficulty" = "1"
+L 09/24/2018 - 12:18:18: "tv_enable" = "0"
+L 09/24/2018 - 12:18:18: "mp_supply_gain_regroup" = "1"
+L 09/24/2018 - 12:18:18: "mp_supply_rate_winning_team_high" = "0"
+L 09/24/2018 - 12:18:18: "mp_switchteams_each_round" = "1"
+L 09/24/2018 - 12:18:18: "doi_coop_bot_ranking" = "1"
+L 09/24/2018 - 12:18:18: "mp_timer_postround" = "15"
+L 09/24/2018 - 12:18:18: "sv_hud_scoreboard_show_score" = "0"
+L 09/24/2018 - 12:18:18: "mp_falldamage" = "0"
+L 09/24/2018 - 12:18:18: "mp_freezetime" = "15"
+L 09/24/2018 - 12:18:18: "mp_extract_point" = "0"
+L 09/24/2018 - 12:18:18: "mp_cp_speedup_rate" = "0.35"
+L 09/24/2018 - 12:18:18: "sv_alltalk_intermission" = "1"
+L 09/24/2018 - 12:18:18: "doi_coop_lobby_size" = "8"
+L 09/24/2018 - 12:18:18: "mp_respawnwavetime_min" = "20"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_teammate_obstruct" = "1"
+L 09/24/2018 - 12:18:18: "sv_voiceenable" = "1"
+L 09/24/2018 - 12:18:18: "mp_assassination_single_point_max" = "16"
+L 09/24/2018 - 12:18:18: "sv_bounce" = "0"
+L 09/24/2018 - 12:18:18: "mp_spawnprotectontime" = "30"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_fov" = "75"
+L 09/24/2018 - 12:18:18: "mp_weaponstay" = "0"
+L 09/24/2018 - 12:18:18: "sv_changelevel_next_round" = "0"
+L 09/24/2018 - 12:18:18: "mp_winlimit_coop" = "1"
+L 09/24/2018 - 12:18:18: "mp_supply_gain_kill_assist_amount" = "1"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_teammate_color" = ""
+L 09/24/2018 - 12:18:18: "mp_scrambleteams_auto" = "0"
+L 09/24/2018 - 12:18:18: "mp_friendlyfire" = "1"
+L 09/24/2018 - 12:18:18: "sv_noclipspeed" = "5"
+L 09/24/2018 - 12:18:18: "sv_allchat" = "1"
+L 09/24/2018 - 12:18:18: "mp_joinwaittime" = "20"
+L 09/24/2018 - 12:18:18: "mp_roundlives" = "0"
+L 09/24/2018 - 12:18:18: "sv_map_voting" = "1"
+L 09/24/2018 - 12:18:18: "mp_supply_token_max" = "30"
+L 09/24/2018 - 12:18:18: "mp_supply_token_bot_base" = "18"
+L 09/24/2018 - 12:18:18: "mp_scrambleteams_auto_windifference" = "3"
+L 09/24/2018 - 12:18:18: "solo_timer_preround" = "15"
+L 09/24/2018 - 12:18:18: "mp_ambush_single_point_max" = "10"
+L 09/24/2018 - 12:18:18: "mp_timer_postgame" = "10"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_dist" = "100"
+L 09/24/2018 - 12:18:18: "mp_respawnwavetime_max" = "30"
+L 09/24/2018 - 12:18:18: "sv_footsteps" = "1"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
+L 09/24/2018 - 12:18:18: "mp_timer_preround" = "15"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_party_obstruct" = "0"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_aimdist" = "1000"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_useangle" = "15"
+L 09/24/2018 - 12:18:18: "mp_cp_proximity_distance_sabotage" = "1500"
+L 09/24/2018 - 12:18:18: "mp_cp_deteriorate_time" = "0"
+L 09/24/2018 - 12:18:18: "mp_searchdestroy_single_cache_max" = "12"
+L 09/24/2018 - 12:18:18: "tv_relaypassword" = ""
+L 09/24/2018 - 12:18:18: "mp_teamplay" = "0"
+L 09/24/2018 - 12:18:18: "mp_supply_token_base" = "20"
+L 09/24/2018 - 12:18:18: "sv_specnoclip" = "1"
+L 09/24/2018 - 12:18:18: "sv_friction" = "4"
+L 09/24/2018 - 12:18:18: "mp_switchteams_reset_supply" = "1"
+L 09/24/2018 - 12:18:18: "sv_contact" = ""
+L 09/24/2018 - 12:18:18: "sv_ruleset" = ""
+L 09/24/2018 - 12:18:18: "sv_thirdperson" = "0"
+L 09/24/2018 - 12:18:18: "mp_roundtime" = "600"
+L 09/24/2018 - 12:18:18: "doi_coop_cp_proximity_check_frequency" = "5.0"
+L 09/24/2018 - 12:18:18: "mp_ignore_win_conditions" = "0"
+L 09/24/2018 - 12:18:18: "sv_hud_deathmessages_spectator" = "0"
+L 09/24/2018 - 12:18:18: "mp_timer_preround_first" = "18"
+L 09/24/2018 - 12:18:18: "mp_switchteams_each_game" = "0"
+L 09/24/2018 - 12:18:18: "mp_cp_radio_speedup_rate" = "0.60"
+L 09/24/2018 - 12:18:18: "mp_fraglimit" = "0"
+L 09/24/2018 - 12:18:18: "mp_supply_gain_obj_cap" = "2"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_squad_color" = ""
+L 09/24/2018 - 12:18:18: "mp_forcerespawn" = "1"
+L 09/24/2018 - 12:18:18: "decalfrequency" = "10"
+L 09/24/2018 - 12:18:18: "mp_supply_gain_kill_assist_threshold" = "5"
+L 09/24/2018 - 12:18:18: "sv_map_voting_shuffle" = "1"
+L 09/24/2018 - 12:18:18: "sv_accelerate" = "10"
+L 09/24/2018 - 12:18:18: "mp_winlimit" = "2"
+L 09/24/2018 - 12:18:18: "sv_gravity" = "800"
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_squad_obstruct" = "0"
+L 09/24/2018 - 12:18:18: "sv_password" = ""
+L 09/24/2018 - 12:18:18: "ins_bot_change_difficulty" = "1"
+L 09/24/2018 - 12:18:18: "mp_supply_gain_obj_hero_cap" = "1"
+L 09/24/2018 - 12:18:18: "mp_supply_rate_winning_team_low" = "0"
+L 09/24/2018 - 12:18:18: "sv_deadvoice" = "0"
+L 09/24/2018 - 12:18:18: "sv_thirdperson_leandist" = "35"
+L 09/24/2018 - 12:18:18: "tv_password" = ""
+L 09/24/2018 - 12:18:18: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
+L 09/24/2018 - 12:18:18: "sv_specspeed" = "3"
+L 09/24/2018 - 12:18:18: server cvars end
+L 09/24/2018 - 12:18:21: Started map "la_drang" (CRC "1879756066")
+L 09/24/2018 - 12:18:21: server_cvar: "nextlevel" ""
+L 09/24/2018 - 12:18:21: server_cvar: "mp_cp_capture_time" "60"
+L 09/24/2018 - 12:18:21: server_cvar: "mp_respawnwavetime_min" "30"
+L 09/24/2018 - 12:18:21: server_cvar: "mp_respawnwavetime_max" "40"
+L 09/24/2018 - 12:18:21: server_cvar: "mp_cp_speedup_rate" "0.25"
+L 09/24/2018 - 12:18:21: server_cvar: "mp_cp_radio_speedup_rate" "0.50"
+L 09/24/2018 - 12:18:21: server_cvar: "mp_cp_speedup_max" "8"
+L 09/24/2018 - 12:18:32: "Garebear<557><STEAM_1:1:51146872><#Team_Unassigned>" joined team "#us"
+L 09/24/2018 - 12:18:32: "Garebear<557><STEAM_1:1:51146872><>" entered the game
+L 09/24/2018 - 12:18:37: "Dimitri Petrenko<553><STEAM_1:0:66462665><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:18:37: "Dimitri Petrenko<553><STEAM_1:0:66462665><>" entered the game
+L 09/24/2018 - 12:18:37: "Bepis<554><STEAM_1:0:39648097><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:18:37: "Bepis<554><STEAM_1:0:39648097><>" entered the game
+L 09/24/2018 - 12:18:45: "Bepis<554><STEAM_1:0:39648097><#nva>" joined team "#us"
+L 09/24/2018 - 12:18:53: "DerHenricus03<559><STEAM_1:0:158941909><>" connected, address "87.182.19.38:27005"
+L 09/24/2018 - 12:18:54: "DerHenricus03<559><STEAM_1:0:158941909><STEAM_1:0:158941909>" STEAM USERID validated
+L 09/24/2018 - 12:19:15: "mion<555><STEAM_1:1:61086992><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:19:15: "mion<555><STEAM_1:1:61086992><>" entered the game
+L 09/24/2018 - 12:20:08: "DerHenricus03<559><STEAM_1:0:158941909><#Team_Unassigned>" joined team "#us"
+L 09/24/2018 - 12:20:08: "DerHenricus03<559><STEAM_1:0:158941909><>" entered the game
+L 09/24/2018 - 12:20:22: "Bepis<554><STEAM_1:0:39648097><#us>" killed "mion<555><STEAM_1:1:61086992><#nva>" with "nam_m14<77>" at (-792.833252, -126.423904, 912.311218)
+L 09/24/2018 - 12:20:51: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_vz61<51>" at (429.785370, -258.725952, 790.183411)
+L 09/24/2018 - 12:20:52: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m1911<39>" at (-93.655937, -435.965515, 798.031250)
+L 09/24/2018 - 12:21:32: "mion<555><STEAM_1:1:61086992><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_rpk<34>" at (30.650181, -432.867554, 684.807678)
+L 09/24/2018 - 12:21:55: "Bepis<554><STEAM_1:0:39648097><#us>" killed "mion<555><STEAM_1:1:61086992><#nva>" with "nam_m14<77>" at (-764.196777, -265.995605, 911.638306)
+L 09/24/2018 - 12:21:55: "DerHenricus03<559><STEAM_1:0:158941909><#us>" joined team "#nva"
+L 09/24/2018 - 12:21:57: "mion<555><STEAM_1:1:61086992><#nva>" disconnected (reason "Disconnected.")
+L 09/24/2018 - 12:22:06: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (125.677032, -877.911011, 748.591858)
+L 09/24/2018 - 12:22:33: Team "#us" triggered "obj_captured" (object "")
+L 09/24/2018 - 12:22:33: "Bepis<554><STEAM_1:0:39648097><#us>" triggered "obj_captured" (name "")
+L 09/24/2018 - 12:22:43: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_akm<74>" at (392.267548, 15.435380, 818.031250)
+L 09/24/2018 - 12:22:55: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (1444.736816, 174.816574, 543.895386)
+L 09/24/2018 - 12:23:05: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_sks<69>" at (1888.812866, 1510.704834, 351.710480)
+L 09/24/2018 - 12:23:48: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_sks<69>" at (843.455994, 1154.296387, 834.210815)
+L 09/24/2018 - 12:23:58: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_sks<69>" at (821.454956, 1024.807617, 831.538635)
+L 09/24/2018 - 12:24:24: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_sks<69>" at (-691.825562, 1397.850586, 692.438049)
+L 09/24/2018 - 12:24:29: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_sks<69>" at (-1027.085327, 1215.779053, 680.585999)
+L 09/24/2018 - 12:24:51: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (1593.718506, 2824.930664, 824.078674)
+L 09/24/2018 - 12:25:04: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (2422.091064, 3171.432373, 882.439392)
+L 09/24/2018 - 12:25:23: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_svd<56>" at (2710.430420, 2427.423096, 503.654175)
+L 09/24/2018 - 12:25:30: "Bepis<554><STEAM_1:0:39648097><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_python<44>" at (3836.906494, 1590.796875, 260.886475)
+L 09/24/2018 - 12:25:56: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_makarov<46>" at (3387.288330, 2784.796875, 774.556702)
+L 09/24/2018 - 12:26:00: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (3157.393555, 2917.082275, 784.782837)
+L 09/24/2018 - 12:26:21: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (3193.220947, 2850.365723, 786.750000)
+L 09/24/2018 - 12:26:41: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_makarov<46>" at (2589.085205, 3088.928955, 832.811951)
+L 09/24/2018 - 12:26:50: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_mg42<36>" at (2056.074219, 3255.906250, 1021.001221)
+L 09/24/2018 - 12:27:15: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_mg42<36>" at (1216.904663, 454.507965, 663.731262)
+L 09/24/2018 - 12:27:17: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (2155.828369, 3261.722168, 1010.720459)
+L 09/24/2018 - 12:27:46: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (2262.778809, 3934.875977, 1052.031250)
+L 09/24/2018 - 12:27:54: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_mg42<36>" at (2710.328369, 3130.668701, 773.521545)
+L 09/24/2018 - 12:28:21: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_thompson_m1928a1<58>" at (2961.583984, 2803.305420, 803.201050)
+L 09/24/2018 - 12:28:37: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_vz61<51>" at (3091.409912, 2944.793945, 783.266663)
+L 09/24/2018 - 12:28:37: Team "#nva" triggered "Round_Win"
+L 09/24/2018 - 12:28:46: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" joined team "#Team_Spectators"
+L 09/24/2018 - 12:28:52: "Bepis<554><STEAM_1:0:39648097><#us>" joined team "#nva"
+L 09/24/2018 - 12:28:52: "Garebear<557><STEAM_1:1:51146872><#us>" joined team "#nva"
+L 09/24/2018 - 12:28:52: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" joined team "#us"
+L 09/24/2018 - 12:28:54: "Dimitri Petrenko<553><STEAM_1:0:66462665><#Team_Spectators>" joined team "#us"
+L 09/24/2018 - 12:30:22: "Jeromoris<560><STEAM_1:0:18729569><>" connected, address "185.50.220.80:27005"
+L 09/24/2018 - 12:30:22: "Jeromoris<560><STEAM_1:0:18729569><STEAM_1:0:18729569>" STEAM USERID validated
+L 09/24/2018 - 12:30:24: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_m40a1<53>" at (794.036133, -843.074341, 795.567566)
+L 09/24/2018 - 12:30:52: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "DerHenricus03<559><STEAM_1:0:158941909><#us>" with "nam_svd<56>" at (578.968750, -626.968750, 798.971191)
+L 09/24/2018 - 12:30:54: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m40a1<53>" at (-152.375092, 125.752869, 799.609619)
+L 09/24/2018 - 12:30:58: "Jeromoris<560><STEAM_1:0:18729569><#Team_Unassigned>" joined team "#us"
+L 09/24/2018 - 12:30:58: "Jeromoris<560><STEAM_1:0:18729569><>" entered the game
+L 09/24/2018 - 12:31:20: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_m40a1<53>" at (-42.652321, 336.410278, 780.708496)
+L 09/24/2018 - 12:32:52: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m40a1<53>" at (30.636946, 897.015259, 785.687683)
+L 09/24/2018 - 12:33:35: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "DerHenricus03<559><STEAM_1:0:158941909><#us>" with "grenade_nam_f1<22>" at (-317.672211, -125.031250, 803.558594)
+L 09/24/2018 - 12:34:56: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m40a1<53>" at (354.150940, -301.509583, 785.317749)
+L 09/24/2018 - 12:35:13: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_m40a1<53>" at (467.333618, 107.582123, 827.462097)
+L 09/24/2018 - 12:35:34: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" with "nam_mosin<54>" at (-301.559753, -2690.616943, 929.469727)
+L 09/24/2018 - 12:35:48: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "DerHenricus03<559><STEAM_1:0:158941909><#us>" with "nam_vz61<51>" at (172.212112, 251.038422, 808.031250)
+L 09/24/2018 - 12:36:07: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" committed suicide with "player"
+L 09/24/2018 - 12:36:07: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" joined team "#nva"
+L 09/24/2018 - 12:36:17: "DerHenricus03<559><STEAM_1:0:158941909><#us>" disconnected (reason "Disconnected.")
+L 09/24/2018 - 12:36:44: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" joined team "#us"
+L 09/24/2018 - 12:38:18: "Bepis<554><STEAM_1:0:39648097><#nva>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" with "nam_vz61<51>" at (-1949.659790, 275.830627, 326.079895)
+L 09/24/2018 - 12:39:23: Team "#nva" triggered "Round_Win"
+L 09/24/2018 - 12:40:08: server_cvar: "nextlevel" "vietnam_b5_night offensive"
+L 09/24/2018 - 12:40:14: Loading map "vietnam_b5_night"
+L 09/24/2018 - 12:40:14: server cvars start
+L 09/24/2018 - 12:40:14: "sv_maxspeed" = "1000.000000"
+L 09/24/2018 - 12:40:14: "mp_ignore_timer_conditions" = "0"
+L 09/24/2018 - 12:40:14: "spec_allow_bots" = "0"
+L 09/24/2018 - 12:40:14: "sv_rollangle" = "0"
+L 09/24/2018 - 12:40:14: "ins_teamsize" = "0"
+L 09/24/2018 - 12:40:14: "mp_cp_proximity_check_frequency" = "3"
+L 09/24/2018 - 12:40:14: "mp_timer_taglines" = "17"
+L 09/24/2018 - 12:40:14: "sv_cheats" = "0"
+L 09/24/2018 - 12:40:14: "r_VehicleViewDampen" = "1"
+L 09/24/2018 - 12:40:14: "doi_bot_difficulty" = "0"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_party_color" = ""
+L 09/24/2018 - 12:40:14: "mp_allowNPCs" = "1"
+L 09/24/2018 - 12:40:14: "sv_deadtalk_team" = "1"
+L 09/24/2018 - 12:40:14: "mp_timer_voting" = "15"
+L 09/24/2018 - 12:40:14: "mp_maxgames" = "1"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_friend_obstruct" = "0"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_vip_color" = ""
+L 09/24/2018 - 12:40:14: "sv_stopspeed_prone" = "45"
+L 09/24/2018 - 12:40:14: "mp_flashlight" = "0"
+L 09/24/2018 - 12:40:14: "mp_maxrounds" = "3"
+L 09/24/2018 - 12:40:14: "sv_tags" = "battleye"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_height" = "20"
+L 09/24/2018 - 12:40:14: "sv_stepsize" = "18"
+L 09/24/2018 - 12:40:14: "mp_teamlist" = "hgrunt;scientist"
+L 09/24/2018 - 12:40:14: "sv_alltalk" = "1"
+L 09/24/2018 - 12:40:14: "mp_timer_pregame" = "10"
+L 09/24/2018 - 12:40:14: "doi_coop_bot_ranking_officer" = "6"
+L 09/24/2018 - 12:40:14: "mp_footsteps" = "1"
+L 09/24/2018 - 12:40:14: "mp_supply_rate_losing_team_low" = "0"
+L 09/24/2018 - 12:40:14: "sv_noclipaccelerate" = "5"
+L 09/24/2018 - 12:40:14: "mp_timer_preround_switch" = "30"
+L 09/24/2018 - 12:40:14: "sv_hud_deathmessages" = "0"
+L 09/24/2018 - 12:40:14: "sv_wateraccelerate" = "10"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_mindist" = "25"
+L 09/24/2018 - 12:40:14: "sv_playlist" = "nam/mp_battles"
+L 09/24/2018 - 12:40:14: "mp_autocrosshair" = "1"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_aimangle" = "45"
+L 09/24/2018 - 12:40:14: "solo_timer_pregame" = "0"
+L 09/24/2018 - 12:40:14: "sv_rollspeed" = "200"
+L 09/24/2018 - 12:40:14: "sv_airaccelerate" = "10"
+L 09/24/2018 - 12:40:14: "mp_teams_unbalance_limit" = "1"
+L 09/24/2018 - 12:40:14: "mp_timelimit" = "20"
+L 09/24/2018 - 12:40:14: "sv_deadtalk" = "0"
+L 09/24/2018 - 12:40:14: "mp_supply_gain_obj_destroyed" = "1"
+L 09/24/2018 - 12:40:14: "sv_alltalk_dead" = "0"
+L 09/24/2018 - 12:40:14: "mp_minteamplayers" = "1"
+L 09/24/2018 - 12:40:14: "mp_fadetoblack" = "0"
+L 09/24/2018 - 12:40:14: "mp_cp_proximity_distance" = "3500"
+L 09/24/2018 - 12:40:14: "sv_alltalk_endgame" = "1"
+L 09/24/2018 - 12:40:14: "sv_waterfriction" = "1"
+L 09/24/2018 - 12:40:14: "mp_spawnprotectiontime_navspawn" = "15"
+L 09/24/2018 - 12:40:14: "sv_steamgroup" = ""
+L 09/24/2018 - 12:40:14: "mp_friendlyfire_explosives" = "0"
+L 09/24/2018 - 12:40:14: "mp_lobbytime" = "10"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator" = "1"
+L 09/24/2018 - 12:40:14: "mp_cp_capture_time" = "60"
+L 09/24/2018 - 12:40:14: "sv_hud_enemy_wave_display" = "1"
+L 09/24/2018 - 12:40:14: "mp_cp_speedup_max" = "8"
+L 09/24/2018 - 12:40:14: "mp_supply_rate_losing_team_high" = "0"
+L 09/24/2018 - 12:40:14: "mp_supply_gain" = "1"
+L 09/24/2018 - 12:40:14: "coop" = "0"
+L 09/24/2018 - 12:40:14: "sv_hud_scoreboard_show_score_dead" = "1"
+L 09/24/2018 - 12:40:14: "nextlevel" = "vietnam_b5_night offensive"
+L 09/24/2018 - 12:40:14: "mp_coop_lobbysize" = "6"
+L 09/24/2018 - 12:40:14: "sv_stopspeed" = "75.000000"
+L 09/24/2018 - 12:40:14: "sv_specaccelerate" = "5"
+L 09/24/2018 - 12:40:14: "deathmatch" = "1"
+L 09/24/2018 - 12:40:14: "ins_bot_difficulty" = "1"
+L 09/24/2018 - 12:40:14: "tv_enable" = "0"
+L 09/24/2018 - 12:40:14: "mp_supply_gain_regroup" = "1"
+L 09/24/2018 - 12:40:14: "mp_supply_rate_winning_team_high" = "0"
+L 09/24/2018 - 12:40:14: "mp_switchteams_each_round" = "1"
+L 09/24/2018 - 12:40:14: "doi_coop_bot_ranking" = "1"
+L 09/24/2018 - 12:40:14: "mp_timer_postround" = "15"
+L 09/24/2018 - 12:40:14: "sv_hud_scoreboard_show_score" = "0"
+L 09/24/2018 - 12:40:14: "mp_falldamage" = "0"
+L 09/24/2018 - 12:40:14: "mp_freezetime" = "15"
+L 09/24/2018 - 12:40:14: "mp_extract_point" = "0"
+L 09/24/2018 - 12:40:14: "mp_cp_speedup_rate" = "0.25"
+L 09/24/2018 - 12:40:14: "sv_alltalk_intermission" = "1"
+L 09/24/2018 - 12:40:14: "doi_coop_lobby_size" = "8"
+L 09/24/2018 - 12:40:14: "mp_respawnwavetime_min" = "30"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_teammate_obstruct" = "1"
+L 09/24/2018 - 12:40:14: "sv_voiceenable" = "1"
+L 09/24/2018 - 12:40:14: "mp_assassination_single_point_max" = "16"
+L 09/24/2018 - 12:40:14: "sv_bounce" = "0"
+L 09/24/2018 - 12:40:14: "mp_spawnprotectontime" = "30"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_fov" = "75"
+L 09/24/2018 - 12:40:14: "mp_weaponstay" = "0"
+L 09/24/2018 - 12:40:14: "sv_changelevel_next_round" = "0"
+L 09/24/2018 - 12:40:14: "mp_winlimit_coop" = "1"
+L 09/24/2018 - 12:40:14: "mp_supply_gain_kill_assist_amount" = "1"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_teammate_color" = ""
+L 09/24/2018 - 12:40:14: "mp_scrambleteams_auto" = "0"
+L 09/24/2018 - 12:40:14: "mp_friendlyfire" = "1"
+L 09/24/2018 - 12:40:14: "sv_noclipspeed" = "5"
+L 09/24/2018 - 12:40:14: "sv_allchat" = "1"
+L 09/24/2018 - 12:40:14: "mp_joinwaittime" = "20"
+L 09/24/2018 - 12:40:14: "mp_roundlives" = "0"
+L 09/24/2018 - 12:40:14: "sv_map_voting" = "1"
+L 09/24/2018 - 12:40:14: "mp_supply_token_max" = "30"
+L 09/24/2018 - 12:40:14: "mp_supply_token_bot_base" = "18"
+L 09/24/2018 - 12:40:14: "mp_scrambleteams_auto_windifference" = "3"
+L 09/24/2018 - 12:40:14: "solo_timer_preround" = "15"
+L 09/24/2018 - 12:40:14: "mp_ambush_single_point_max" = "10"
+L 09/24/2018 - 12:40:14: "mp_timer_postgame" = "10"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_dist" = "100"
+L 09/24/2018 - 12:40:14: "mp_respawnwavetime_max" = "40"
+L 09/24/2018 - 12:40:14: "sv_footsteps" = "1"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
+L 09/24/2018 - 12:40:14: "mp_timer_preround" = "15"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_party_obstruct" = "0"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_aimdist" = "1000"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_useangle" = "15"
+L 09/24/2018 - 12:40:14: "mp_cp_proximity_distance_sabotage" = "1500"
+L 09/24/2018 - 12:40:14: "mp_cp_deteriorate_time" = "0"
+L 09/24/2018 - 12:40:14: "mp_searchdestroy_single_cache_max" = "12"
+L 09/24/2018 - 12:40:14: "tv_relaypassword" = ""
+L 09/24/2018 - 12:40:14: "mp_teamplay" = "0"
+L 09/24/2018 - 12:40:14: "mp_supply_token_base" = "20"
+L 09/24/2018 - 12:40:14: "sv_specnoclip" = "1"
+L 09/24/2018 - 12:40:14: "sv_friction" = "4"
+L 09/24/2018 - 12:40:14: "mp_switchteams_reset_supply" = "1"
+L 09/24/2018 - 12:40:14: "sv_contact" = ""
+L 09/24/2018 - 12:40:14: "sv_ruleset" = ""
+L 09/24/2018 - 12:40:14: "sv_thirdperson" = "0"
+L 09/24/2018 - 12:40:14: "mp_roundtime" = "600"
+L 09/24/2018 - 12:40:14: "doi_coop_cp_proximity_check_frequency" = "5.0"
+L 09/24/2018 - 12:40:14: "mp_ignore_win_conditions" = "0"
+L 09/24/2018 - 12:40:14: "sv_hud_deathmessages_spectator" = "0"
+L 09/24/2018 - 12:40:14: "mp_timer_preround_first" = "18"
+L 09/24/2018 - 12:40:14: "mp_switchteams_each_game" = "0"
+L 09/24/2018 - 12:40:14: "mp_cp_radio_speedup_rate" = "0.50"
+L 09/24/2018 - 12:40:14: "mp_fraglimit" = "0"
+L 09/24/2018 - 12:40:14: "mp_supply_gain_obj_cap" = "2"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_squad_color" = ""
+L 09/24/2018 - 12:40:14: "mp_forcerespawn" = "1"
+L 09/24/2018 - 12:40:14: "decalfrequency" = "10"
+L 09/24/2018 - 12:40:14: "mp_supply_gain_kill_assist_threshold" = "5"
+L 09/24/2018 - 12:40:14: "sv_map_voting_shuffle" = "1"
+L 09/24/2018 - 12:40:14: "sv_accelerate" = "10"
+L 09/24/2018 - 12:40:14: "mp_winlimit" = "2"
+L 09/24/2018 - 12:40:14: "sv_gravity" = "800"
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_squad_obstruct" = "0"
+L 09/24/2018 - 12:40:14: "sv_password" = ""
+L 09/24/2018 - 12:40:14: "ins_bot_change_difficulty" = "1"
+L 09/24/2018 - 12:40:14: "mp_supply_gain_obj_hero_cap" = "1"
+L 09/24/2018 - 12:40:14: "mp_supply_rate_winning_team_low" = "0"
+L 09/24/2018 - 12:40:14: "sv_deadvoice" = "0"
+L 09/24/2018 - 12:40:14: "sv_thirdperson_leandist" = "35"
+L 09/24/2018 - 12:40:14: "tv_password" = ""
+L 09/24/2018 - 12:40:14: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
+L 09/24/2018 - 12:40:14: "sv_specspeed" = "3"
+L 09/24/2018 - 12:40:14: server cvars end
+L 09/24/2018 - 12:40:16: Started map "vietnam_b5_night" (CRC "1084427597")
+L 09/24/2018 - 12:40:16: server_cvar: "nextlevel" ""
+L 09/24/2018 - 12:40:25: "Garebear<557><STEAM_1:1:51146872><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:40:25: "Garebear<557><STEAM_1:1:51146872><>" entered the game
+L 09/24/2018 - 12:40:26: "Jeromoris<560><STEAM_1:0:18729569><#Team_Unassigned>" joined team "#us"
+L 09/24/2018 - 12:40:26: "Jeromoris<560><STEAM_1:0:18729569><>" entered the game
+L 09/24/2018 - 12:40:26: "Bepis<554><STEAM_1:0:39648097><#Team_Unassigned>" joined team "#us"
+L 09/24/2018 - 12:40:26: "Bepis<554><STEAM_1:0:39648097><>" entered the game
+L 09/24/2018 - 12:40:29: "Dimitri Petrenko<553><STEAM_1:0:66462665><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:40:29: "Dimitri Petrenko<553><STEAM_1:0:66462665><>" entered the game
+L 09/24/2018 - 12:41:30: "Jeromoris<560><STEAM_1:0:18729569><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m16a1<66>" at (-1060.016724, -3456.795654, -56.968750)
+L 09/24/2018 - 12:42:06: "Jeromoris<560><STEAM_1:0:18729569><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m16a1<66>" at (-217.359451, -4183.390137, -74.015251)
+L 09/24/2018 - 12:43:07: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Jeromoris<560><STEAM_1:0:18729569><#us>" with "nam_vz58<73>" at (-984.456726, -2590.901367, -56.968750)
+L 09/24/2018 - 12:43:11: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_vz58<73>" at (362.245178, -1907.477417, -56.968750)
+L 09/24/2018 - 12:43:44: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_vz58<73>" at (-968.472107, -502.089935, -69.509682)
+L 09/24/2018 - 12:43:54: "Jeromoris<560><STEAM_1:0:18729569><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m16a1<66>" at (-1246.915649, -1679.869629, -56.975372)
+L 09/24/2018 - 12:44:09: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "Jeromoris<560><STEAM_1:0:18729569><#us>" with "nam_svd<56>" at (-1348.905518, -1430.868774, -56.968750)
+L 09/24/2018 - 12:44:17: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m1garand<76>" at (-1401.740967, -1382.694092, -56.968750)
+L 09/24/2018 - 12:44:56: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "grenade_m26<19>" at (269.581970, -2772.944092, -52.412567)
+L 09/24/2018 - 12:44:56: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_vz58<73>" at (-692.412964, -1321.749390, -110.971786)
+L 09/24/2018 - 12:45:08: "Jeromoris<560><STEAM_1:0:18729569><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m16a1<66>" at (-1692.728394, -2001.621704, -52.013916)
+L 09/24/2018 - 12:45:39: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m1garand<76>" at (-2672.496338, -1996.349365, 372.594055)
+L 09/24/2018 - 12:45:53: "Captain Packet loss<561><STEAM_1:0:36469303><>" connected, address "146.52.218.14:27005"
+L 09/24/2018 - 12:45:54: "Captain Packet loss<561><STEAM_1:0:36469303><STEAM_1:0:36469303>" STEAM USERID validated
+L 09/24/2018 - 12:46:08: "Garebear<557><STEAM_1:1:51146872><#nva>" killed "Jeromoris<560><STEAM_1:0:18729569><#us>" with "nam_akm<74>" at (-1746.235962, -1069.233154, 48.031250)
+L 09/24/2018 - 12:46:15: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_m1911<39>" at (-1583.924805, -1188.174072, -56.968750)
+L 09/24/2018 - 12:46:16: Team "#us" triggered "Round_Win"
+L 09/24/2018 - 12:46:31: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" joined team "#us"
+L 09/24/2018 - 12:46:31: "Bepis<554><STEAM_1:0:39648097><#us>" joined team "#nva"
+L 09/24/2018 - 12:46:31: "Jeromoris<560><STEAM_1:0:18729569><#us>" joined team "#nva"
+L 09/24/2018 - 12:46:31: "Garebear<557><STEAM_1:1:51146872><#nva>" joined team "#us"
+L 09/24/2018 - 12:46:56: "Captain Packet loss<561><STEAM_1:0:36469303><#Team_Unassigned>" joined team "#nva"
+L 09/24/2018 - 12:46:56: "Captain Packet loss<561><STEAM_1:0:36469303><>" entered the game
+L 09/24/2018 - 12:47:03: "Captain Packet loss<561><STEAM_1:0:36469303><#nva>" joined team "#us"
+L 09/24/2018 - 12:47:04: "Garebear<557><STEAM_1:1:51146872><#us>" committed suicide with "world"
+L 09/24/2018 - 12:47:04: "Captain Packet loss<561><STEAM_1:0:36469303><#us>" joined team "#nva"
+L 09/24/2018 - 12:47:39: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_m1garand<76>" at (284.622223, -4284.328125, -56.968750)
+L 09/24/2018 - 12:47:56: "Garebear<557><STEAM_1:1:51146872><#us>" committed suicide with "world"
+L 09/24/2018 - 12:47:59: "Captain Packet loss<561><STEAM_1:0:36469303><#nva>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#us

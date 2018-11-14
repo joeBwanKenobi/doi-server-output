@@ -1,0 +1,14 @@
+# DOI - Server - Output
+
+1. set all variables to zero
+	* display_string = ""
+
+2. read input from DOI Server line by line from stdin
+
+3. getConnectionType()
+	if line contains IP address and 'connected', line is retruns type = Connection
+	if line contains 'disconnected', retruns type = Disconnect
+	if line contains 'killed', retruns type = killed
+	if line contains 'STEAM USERID', returns type = idValidation
+
+4. 

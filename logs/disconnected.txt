@@ -1,0 +1,35 @@
+L 09/24/2018 - 12:21:57: "mion<555><STEAM_1:1:61086992><#nva>" disconnected (reason "Disconnected.")
+L 09/24/2018 - 12:22:06: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (125.677032, -877.911011, 748.591858)
+L 09/24/2018 - 12:22:33: Team "#us" triggered "obj_captured" (object "")
+L 09/24/2018 - 12:22:33: "Bepis<554><STEAM_1:0:39648097><#us>" triggered "obj_captured" (name "")
+L 09/24/2018 - 12:22:43: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_akm<74>" at (392.267548, 15.435380, 818.031250)
+L 09/24/2018 - 12:22:55: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (1444.736816, 174.816574, 543.895386)
+L 09/24/2018 - 12:23:05: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_sks<69>" at (1888.812866, 1510.704834, 351.710480)
+L 09/24/2018 - 12:23:48: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_sks<69>" at (843.455994, 1154.296387, 834.210815)
+L 09/24/2018 - 12:23:58: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_sks<69>" at (821.454956, 1024.807617, 831.538635)
+L 09/24/2018 - 12:24:24: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_sks<69>" at (-691.825562, 1397.850586, 692.438049)
+L 09/24/2018 - 12:24:29: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_sks<69>" at (-1027.085327, 1215.779053, 680.585999)
+L 09/24/2018 - 12:24:51: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (1593.718506, 2824.930664, 824.078674)
+L 09/24/2018 - 12:25:04: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (2422.091064, 3171.432373, 882.439392)
+L 09/24/2018 - 12:25:23: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_svd<56>" at (2710.430420, 2427.423096, 503.654175)
+L 09/24/2018 - 12:25:30: "Bepis<554><STEAM_1:0:39648097><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_python<44>" at (3836.906494, 1590.796875, 260.886475)
+L 09/24/2018 - 12:25:56: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_makarov<46>" at (3387.288330, 2784.796875, 774.556702)
+L 09/24/2018 - 12:26:00: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (3157.393555, 2917.082275, 784.782837)
+L 09/24/2018 - 12:26:21: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (3193.220947, 2850.365723, 786.750000)
+L 09/24/2018 - 12:26:41: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_makarov<46>" at (2589.085205, 3088.928955, 832.811951)
+L 09/24/2018 - 12:26:50: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_mg42<36>" at (2056.074219, 3255.906250, 1021.001221)
+L 09/24/2018 - 12:27:15: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_mg42<36>" at (1216.904663, 454.507965, 663.731262)
+L 09/24/2018 - 12:27:17: "Garebear<557><STEAM_1:1:51146872><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_m14<77>" at (2155.828369, 3261.722168, 1010.720459)
+L 09/24/2018 - 12:27:46: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (2262.778809, 3934.875977, 1052.031250)
+L 09/24/2018 - 12:27:54: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#us>" with "nam_mg42<36>" at (2710.328369, 3130.668701, 773.521545)
+L 09/24/2018 - 12:28:21: "Bepis<554><STEAM_1:0:39648097><#us>" killed "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" with "nam_thompson_m1928a1<58>" at (2961.583984, 2803.305420, 803.201050)
+L 09/24/2018 - 12:28:37: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" killed "Bepis<554><STEAM_1:0:39648097><#us>" with "nam_vz61<51>" at (3091.409912, 2944.793945, 783.266663)
+L 09/24/2018 - 12:28:37: Team "#nva" triggered "Round_Win"
+L 09/24/2018 - 12:28:46: "Dimitri Petrenko<553><STEAM_1:0:66462665><#nva>" joined team "#Team_Spectators"
+L 09/24/2018 - 12:28:52: "Bepis<554><STEAM_1:0:39648097><#us>" joined team "#nva"
+L 09/24/2018 - 12:28:52: "Garebear<557><STEAM_1:1:51146872><#us>" joined team "#nva"
+L 09/24/2018 - 12:28:52: "DerHenricus03<559><STEAM_1:0:158941909><#nva>" joined team "#us"
+L 09/24/2018 - 12:28:54: "Dimitri Petrenko<553><STEAM_1:0:66462665><#Team_Spectators>" joined team "#us"
+L 09/24/2018 - 12:30:22: "Jeromoris<560><STEAM_1:0:18729569><>" connected, address "185.50.220.80:27005"
+L 09/24/2018 - 12:30:22: "Jeromoris<560><STEAM_1:0:18729569><STEAM_1:0:18729569>" STEAM USERID validated
+L 09/24/2018 - 12:30:24: "Dimitri Petrenko<553><STEAM_1:0:66462665><#us>" killed "Bepis<554><STEAM_1:0:39648097><#nva>" with "nam_m40a1<53>" at (794.036133, -843.074341, 795.567566)
