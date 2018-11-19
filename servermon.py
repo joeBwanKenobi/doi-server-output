@@ -7,14 +7,26 @@ class Connection:
 	 The Connection class will be used to create and update a players
 	 status during their time on the server.
 	"""
-	def __init__(self, steamID, uname, IP, team, connect_time, disconnect_time):
+	def __init__(self, c_date, c_time, steamID, uname, ip, team_cur=None):
 		self.steamID = steamID
 		self.uname = uname
-		self.IP = IP
-		self.team = team
-		self.connect_time = connect_time
-		self.disconnect_time = disconnect_time
+		self.ip = ip
+		self.team = team_cur
+		self.c_date = c_date
+		self.c_time = c_time
 
+	@property
+	def description(self):
+		return "{} {} {} - {} connection created from address: {}".format(\
+			self.c_date, self.c_time, self.uname, self.steamID, self.ip)
+
+	@classmethod
+	def from_string(cls, line):
+		c = parseInfo(line)
+		print(c)
+		c_date, c_time, steamID, uname, ip, team_cur = c[0], c[1], c[2], c[3], \
+		c[4], c[5]
+		return cls(c_date, c_time, steamID, ip, team_cur)
 
 def handleLine(line):
 	"""
@@ -30,32 +42,39 @@ def handleLine(line):
 
 	if ' connected' in line:
 		print('Handling Connection Line')
-		parseInfo(line)
-		print(line)
+		c1 = Connection.from_string(line)
+		print(c1.description)
+		
 	elif 'disconnected' in line:
-		print('Handling Disconnection Line')
-		parseInfo(line)
-		print(line)
+		pass
+		# print('Handling Disconnection Line')
+		# parseInfo(line)
+		# print(line)
 	elif 'joined' in line:
-		print('Handling Joined Line')
-		parseInfo(line)
-		print(line)
+		pass
+		# print('Handling Joined Line')
+		# parseInfo(line)
+		# print(line)
 	elif 'killed' in line:
-		print('Handling Killed Line')
-		parseInfo(line)
-		print(line)
+		pass
+		# print('Handling Killed Line')
+		# parseInfo(line)
+		# print(line)
 	elif ' say' in line:
-		print('Handling Global Say Line')
-		parseInfo(line)
-		print(line)
+		pass
+		# print('Handling Global Say Line')
+		# parseInfo(line)
+		# print(line)
 	elif 'say_team' in line:
-		print('Handling Global Say Line')
-		parseInfo(line)
-		print(line)
+		pass
+		# print('Handling Global Say Line')
+		# parseInfo(line)
+		# print(line)
 	elif 'triggered' in line:
-		print('Handling Triggered / Win Line')
-		parseInfo(line)
-		print(line)
+		pass
+		# print('Handling Triggered / Win Line')
+		# parseInfo(line)
+		# print(line)
 	else:
 		print('No Action Words found in line.')
 		# parseInfo(line)
@@ -80,8 +99,6 @@ def parseInfo(line):
 	team_cur = ""
 	team_new = ""
 	team_join = ""
-	connect_time = ""
-	disconnect_time = ""
 
 	"""
 	Set patterns to search for
@@ -125,7 +142,8 @@ def parseInfo(line):
 		team_join = team_join_pattern.search(line).group(2)
 
 	
-	return print('\x1b[6;30;42m' + date, time, uname, ip, steamID, coords, team_cur, team_join + '\x1b[0m')
+	# print('\x1b[6;30;42m' + date, time, uname, ip, steamID, coords, team_cur, team_join + '\x1b[0m')
+	return date, time, steamID, uname, ip, team_cur, team_join, coords
 
 for line in sys.stdin:
 	# parseInfo(line)
