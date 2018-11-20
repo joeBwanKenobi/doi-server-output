@@ -4,11 +4,18 @@ import datetime
 import urllib.request
 import ast
 
-class Connection:
+class IterConnection(type):
+	def __iter__(cls):
+		return iter(cls.instances)
+
+class Connection(metaclass=IterConnection):
 	"""
 	 The Connection class will be used to create and update a players
 	 status during their time on the server.
 	"""
+	instances = []
+	count = 0
+
 	def __init__(self, c_date, c_time, steam_id, uname, ip, team_cur=None):
 		self.steam_id = steam_id
 		self.uname = uname
@@ -16,6 +23,7 @@ class Connection:
 		self.team = team_cur
 		self.c_date = c_date
 		self.c_time = c_time
+		self.instances.append(self)
 		"""
 		Need to implement hashfile to store ip's and loc info to save 
 		get_ip() calls
@@ -23,20 +31,19 @@ class Connection:
 		self.location = self.get_location(ip)
 
 	def get_location(self, ip):
-		print('IP ADDRESS IN get_location(): ' + ip)
 		with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
 			loc = ast.literal_eval(response.read().decode('UTF-8'))
 		return loc
 
 	@property
 	def description(self):
-		return "{} {} {} - {} connection created from address: {}\n {}".format(\
-			self.c_date, self.c_time, self.uname, self.steam_id, self.ip, self.location)
+		return "L {}-{} > connection from address: {}\n{} {}\n{}, {}, {}\n{}".format(\
+			self.c_date, self.c_time, self.ip, self.uname, self.steam_id, self.location['city'], \
+			self.location['region'], self.location['country'], self.location['org'])
 
 	@classmethod
 	def from_string(cls, line):
 		c = parse_info(line)
-		print(c)
 		c_date, c_time, steam_id, uname, ip, team_cur = c[0], c[1], c[2], c[3], \
 		c[4], c[5]
 		return cls(c_date, c_time, steam_id, uname, ip, team_cur)
@@ -62,7 +69,7 @@ def handle_line(line):
 	
 
 	if ' connected' in line:
-		print('Handling Connection Line')
+		# print('Handling Connection Line')
 		c1 = Connection.from_string(line)
 		print(c1.description)
 		
@@ -169,3 +176,6 @@ def parse_info(line):
 for line in sys.stdin:
 	# parse_info(line)
 	handle_line(line)
+
+# for c in Connection:
+# 	print(c)
