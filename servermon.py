@@ -20,7 +20,13 @@ class Connection:
 		Need to implement hashfile to store ip's and loc info to save 
 		get_ip() calls
 		"""
-		self.location = self.get_location()
+		self.location = self.get_location(ip)
+
+	def get_location(self, ip):
+		print('IP ADDRESS IN get_location(): ' + ip)
+		with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
+			loc = ast.literal_eval(response.read().decode('UTF-8'))
+		return loc
 
 	@property
 	def description(self):
@@ -36,11 +42,11 @@ class Connection:
 		return cls(c_date, c_time, steam_id, uname, ip, team_cur)
 
 
-def get_location(ip):
-		print('IP ADDRESS IN get_location(): ' + ip)
-		with urllib.request.urlopen('https://ipinfo.io/{}'.format(ip)) as response:
-			loc = ast.literal_eval(response.read().decode('UTF-8'))
-		return loc
+# def get_location(ip):
+# 		print('IP ADDRESS IN get_location(): ' + ip)
+# 		with urllib.request.urlopen('https://ipinfo.io/{}'.format(ip)) as response:
+# 			loc = ast.literal_eval(response.read().decode('UTF-8'))
+# 		return loc
 
 
 def handle_line(line):
