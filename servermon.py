@@ -1,34 +1,49 @@
 import sys
 import re
 import datetime
+import urllib.request
+import ast
 
 class Connection:
 	"""
 	 The Connection class will be used to create and update a players
 	 status during their time on the server.
 	"""
-	def __init__(self, c_date, c_time, steamID, uname, ip, team_cur=None):
-		self.steamID = steamID
+	def __init__(self, c_date, c_time, steam_id, uname, ip, team_cur=None):
+		self.steam_id = steam_id
 		self.uname = uname
 		self.ip = ip
 		self.team = team_cur
 		self.c_date = c_date
 		self.c_time = c_time
+		"""
+		Need to implement hashfile to store ip's and loc info to save 
+		get_ip() calls
+		"""
+		self.location = self.get_location()
 
 	@property
 	def description(self):
-		return "{} {} {} - {} connection created from address: {}".format(\
-			self.c_date, self.c_time, self.uname, self.steamID, self.ip)
+		return "{} {} {} - {} connection created from address: {}\n {}".format(\
+			self.c_date, self.c_time, self.uname, self.steam_id, self.ip, self.location)
 
 	@classmethod
 	def from_string(cls, line):
-		c = parseInfo(line)
+		c = parse_info(line)
 		print(c)
-		c_date, c_time, steamID, uname, ip, team_cur = c[0], c[1], c[2], c[3], \
+		c_date, c_time, steam_id, uname, ip, team_cur = c[0], c[1], c[2], c[3], \
 		c[4], c[5]
-		return cls(c_date, c_time, steamID, ip, team_cur)
+		return cls(c_date, c_time, steam_id, uname, ip, team_cur)
 
-def handleLine(line):
+
+def get_location(ip):
+		print('IP ADDRESS IN get_location(): ' + ip)
+		with urllib.request.urlopen('https://ipinfo.io/{}'.format(ip)) as response:
+			loc = ast.literal_eval(response.read().decode('UTF-8'))
+		return loc
+
+
+def handle_line(line):
 	"""
 	Decides what to do with incoming data based on words in line,
 	connected = create connection object
@@ -48,40 +63,40 @@ def handleLine(line):
 	elif 'disconnected' in line:
 		pass
 		# print('Handling Disconnection Line')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 	elif 'joined' in line:
 		pass
 		# print('Handling Joined Line')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 	elif 'killed' in line:
 		pass
 		# print('Handling Killed Line')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 	elif ' say' in line:
 		pass
 		# print('Handling Global Say Line')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 	elif 'say_team' in line:
 		pass
 		# print('Handling Global Say Line')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 	elif 'triggered' in line:
 		pass
 		# print('Handling Triggered / Win Line')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 	else:
 		print('No Action Words found in line.')
-		# parseInfo(line)
+		# parse_info(line)
 		# print(line)
 
 
-def parseInfo(line):
+def parse_info(line):
 	"""
 	Parses incoming strings from DOI Source Server, decides if the
 	string should be returned to create a connection object, update
@@ -92,7 +107,7 @@ def parseInfo(line):
 	date = ""
 	time = ""
 	uname = ""
-	steamID = ""
+	steam_id = ""
 	coords = ""
 	weapon = ""
 	message = ""
@@ -109,7 +124,7 @@ def parseInfo(line):
 	date_pattern = re.compile(r'\d{2}/\d{2}/\d{4}')
 	time_pattern = re.compile(r'\d{2}:\d{2}:\d{2}')
 	uname_pattern = re.compile(r'"([\w\s]+)')
-	steamID_pattern = re.compile(r'STEAM_\d:\d:\d+')
+	steam_id_pattern = re.compile(r'STEAM_\d:\d:\d+')
 	coords_pattern = re.compile(r'(-?\d+\.\d+),\s(-?\d+\.\d+),\s(-?\d+\.\d+)')
 	team_cur_pattern = re.compile(r'(<#)(\w{2,15})')
 	team_join_pattern = re.compile(r'("#)(\w{2,15})')
@@ -129,8 +144,8 @@ def parseInfo(line):
 	if uname_pattern.search(line) is not None:
 		uname = uname_pattern.search(line).group(1)
 
-	if steamID_pattern.search(line) is not None:
-		steamID = steamID_pattern.search(line).group()
+	if steam_id_pattern.search(line) is not None:
+		steam_id = steam_id_pattern.search(line).group()
 
 	if coords_pattern.search(line) is not None:
 		coords = coords_pattern.search(line).group()
@@ -142,9 +157,9 @@ def parseInfo(line):
 		team_join = team_join_pattern.search(line).group(2)
 
 	
-	# print('\x1b[6;30;42m' + date, time, uname, ip, steamID, coords, team_cur, team_join + '\x1b[0m')
-	return date, time, steamID, uname, ip, team_cur, team_join, coords
+	# print('\x1b[6;30;42m' + date, time, uname, ip, steam_id, coords, team_cur, team_join + '\x1b[0m')
+	return date, time, steam_id, uname, ip, team_cur, team_join, coords
 
 for line in sys.stdin:
-	# parseInfo(line)
-	handleLine(line)
+	# parse_info(line)
+	handle_line(line)
