@@ -1,0 +1,51 @@
+Initializing Steam libraries for secure Internet server
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Logging into anonymous gameserver account.
+ failed to dlopen /media/data-drive/Steam/doi/bin/BattlEye/BEServer.so error=/media/data-drive/Steam/doi/bin/BattlEye/BEServer.so: cannot open shared object file: No such file or directory
+BattlEye Server: Initialized (v1.217)
+L 12/04/2018 - 11:43:19: server_cvar: "sv_tags" "battleye"
+L 12/04/2018 - 11:43:19: server_cvar: "sv_tags" "battleye"
+Connection to Steam servers successful.
+   Public IP is 172.73.164.22.
+Assigned anonymous gameserver Steam ID [A:1:3279205378:11506].
+VAC secure mode is activated.
+CCrashHandler - Attaching to socket -1.
+CCrashHandler - Attached and ready. (in-process)
+Server waking up from hibernation
+L 12/04/2018 - 11:43:35: "b00jum<2><STEAM_1:1:9014066><>" connected, address "172.73.164.22:27005"
+Client "b00jum" connected (172.73.164.22:27005).
+L 12/04/2018 - 11:43:35: "b00jum<2><STEAM_1:1:9014066><STEAM_1:1:9014066>" STEAM USERID validated
+BattlEye Server: Player #0 b00jum (22.164.73.172:32105) connected
+BattlEye Server: Player #0 b00jum - BE GUID: 60569cfa5dc2ab770364f29d808527a3
+BattlEye Server: Verified GUID (60569cfa5dc2ab770364f29d808527a3) of player #0 b00jum
+L 12/04/2018 - 11:43:39: "b00jum<2><STEAM_1:1:9014066><#Team_Unassigned>" joined team "#us"
+L 12/04/2018 - 11:43:39: "b00jum<2><STEAM_1:1:9014066><>" entered the game
+Setting invalid soundscape, so.market_security_spawn, as the active soundscape. There is probably no script entry matching this name. BUG THIS!
+Gamerules: entering state 'GR_STATE_STARTGAME'
+[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
+Unknown command "mp_supply_token_base"
+Gamerules: entering state 'GR_STATE_PREROUND'
+Warning:: CTrigger_CaptureZone vip_cap_2_t unable to find capture point vip_cap_2
+Warning:: CTrigger_CaptureZone vip_cap_1_t unable to find capture point vip_cap_1
+L 12/04/2018 - 11:44:21: "BOT John<3><BOT><>" connected, address "none"
+L 12/04/2018 - 11:44:21: "<3><BOT><>" entered the game
+L 12/04/2018 - 11:44:21: "BOT John<3><BOT><#Team_Unassigned>" joined team "#nva"
+NextBot tickrate changed from 0 (0.000ms) to 10 (0.156ms)
+Player inventory: Tried giving "BOT John" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+Gamerules: entering state 'GR_STATE_RND_RUNNING'
+L 12/04/2018 - 11:44:55: "BOT John<3><BOT><3>" stuck (position "-501.00 -4375.38 -57.90") (duration "1.41") L 12/04/2018 - 11:44:55:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/04/2018 - 11:44:55: "BOT John<3><BOT><3>" stuck (position "-502.50 -4375.49 -57.88") (duration "1.56") L 12/04/2018 - 11:44:55:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/04/2018 - 11:45:06: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_m40a1<53>" at (-467.920380, -4368.790527, -57.082554)
+Player inventory: Tried giving "BOT John" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+L 12/04/2018 - 11:45:39: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_m40a1<53>" at (-1575.459473, -3613.974365, 197.562500)
+Player inventory: Tried giving "BOT John" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+L 12/04/2018 - 11:46:00: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_m40a1<53>" at (-907.824646, -5050.789062, 157.659439)
+Player inventory: Tried giving "BOT John" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+L 12/04/2018 - 11:46:21: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_python<44>" at (-1028.270874, -5055.875488, 147.743515)
+Player inventory: Tried giving "BOT John" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+L 12/04/2018 - 11:46:44: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_python<44>" at (-1386.436401, -4914.393066, -11.689609)
+BattlEye Server: Player #0 b00jum disconnected
+L 12/04/2018 - 11:46:53: "b00jum<2><STEAM_1:1:9014066><#us>" disconnected (reason "Disconnected.")
+Server is hibernating
+L 12/04/2018 - 11:46:53: "BOT John<3><BOT><#nva>" disconnected (reason "Punting bot, server is hibernating")
+Dropped b00jum from server (Disconnected.)
