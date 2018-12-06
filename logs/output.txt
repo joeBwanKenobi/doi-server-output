@@ -1,1494 +1,970 @@
+./srcds_run: 32: ./srcds_run: pushd: not found
 ./srcds_run: 35: ./srcds_run: popd: not found
+Server will auto-restart if there is a crash.
 LD_LIBRARY_PATH=/media/data-drive/Steam/doi/bin:/media/data-drive/Steam/doi:/media/data-drive/Steam/doi/bin:
+# failed to dlopen /media/data-drive/Steam/doi/stdshader_dbg_srv.so error=/media/data-drive/Steam/doi/stdshader_dbg_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen /media/data-drive/Steam/doi/bin/stdshader_dbg_srv.so error=/media/data-drive/Steam/doi/bin/stdshader_dbg_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen stdshader_dbg_srv.so error=stdshader_dbg_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen /media/data-drive/Steam/doi/stdshader_dx9_srv.so error=/media/data-drive/Steam/doi/stdshader_dx9_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen /media/data-drive/Steam/doi/bin/stdshader_dx9_srv.so error=/media/data-drive/Steam/doi/bin/stdshader_dx9_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen stdshader_dx9_srv.so error=stdshader_dx9_srv.so: cannot open shared object file: No such file or directory
+#
 #Console initialized.
 #Loaded 5238 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_materials.vpk for pure server operation.
+#Loaded 5238 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_materials.vpk for pure server operation.
+#Loaded 58 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_misc.vpk for pure server operation.
 #Loaded 58 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_misc.vpk for pure server operation.
 #Loaded 778 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_models.vpk for pure server operation.
+#Loaded 778 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_models.vpk for pure server operation.
+#Loaded 3 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_particles.vpk for pure server operation.
 #Loaded 3 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_particles.vpk for pure server operation.
 #Loaded 2021 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_sound.vpk for pure server operation.
+#Loaded 2021 VPK file hashes from /media/data-drive/Steam/doi/doi/doi_sound.vpk for pure server operation.
+#Loaded 1358 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_csgo_imported.vpk for pure server operation.
 #Loaded 1358 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_csgo_imported.vpk for pure server operation.
 #Loaded 188 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_dod_imported.vpk for pure server operation.
-#Loaded 147 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_l4d2_imported.vpk for pure server operation.
-#Loaded 1 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_portal2_imported.vpk for pure server operation.
-#Loaded 1358 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_csgo_imported.vpk for pure server operation.
 #Loaded 188 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_dod_imported.vpk for pure server operation.
 #Loaded 147 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_l4d2_imported.vpk for pure server operation.
+#Loaded 147 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_l4d2_imported.vpk for pure server operation.
 #Loaded 1 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_portal2_imported.vpk for pure server operation.
+#Loaded 1 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_portal2_imported.vpk for pure server operation.
+#Loaded 1358 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_csgo_imported.vpk for pure server operation.
+#Loaded 1358 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_csgo_imported.vpk for pure server operation.
+#Loaded 188 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_dod_imported.vpk for pure server operation.
+#Loaded 188 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_dod_imported.vpk for pure server operation.
+#Loaded 147 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_l4d2_imported.vpk for pure server operation.
+#Loaded 147 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_l4d2_imported.vpk for pure server operation.
+#Loaded 1 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_portal2_imported.vpk for pure server operation.
+#Loaded 1 VPK file hashes from /media/data-drive/Steam/doi/doi/content/doi_portal2_imported.vpk for pure server operation.
+# failed to dlopen /media/data-drive/Steam/doi/doi/bin/game_shader_dx6_srv.so error=/media/data-drive/Steam/doi/doi/bin/game_shader_dx6_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen /media/data-drive/Steam/doi/bin/game_shader_dx6_srv.so error=/media/data-drive/Steam/doi/bin/game_shader_dx6_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen game_shader_dx6_srv.so error=game_shader_dx6_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen /media/data-drive/Steam/doi/doi/bin/game_shader_dx7_srv.so error=/media/data-drive/Steam/doi/doi/bin/game_shader_dx7_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen /media/data-drive/Steam/doi/bin/game_shader_dx7_srv.so error=/media/data-drive/Steam/doi/bin/game_shader_dx7_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen game_shader_dx7_srv.so error=game_shader_dx7_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen /media/data-drive/Steam/doi/doi/bin/game_shader_dx8_srv.so error=/media/data-drive/Steam/doi/doi/bin/game_shader_dx8_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen /media/data-drive/Steam/doi/bin/game_shader_dx8_srv.so error=/media/data-drive/Steam/doi/bin/game_shader_dx8_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen game_shader_dx8_srv.so error=game_shader_dx8_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen /media/data-drive/Steam/doi/doi/bin/game_shader_dx9_srv.so error=/media/data-drive/Steam/doi/doi/bin/game_shader_dx9_srv.so: cannot open shared object file: No such file or directory
+# failed to dlopen /media/data-drive/Steam/doi/bin/game_shader_dx9_srv.so error=/media/data-drive/Steam/doi/bin/game_shader_dx9_srv.so: cannot open shared object file: No such file or directory
 # failed to dlopen game_shader_dx9_srv.so error=game_shader_dx9_srv.so: cannot open shared object file: No such file or directory
+#ConVarRef durationcache_debug doesn't point to an existing ConVar
 #Game.dll loaded for "Day of Infamy"
+#CGameEventManager::AddListener: event 'server_pre_shutdown' unknown.
 #CGameEventManager::AddListener: event 'game_newmap' unknown.
+#CGameEventManager::AddListener: event 'round_start' unknown.
 #CGameEventManager::AddListener: event 'round_end' unknown.
+mode MP, dedicated Yes, ports 27015 SV / 27005 CL
 Server is hibernating
-[S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.so.
-For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_radial_spam_delay_leaderfrac)
 [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+[S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.so.
+Parent cvar in server.dll not allowed (doi_bot_combat_suppress_fire_duration)
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_radial_spam_delay_leaderfrac)
+Parent cvar in server.dll not allowed (ins_bot_arousal_suppression_falloff)
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Setting breakpad minidump AppID = 447820
 [CServerUGCManager] Connected to Steam for Workshop!
+[CServerUGCManager] Got 13 file ID(s)
 [CServerUGCManager] Queueing file 892824115 for download
+[CWorkshopItem] Saigon Embassy (Born to Kill) - DOI [892824115] installed!
 [CServerUGCManager] Queueing file 892196159 for download
+[CWorkshopItem] Tet (Born To Kill) [892196159] installed!
 [CServerUGCManager] Queueing file 881437908 for download
+[CWorkshopItem] Born to Kill: Vietnam BETA [881437908] installed!
 [CServerUGCManager] Queueing file 880981877 for download
+[CWorkshopItem] POW Raid (Born To Kill Mod) [880981877] installed!
 [CServerUGCManager] Queueing file 877593003 for download
+[CServerUGCManager] Queueing file 877100897 for download
 [CWorkshopItem] Cu Chi Tunnels (Born to Kill mod) [877100897] installed!
+[CServerUGCManager] Queueing file 872627813 for download
 [CWorkshopItem] Khe Sanh (Born to Kill) - DOI [872627813] installed!
+[CServerUGCManager] Queueing file 871275680 for download
 [CWorkshopItem] Hastings (Born to kill) - DOI [871275680] installed!
+[CServerUGCManager] Queueing file 870627225 for download
 [CWorkshopItem] La Drang (Born to Kill) - DOI [870627225] installed!
+[CServerUGCManager] Queueing file 867772684 for download
 [CWorkshopItem] Vietnam Night (Born to Kill) - DOI [867772684] installed!
+[CServerUGCManager] Queueing file 867750505 for download
 [CWorkshopItem] Vietnam (Born to Kill) - DOI [867750505] installed!
+[CServerUGCManager] Queueing file 866041323 for download
 [CWorkshopItem] Ho Bo Woods Night (Born to Kill) - DOI [866041323] installed!
+[CServerUGCManager] Queueing file 865706016 for download
 [CWorkshopItem] Ho Bo Woods (Born to Kill) - DOI [865706016] installed!
+Conditional Error: Bad expression token: r
 KeyValues Error: KV Conditional Evaluation Error in file scripts/playlists/nam/coop.playlist
+playlist, allowed_maps, 
 KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file scripts/playlists/nam/coop.playlist
+playlist, allowed_maps, 
 KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/playlists/nam/coop.playlist
+playlist, (*allowed_maps*), 
 Taglines: Listening to event round_start
+Taglines: Listening to event game_start
 maxplayers set to 32
 Unable to remove /media/data-drive/Steam/doi/crash_sockets!
-CCrashHandler - Spawned process (pid:683)
+Unable to remove /media/data-drive/Steam/doi/crash_sockets!
+CCrashHandler - Spawning process... (/media/data-drive/Steam/doi/crash_handler)
+CCrashHandler - Spawned process (pid:12339)
+Unknown command "joy_name"
 Unknown command "joy_advanced"
+Unknown command "joy_accelmax"
 Unknown command "joy_accelscale"
+Unknown command "joy_advaxisx"
 Unknown command "joy_advaxisy"
+Unknown command "joy_advaxisz"
 Unknown command "joy_advaxisr"
+Unknown command "joy_advaxisu"
 Unknown command "joy_advaxisv"
+Unknown command "joy_autoaimdampen"
 Unknown command "joy_autoaimdampenrange"
+Unknown command "joy_autosprint"
 Unknown command "joy_axisbutton_threshold"
+Unknown command "joy_circle_correct"
 Unknown command "joy_diagonalpov"
+Unknown command "joy_display_input"
 Unknown command "joy_forwardsensitivity"
+Unknown command "joy_forwardthreshold"
 Unknown command "joy_inverty"
+Unknown command "joy_invertx"
 Unknown command "joy_lowend"
+Unknown command "joy_lowmap"
 Unknown command "joy_movement_stick"
+Unknown command "joy_pitchsensitivity"
 Unknown command "joy_pitchthreshold"
+Unknown command "joy_response_look"
 Unknown command "joy_response_move"
+Unknown command "joy_sidesensitivity"
 Unknown command "joy_sidethreshold"
+Unknown command "joy_yawsensitivity"
 Unknown command "joy_yawthreshold"
+Unknown command "joyadvancedupdate"
 Unknown command "joystick"
+Unknown command "+jlook"
 maxplayers set to 32
-Server logging data to file logs/L000_000_000_000_27015_201812030945_000.log
+Server logging enabled.
+Server logging data to file logs/L000_000_000_000_27015_201812061608_000.log
+L 12/06/2018 - 16:08:03: Log file started (file "logs/L000_000_000_000_27015_201812061608_000.log") (game "/media/data-drive/Steam/doi/doi") (version "6948")
 Writing cfg/banned_user.cfg.
+Writing cfg/banned_ip.cfg.
 Current playlist "nam/mp_battles" is incompatible with map "", playlist disabled.
+L 12/06/2018 - 16:08:03: server_cvar: "sv_playlist" "nam/mp_battles"
+L 12/06/2018 - 16:08:03: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/06/2018 - 16:08:03: server_cvar: "doi_bot_difficulty" "0.000000"
 ---- Host_NewGame ----
-L 12/03/2018 - 09:45:27: Loading map "vietnam_b5"
-L 12/03/2018 - 09:45:27: "sv_maxspeed" = "320"
-L 12/03/2018 - 09:45:27: "spec_allow_bots" = "0"
-L 12/03/2018 - 09:45:27: "ins_teamsize" = "0"
-L 12/03/2018 - 09:45:27: "mp_timer_taglines" = "17"
-L 12/03/2018 - 09:45:27: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 09:45:27: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 09:45:27: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 09:45:27: "mp_maxgames" = "1"
-L 12/03/2018 - 09:45:27: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 09:45:27: "mp_flashlight" = "0"
-L 12/03/2018 - 09:45:27: "sv_tags" = ""
-L 12/03/2018 - 09:45:27: "sv_stepsize" = "18"
-L 12/03/2018 - 09:45:27: "sv_alltalk" = "1"
-L 12/03/2018 - 09:45:27: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 09:45:27: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 09:45:27: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 09:45:27: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 09:45:27: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 09:45:27: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 09:45:27: "sv_rollspeed" = "200"
-L 12/03/2018 - 09:45:27: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 09:45:27: "sv_deadtalk" = "0"
-L 12/03/2018 - 09:45:27: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 09:45:27: "mp_fadetoblack" = "0"
-L 12/03/2018 - 09:45:27: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 09:45:27: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 09:45:27: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 09:45:27: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 09:45:27: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 09:45:27: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 09:45:27: "coop" = "0"
-L 12/03/2018 - 09:45:27: "nextlevel" = ""
-L 12/03/2018 - 09:45:27: "sv_stopspeed" = "100"
-L 12/03/2018 - 09:45:27: "deathmatch" = "1"
-L 12/03/2018 - 09:45:27: "tv_enable" = "0"
-L 12/03/2018 - 09:45:27: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 09:45:27: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 09:45:27: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 09:45:27: "mp_freezetime" = "15.0"
-L 12/03/2018 - 09:45:27: "mp_cp_speedup_rate" = "0.25"
-L 12/03/2018 - 09:45:27: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 09:45:27: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 09:45:27: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 09:45:27: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 09:45:27: "mp_weaponstay" = "0"
-L 12/03/2018 - 09:45:27: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 09:45:27: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 09:45:27: "mp_friendlyfire" = "1"
-L 12/03/2018 - 09:45:27: "sv_allchat" = "1"
-L 12/03/2018 - 09:45:27: "mp_roundlives" = "0"
-L 12/03/2018 - 09:45:27: "mp_supply_token_max" = "30"
-L 12/03/2018 - 09:45:27: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 09:45:27: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 09:45:27: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 09:45:27: "sv_footsteps" = "1"
-L 12/03/2018 - 09:45:27: "mp_timer_preround" = "18"
-L 12/03/2018 - 09:45:27: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 09:45:27: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 09:45:27: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 09:45:27: "mp_teamplay" = "0"
-L 12/03/2018 - 09:45:27: "sv_specnoclip" = "1"
-L 12/03/2018 - 09:45:27: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 09:45:27: "sv_ruleset" = ""
-L 12/03/2018 - 09:45:27: "mp_roundtime" = "210"
-L 12/03/2018 - 09:45:27: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 09:45:27: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 09:45:27: "mp_cp_radio_speedup_rate" = "0.50"
-L 12/03/2018 - 09:45:27: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 09:45:27: "mp_forcerespawn" = "1"
-L 12/03/2018 - 09:45:27: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 09:45:27: "sv_accelerate" = "10"
-L 12/03/2018 - 09:45:27: "sv_gravity" = "800"
-L 12/03/2018 - 09:45:27: "sv_password" = ""
-L 12/03/2018 - 09:45:27: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 09:45:27: "sv_deadvoice" = "0"
-L 12/03/2018 - 09:45:27: "tv_password" = ""
-L 12/03/2018 - 09:45:27: "sv_specspeed" = "3"
+sv_pure_default set to: -1
+L 12/06/2018 - 16:08:03: Loading map "vietnam_b5"
+L 12/06/2018 - 16:08:03: server cvars start
+L 12/06/2018 - 16:08:03: "sv_maxspeed" = "320"
+L 12/06/2018 - 16:08:03: "mp_ignore_timer_conditions" = "0"
+L 12/06/2018 - 16:08:03: "spec_allow_bots" = "0"
+L 12/06/2018 - 16:08:03: "sv_rollangle" = "0"
+L 12/06/2018 - 16:08:03: "ins_teamsize" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_proximity_check_frequency" = "3"
+L 12/06/2018 - 16:08:03: "mp_timer_taglines" = "17"
+L 12/06/2018 - 16:08:03: "sv_cheats" = "0"
+L 12/06/2018 - 16:08:03: "r_VehicleViewDampen" = "1"
+L 12/06/2018 - 16:08:03: "doi_bot_difficulty" = "0.000000"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_party_color" = ""
+L 12/06/2018 - 16:08:03: "mp_allowNPCs" = "1"
+L 12/06/2018 - 16:08:03: "sv_deadtalk_team" = "1"
+L 12/06/2018 - 16:08:03: "mp_timer_voting" = "15"
+L 12/06/2018 - 16:08:03: "mp_maxgames" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_friend_obstruct" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_vip_color" = ""
+L 12/06/2018 - 16:08:03: "sv_stopspeed_prone" = "45"
+L 12/06/2018 - 16:08:03: "mp_flashlight" = "0"
+L 12/06/2018 - 16:08:03: "mp_maxrounds" = "1"
+L 12/06/2018 - 16:08:03: "sv_tags" = ""
+L 12/06/2018 - 16:08:03: "sv_thirdperson_height" = "20"
+L 12/06/2018 - 16:08:03: "sv_stepsize" = "18"
+L 12/06/2018 - 16:08:03: "mp_teamlist" = "hgrunt;scientist"
+L 12/06/2018 - 16:08:03: "sv_alltalk" = "1"
+L 12/06/2018 - 16:08:03: "mp_timer_pregame" = "10"
+L 12/06/2018 - 16:08:03: "doi_coop_bot_ranking_officer" = "6"
+L 12/06/2018 - 16:08:03: "mp_footsteps" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_losing_team_low" = "0"
+L 12/06/2018 - 16:08:03: "sv_noclipaccelerate" = "5"
+L 12/06/2018 - 16:08:03: "mp_timer_preround_switch" = "30"
+L 12/06/2018 - 16:08:03: "sv_hud_deathmessages" = "0"
+L 12/06/2018 - 16:08:03: "sv_wateraccelerate" = "10"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_mindist" = "25"
+L 12/06/2018 - 16:08:03: "sv_playlist" = "nam/mp_battles"
+L 12/06/2018 - 16:08:03: "mp_autocrosshair" = "1"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_aimangle" = "45"
+L 12/06/2018 - 16:08:03: "solo_timer_pregame" = "0"
+L 12/06/2018 - 16:08:03: "sv_rollspeed" = "200"
+L 12/06/2018 - 16:08:03: "sv_airaccelerate" = "10"
+L 12/06/2018 - 16:08:03: "mp_teams_unbalance_limit" = "1"
+L 12/06/2018 - 16:08:03: "mp_timelimit" = "0"
+L 12/06/2018 - 16:08:03: "sv_deadtalk" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_obj_destroyed" = "1"
+L 12/06/2018 - 16:08:03: "sv_alltalk_dead" = "0"
+L 12/06/2018 - 16:08:03: "mp_minteamplayers" = "1"
+L 12/06/2018 - 16:08:03: "mp_fadetoblack" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_proximity_distance" = "3500"
+L 12/06/2018 - 16:08:03: "sv_alltalk_endgame" = "1"
+L 12/06/2018 - 16:08:03: "sv_waterfriction" = "1"
+L 12/06/2018 - 16:08:03: "mp_spawnprotectiontime_navspawn" = "15"
+L 12/06/2018 - 16:08:03: "sv_steamgroup" = ""
+L 12/06/2018 - 16:08:03: "mp_friendlyfire_explosives" = "0"
+L 12/06/2018 - 16:08:03: "mp_lobbytime" = "10"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator" = "1"
+L 12/06/2018 - 16:08:03: "mp_cp_capture_time" = "2"
+L 12/06/2018 - 16:08:03: "sv_hud_enemy_wave_display" = "1"
+L 12/06/2018 - 16:08:03: "mp_cp_speedup_max" = "5"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_losing_team_high" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain" = "1"
+L 12/06/2018 - 16:08:03: "coop" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_scoreboard_show_score_dead" = "1"
+L 12/06/2018 - 16:08:03: "nextlevel" = ""
+L 12/06/2018 - 16:08:03: "mp_coop_lobbysize" = "6"
+L 12/06/2018 - 16:08:03: "sv_stopspeed" = "100"
+L 12/06/2018 - 16:08:03: "sv_specaccelerate" = "5"
+L 12/06/2018 - 16:08:03: "deathmatch" = "1"
+L 12/06/2018 - 16:08:03: "ins_bot_difficulty" = "1"
+L 12/06/2018 - 16:08:03: "tv_enable" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_regroup" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_winning_team_high" = "0"
+L 12/06/2018 - 16:08:03: "mp_switchteams_each_round" = "0"
+L 12/06/2018 - 16:08:03: "doi_coop_bot_ranking" = "1"
+L 12/06/2018 - 16:08:03: "mp_timer_postround" = "19"
+L 12/06/2018 - 16:08:03: "sv_hud_scoreboard_show_score" = "0"
+L 12/06/2018 - 16:08:03: "mp_falldamage" = "0"
+L 12/06/2018 - 16:08:03: "mp_freezetime" = "15.0"
+L 12/06/2018 - 16:08:03: "mp_extract_point" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_speedup_rate" = "0.25"
+L 12/06/2018 - 16:08:03: "sv_alltalk_intermission" = "1"
+L 12/06/2018 - 16:08:03: "doi_coop_lobby_size" = "8"
+L 12/06/2018 - 16:08:03: "mp_respawnwavetime_min" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_teammate_obstruct" = "1"
+L 12/06/2018 - 16:08:03: "sv_voiceenable" = "1"
+L 12/06/2018 - 16:08:03: "mp_assassination_single_point_max" = "16"
+L 12/06/2018 - 16:08:03: "sv_bounce" = "0"
+L 12/06/2018 - 16:08:03: "mp_spawnprotectontime" = "30"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_fov" = "75"
+L 12/06/2018 - 16:08:03: "mp_weaponstay" = "0"
+L 12/06/2018 - 16:08:03: "sv_changelevel_next_round" = "0"
+L 12/06/2018 - 16:08:03: "mp_winlimit_coop" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_kill_assist_amount" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_teammate_color" = ""
+L 12/06/2018 - 16:08:03: "mp_scrambleteams_auto" = "0"
+L 12/06/2018 - 16:08:03: "mp_friendlyfire" = "1"
+L 12/06/2018 - 16:08:03: "sv_noclipspeed" = "5"
+L 12/06/2018 - 16:08:03: "sv_allchat" = "1"
+L 12/06/2018 - 16:08:03: "mp_joinwaittime" = "20"
+L 12/06/2018 - 16:08:03: "mp_roundlives" = "0"
+L 12/06/2018 - 16:08:03: "sv_map_voting" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_token_max" = "30"
+L 12/06/2018 - 16:08:03: "mp_supply_token_bot_base" = "18"
+L 12/06/2018 - 16:08:03: "mp_scrambleteams_auto_windifference" = "3"
+L 12/06/2018 - 16:08:03: "solo_timer_preround" = "15"
+L 12/06/2018 - 16:08:03: "mp_ambush_single_point_max" = "10"
+L 12/06/2018 - 16:08:03: "mp_timer_postgame" = "0"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_dist" = "100"
+L 12/06/2018 - 16:08:03: "mp_respawnwavetime_max" = "0"
+L 12/06/2018 - 16:08:03: "sv_footsteps" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
+L 12/06/2018 - 16:08:03: "mp_timer_preround" = "18"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_party_obstruct" = "0"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_aimdist" = "1000"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_useangle" = "15"
+L 12/06/2018 - 16:08:03: "mp_cp_proximity_distance_sabotage" = "1500"
+L 12/06/2018 - 16:08:03: "mp_cp_deteriorate_time" = "8"
+L 12/06/2018 - 16:08:03: "mp_searchdestroy_single_cache_max" = "12"
+L 12/06/2018 - 16:08:03: "tv_relaypassword" = ""
+L 12/06/2018 - 16:08:03: "mp_teamplay" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_token_base" = "10"
+L 12/06/2018 - 16:08:03: "sv_specnoclip" = "1"
+L 12/06/2018 - 16:08:03: "sv_friction" = "4"
+L 12/06/2018 - 16:08:03: "mp_switchteams_reset_supply" = "1"
+L 12/06/2018 - 16:08:03: "sv_contact" = ""
+L 12/06/2018 - 16:08:03: "sv_ruleset" = ""
+L 12/06/2018 - 16:08:03: "sv_thirdperson" = "0"
+L 12/06/2018 - 16:08:03: "mp_roundtime" = "210"
+L 12/06/2018 - 16:08:03: "doi_coop_cp_proximity_check_frequency" = "5.0"
+L 12/06/2018 - 16:08:03: "mp_ignore_win_conditions" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_deathmessages_spectator" = "0"
+L 12/06/2018 - 16:08:03: "mp_timer_preround_first" = "18"
+L 12/06/2018 - 16:08:03: "mp_switchteams_each_game" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_radio_speedup_rate" = "0.50"
+L 12/06/2018 - 16:08:03: "mp_fraglimit" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_obj_cap" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_squad_color" = ""
+L 12/06/2018 - 16:08:03: "mp_forcerespawn" = "1"
+L 12/06/2018 - 16:08:03: "decalfrequency" = "10"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_kill_assist_threshold" = "5"
+L 12/06/2018 - 16:08:03: "sv_map_voting_shuffle" = "1"
+L 12/06/2018 - 16:08:03: "sv_accelerate" = "10"
+L 12/06/2018 - 16:08:03: "mp_winlimit" = "5"
+L 12/06/2018 - 16:08:03: "sv_gravity" = "800"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_squad_obstruct" = "0"
+L 12/06/2018 - 16:08:03: "sv_password" = ""
+L 12/06/2018 - 16:08:03: "ins_bot_change_difficulty" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_obj_hero_cap" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_winning_team_low" = "0"
+L 12/06/2018 - 16:08:03: "sv_deadvoice" = "0"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_leandist" = "35"
+L 12/06/2018 - 16:08:03: "tv_password" = ""
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
+L 12/06/2018 - 16:08:03: "sv_specspeed" = "3"
+L 12/06/2018 - 16:08:03: server cvars end
 [S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
-Launching crash_handler (URL: http://crash.newworldinteractive.com/api/dumps/submit/insurgency KEY: 662, FD: -1).
+[S_API FAIL] SteamAPI_Init() failed; unable to locate a running instance of Steam, or a local steamclient.so.
+Launching crash_handler (URL: http://crash.newworldinteractive.com/api/dumps/submit/insurgency KEY: 12322, FD: -1).
+Populating steam data...
+Requested non-existent write path BASE_PATH!
 Requested non-existent write path BASE_PATH!
 Unable to remove state_crash.txt!
+L 12/06/2018 - 16:08:04: Started map "vietnam_b5" (CRC "1881228412")
 Host_NewGame on map vietnam_b5
+KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file maps/vietnam_b5_particles.txt
 vietnam_b5, 
+ConVarRef room_type doesn't point to an existing ConVar
 Executing dedicated server config file
+L 12/06/2018 - 16:08:04: server_cvar: "mp_supply_token_base" "20"
 MATCHMAKING: Server set to playlist 'nam/mp_battles' on ruleset 'default' (crc: 1784564776) (maxplayers: 32-40)
+L 12/06/2018 - 16:08:04: server_cvar: "mp_timer_postround" "15"
 Playlist: Setting "mp_timer_postround" to "15"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_timer_postgame" "10"
 Playlist: Setting "mp_timer_postgame" to "10"
+Playlist Error: Unable to find cvar "ins_bot_quota"
 Playlist Error: Unable to find cvar "liberation"
+Playlist Error: Unable to find cvar "frontline"
 Playlist Error: Unable to find cvar "offensive"
+Executing 'server.cfg' config file
 Server logging enabled.
+Unknown command "sv_battleye"
 Writing cfg/banned_user.cfg.
+Writing cfg/banned_ip.cfg.
+L 12/06/2018 - 16:08:04: server_cvar: "doi_bot_difficulty" "0.000000"
 Server logging enabled.
+Unknown command "sv_battleye"
 Writing cfg/banned_user.cfg.
+Writing cfg/banned_ip.cfg.
+L 12/06/2018 - 16:08:04: server_cvar: "doi_bot_difficulty" "0.000000"
 CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
 CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
+CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
+Empty mapcycle, falling back to playlist allowed_maps whitelist.
 [CServerUGCManager] Added 3 Workshop items to the download list.
-L 12/03/2018 - 09:45:27: server_cvar: "mp_maxrounds" "3"
-L 12/03/2018 - 09:45:27: server_cvar: "mp_timelimit" "20"
-L 12/03/2018 - 09:45:27: server_cvar: "mp_cp_capture_time" "80"
-L 12/03/2018 - 09:45:27: server_cvar: "mp_respawnwavetime_min" "20"
-L 12/03/2018 - 09:45:27: server_cvar: "mp_freezetime" "15"
-L 12/03/2018 - 09:45:27: server_cvar: "mp_switchteams_each_round" "1"
-L 12/03/2018 - 09:45:27: server_cvar: "mp_cp_radio_speedup_rate" "0.60"
+[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
+L 12/06/2018 - 16:08:04: server_cvar: "mp_maxrounds" "3"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_winlimit" "2"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_timelimit" "20"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_roundtime" "600"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_capture_time" "80"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_deteriorate_time" "0"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_respawnwavetime_min" "20"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_respawnwavetime_max" "30"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_freezetime" "15"
+Unknown command "mp_supply_token_base"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_switchteams_each_round" "1"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_speedup_rate" "0.35"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_radio_speedup_rate" "0.60"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_speedup_max" "6"
 Server loading custom theater 'nam'
-L 12/03/2018 - 09:45:27: server_cvar: "sv_maxspeed" "1000.000000"
+Loading theater file 'nam' on server
+L 12/06/2018 - 16:08:04: server_cvar: "sv_maxspeed" "1000.000000"
+L 12/06/2018 - 16:08:04: server_cvar: "sv_stopspeed" "75.000000"
 Reached limit of 128 for WeaponDefinitions
+CSoundEmitterSystem::AddSoundsFromFile:  No such file scripts/nam_sounds_voice.txt
 PrecacheScriptSound 'Weapon_M1919.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_M1919.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_Bar.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Bar.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_MG42.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_MG42.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_MG34.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_MG34.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_Bren.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Bren.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_BrowningHp.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_BrowningHp.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_Springfield.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Springfield.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_m3.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_m3.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_m1carbine.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_m1carbine.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Weapon_Garand.SingleSilenced' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Garand.SingleSilencedLocal' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_StartCoOp_Game' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_StartCoOp_Round' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_CounterAttackCoOp_Start' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_CounterAttackCoOp_End' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_StartHunt_Game' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_StartHunt_Game_Day' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_StartHunt_Round' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_Hunt_ManDown' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_Hunt_AllEnemyDead' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_Hunt_HalfEnemyDead' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_Hunt_CacheDestroyed_EnemyLeft' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_Hunt_CacheDestroyed_AllEnemyDead' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_Hunt_CacheDiscovery_Negative' failed, no such sound script entry
+PrecacheScriptSound 'Player.Security_Hunt_CacheDiscovery_Positive' failed, no such sound script entry
 PrecacheScriptSound 'Player.Security_Hunt_EnemyDead_DestroyCache' failed, no such sound script entry
+PrecacheScriptSound 'Player.Slide' failed, no such sound script entry
 PrecacheScriptSound 'Player.FlashlightOn' failed, no such sound script entry
+PrecacheScriptSound 'Player.FlashlightOff' failed, no such sound script entry
 PrecacheScriptSound 'Universal.MolotovDraw' failed, no such sound script entry
+PrecacheScriptSound 'Universal.MolotovHolster' failed, no such sound script entry
 PrecacheScriptSound 'Universal.BipodDeploy' failed, no such sound script entry
+PrecacheScriptSound 'Universal.BipodSwivel' failed, no such sound script entry
 PrecacheScriptSound 'Universal.GLBeginReload' failed, no such sound script entry
+PrecacheScriptSound 'Error' failed, no such sound script entry
 PrecacheScriptSound 'radial_english.unsupp_requeststrafe' failed, no such sound script entry
+PrecacheScriptSound 'radial_english.supp_requeststrafe' failed, no such sound script entry
 PrecacheScriptSound 'radial_canadian.unsupp_requeststrafe' failed, no such sound script entry
+PrecacheScriptSound 'radial_canadian.supp_requeststrafe' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.reloading1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.reloading2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.reloading3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.reloading4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.reloading5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.reloading6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.reloading7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.reloading8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.reloading9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.reloading10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.burnpainsmall1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.burnpainsmall2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.burnpainsmall3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.burnpainsmall4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.burnpainsmall5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyfire1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyfire2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyfire3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyfire4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.flamethrowerextend1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.flamethrowerextend2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.flamethrowerextend3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.flamethrowerextend4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.flamethrowerextend5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.fraggrenadeout1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.fraggrenadeout2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.fraggrenadeout3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.fraggrenadeout4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.smokegrenadeout1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.smokegrenadeout2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.smokegrenadeout3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.smokegrenadeout4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.explosiveplanted1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.explosiveplanted2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.explosiveplanted3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.explosiveplanted4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.explosiveplanted5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadetossback1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadetossback2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadetossback3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadetossback4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadetossback5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadespotted1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadespotted2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadespotted3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadespotted4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadespotted5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.undersuppression1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.undersuppression2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.undersuppression3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.undersuppression4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.undersuppression5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.undersuppression6' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.undersuppression7' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.undersuppression8' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.undersuppression9' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.undersuppression10' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadeexplodeclose1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadeexplodeclose2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadeexplodeclose3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.grenadeexplodeclose4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.grenadeexplodeclose5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketflypastclose1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketflypastclose2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketflypastclose3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketflypastclose4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketflypastclose5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketdetonateclose1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketdetonateclose2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketdetonateclose3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketdetonateclose4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketdetonateclose5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.suppressedbymachinegun1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.suppressedbymachinegun2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.suppressedbymachinegun3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.suppressedbymachinegun4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.suppressedbymachinegun5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.suppressedbysniper1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.suppressedbysniper2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.suppressedbysniper3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.suppressedbysniper4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.suppressedbysniper5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.smokecough1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.smokecough2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.smokecough3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.smokecough4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.smokecough5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketincomingcoop1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketincomingcoop2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketincomingcoop3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.rocketincomingcoop4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.rocketincomingcoop5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlykilled1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlykilled2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlykilled3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlykilled4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.fueltankexplodeclose1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.fueltankexplodeclose2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.fueltankexplodeclose3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.fueltankexplodeclose4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.fueltankexplodeclose5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportimfine1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportimfine2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportimfine3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportimfine4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportimfine5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportrecentlysuppressed1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportrecentlysuppressed2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportrecentlysuppressed3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportrecentlysuppressed4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportrecentlysuppressed5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportrecentlywounded1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportrecentlywounded2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportrecentlywounded3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportrecentlywounded4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportrecentlywounded5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportburnedbyflamethrower1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportburnedbyflamethrower2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportburnedbyflamethrower3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.statusreportburnedbyflamethrower4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.statusreportburnedbyflamethrower5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming6' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming7' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming8' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming9' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemyartilleryincoming10' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring6' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring7' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring8' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring9' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlyartilleryfiring10' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.artilleryexplodingnearme1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.artilleryexplodingnearme2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.artilleryexplodingnearme3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.artilleryexplodingnearme4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.objectiveclear1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.objectiveclear2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.objectiveclear3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.objectiveclear4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.objectiveclear5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.receiveammo1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.receiveammo2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.receiveammo3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.receiveammo4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lowammo1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lowammo2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lowammo3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lowammo4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemystukaincoming1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemystukaincoming2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemystukaincoming3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemystukaincoming4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemystukaincoming5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemystukaincoming6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemystukaincoming7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemystukaincoming8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemystukaincoming9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemystukaincoming10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlybomberincoming1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlybomberincoming2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlybomberincoming3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlybomberincoming4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlybomberincoming5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlybomberincoming6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlybomberincoming7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlybomberincoming8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlybomberincoming9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlybomberincoming10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemybomberincoming1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemybomberincoming2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemybomberincoming3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemybomberincoming4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemybomberincoming5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemybomberincoming6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemybomberincoming7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemybomberincoming8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.enemybomberincoming9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.enemybomberincoming10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.friendlytyphoonincoming10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.melee1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.melee2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.melee3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.melee4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.melee5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.meleecharged1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.meleecharged2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.meleecharged3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.meleecharged4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.meleecharged5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.burndeath' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.death' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded11' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded12' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded13' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.wounded14' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.wounded15' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lastmanalive1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lastmanalive2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lastmanalive3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lastmanalive4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lastmanalive5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lastmanalive6' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lastmanalive7' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lastmanalive8' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.lastmanalive9' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.lastmanalive10' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.noofficer1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.noofficer2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.noofficer3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.noofficer4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.noofficer5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.counterattackincoming1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.counterattackincoming2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.counterattackincoming3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.counterattackincoming4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.counterattackincoming5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.counterattackincoming6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.counterattackincoming7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.counterattackincoming8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.counterattackincoming9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.counterattackincoming10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.raid_targetfound1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.raid_targetfound2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.raid_targetfound3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.raid_targetfound4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.raid_targetfound5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.raid_decoyfound1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.raid_decoyfound2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.raid_decoyfound3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.raid_decoyfound4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.raid_decoyfound5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointavaliable1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointavaliable2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointavaliable3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointavaliable4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointavaliable5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointavaliable6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointavaliable7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointavaliable8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointavaliable9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointavaliable10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointreached1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointreached2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointreached3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointreached4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointreached5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointreached6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointreached7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointreached8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointreached9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointreached10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamrespawns10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointrespawnedteam10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks6' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks7' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks8' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks9' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.regrouppointteamdisembarks10' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.objectivedestroyed1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.objectivedestroyed2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.objectivedestroyed3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.objectivedestroyed4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.objectivedestroyed5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_impickingup1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_impickingup2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_impickingup3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_impickingup4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_impickingup5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_imdropping1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_imdropping2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_imdropping3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_imdropping4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_imdropping5' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_wedropped1' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_wedropped2' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_wedropped3' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_wedropped4' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_wedropped5' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_secured1' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_secured2' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_secured3' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_australian.intel_secured4' failed, no such sound script entry
 PrecacheScriptSound 'voice_response_australian.intel_secured5' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requestartillery' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requestartillery' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requestincendiaryartillery' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requestincendiaryartillery' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requestsmokeartillery' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requestsmokeartillery' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requeststrafe' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requeststrafe' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requestsupplydrop' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requestsupplydrop' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requestcarpetbomb' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requestcarpetbomb' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requesttyphoonstrike' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requesttyphoonstrike' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requestradio' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requestradio' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_affirmative' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_affirmative' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_negative' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_negative' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_enemydown' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_enemydown' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_north' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_northeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_east' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_southeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_south' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_southwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_west' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_enemyspotted_northwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_enemyspotted_north' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_enemyspotted_northeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_enemyspotted_east' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_enemyspotted_southeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_enemyspotted_south' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_enemyspotted_southwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_enemyspotted_west' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_enemyspotted_northwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_able' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_able' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_baker' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_baker' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_charlie' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_charlie' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_dog' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_dog' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_easy' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_easy' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_fox' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_fox' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movingtoobjective_george' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movingtoobjective_george' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_flank_left' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_flank_left' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_flank_right' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_flank_right' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_go' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_go' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_holdposition' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_holdposition' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_move_north' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_move_northeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_move_east' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_move_southeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_move_south' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_move_southwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_move_west' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.unsupp_move_northwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_move_north' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_move_northeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_move_east' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_move_southeast' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_move_south' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_move_southwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.supp_move_west' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_move_northwest' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_able' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_able' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_baker' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_baker' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_charlie' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_charlie' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_dog' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_dog' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_easy' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_easy' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_fox' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_fox' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_movetoobjective_george' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_movetoobjective_george' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_needammo' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_needammo' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_needbackup' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_needbackup' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_needsmoke' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_needsmoke' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_ontheway' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_ontheway' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_spreadout' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_spreadout' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_requeststatus' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_requeststatus' failed, no such sound script entry
+PrecacheScriptSound 'radial_australian.unsupp_sticktogether' failed, no such sound script entry
 PrecacheScriptSound 'radial_australian.supp_sticktogether' failed, no such sound script entry
+PrecacheScriptSound 'radial_indian.unsupp_requeststrafe' failed, no such sound script entry
 PrecacheScriptSound 'radial_indian.supp_requeststrafe' failed, no such sound script entry
+PrecacheScriptSound 'radial_scottish.unsupp_requeststrafe' failed, no such sound script entry
 PrecacheScriptSound 'radial_scottish.supp_requeststrafe' failed, no such sound script entry
+PrecacheScriptSound 'voice_response_german.lead_smokecough' failed, no such sound script entry
 PrecacheScriptSound 'HQ_German.GenericSupport_UnAvailable' failed, no such sound script entry
+PrecacheScriptSound 'HQ_American.GenericSupport_UnAvailable' failed, no such sound script entry
 PrecacheScriptSound 'HQ_German.StrafeRun_Begin' failed, no such sound script entry
+PrecacheScriptSound 'HQ_German.StrafeRun_End' failed, no such sound script entry
 PrecacheScriptSound 'HQ_German.StrafeRun_Ready' failed, no such sound script entry
+Attempted to create unknown entity type ins_team_parameters!
 Can't init ins_team_parameters
+Gamerules: entering state 'GR_STATE_PREGAME'
 CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-Failed finding CP area for 1!
 Initializing Steam libraries for secure Internet server
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
 Logging into anonymous gameserver account.
+ failed to dlopen /media/data-drive/Steam/doi/bin/BattlEye/BEServer.so error=/media/data-drive/Steam/doi/bin/BattlEye/BEServer.so: cannot open shared object file: No such file or directory
 BattlEye Server: Initialized (v1.217)
-L 12/03/2018 - 09:45:31: server_cvar: "sv_tags" "battleye"
+L 12/06/2018 - 16:08:08: server_cvar: "sv_tags" "battleye"
+L 12/06/2018 - 16:08:08: server_cvar: "sv_tags" "battleye"
+Connection to Steam servers successful.
    Public IP is 172.73.164.22.
+Assigned anonymous gameserver Steam ID [A:1:643017730:11517].
 VAC secure mode is activated.
+CCrashHandler - Attaching to socket -1.
 CCrashHandler - Attached and ready. (in-process)
-L 12/03/2018 - 10:10:21: "✭ Thunder7778 ✭<2><STEAM_1:0:61917069><>" connected, address "188.191.63.30:27005"
-L 12/03/2018 - 10:10:22: "✭ Thunder7778 ✭<2><STEAM_1:0:61917069><STEAM_1:0:61917069>" STEAM USERID validated
-BattlEye Server: Player #0 ✭ Thunder7778 ✭ - BE GUID: 9f163affff71a1291faba87c37b37d24
-L 12/03/2018 - 10:11:26: "✭ Thunder7778 ✭<2><STEAM_1:0:61917069><#Team_Unassigned>" joined team "#nva"
+Server waking up from hibernation
+L 12/06/2018 - 16:08:40: "b00jum<2><STEAM_1:1:9014066><>" connected, address "172.73.164.22:27005"
+Client "b00jum" connected (172.73.164.22:27005).
+L 12/06/2018 - 16:08:41: "b00jum<2><STEAM_1:1:9014066><STEAM_1:1:9014066>" STEAM USERID validated
+BattlEye Server: Player #0 b00jum (22.164.73.172:32105) connected
+BattlEye Server: Player #0 b00jum - BE GUID: 60569cfa5dc2ab770364f29d808527a3
+BattlEye Server: Verified GUID (60569cfa5dc2ab770364f29d808527a3) of player #0 b00jum
+L 12/06/2018 - 16:08:45: "b00jum<2><STEAM_1:1:9014066><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:08:45: "b00jum<2><STEAM_1:1:9014066><>" entered the game
 Setting invalid soundscape, so.market_security_spawn, as the active soundscape. There is probably no script entry matching this name. BUG THIS!
-Player inventory: Tried giving "✭ Thunder7778 ✭" gear "ins_chestrig" from template "template_german_assault", failed with error "Not enough supply" (5)
-L 12/03/2018 - 10:17:18: "✭ Thunder7778 ✭<2><STEAM_1:0:61917069><#nva>" joined team "#us"
-Player inventory: Tried giving "✭ Thunder7778 ✭" gear "gear_fuel_tank_american" from template "template_american_flamethrower", failed with error "Slot full" (4)
-L 12/03/2018 - 10:22:54: "✭ Thunder7778 ✭<2><STEAM_1:0:61917069><#us>" disconnected (reason "Disconnected.")
-Dropped ✭ Thunder7778 ✭ from server (Disconnected.)
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
----- Host_Changelevel ----
-L 12/03/2018 - 10:42:00: Loading map "vietnam_b5_night"
-L 12/03/2018 - 10:42:00: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 10:42:00: "spec_allow_bots" = "0"
-L 12/03/2018 - 10:42:00: "ins_teamsize" = "0"
-L 12/03/2018 - 10:42:00: "mp_timer_taglines" = "17"
-L 12/03/2018 - 10:42:00: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 10:42:00: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 10:42:00: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 10:42:00: "mp_maxgames" = "1"
-L 12/03/2018 - 10:42:00: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 10:42:00: "mp_flashlight" = "0"
-L 12/03/2018 - 10:42:00: "sv_tags" = "battleye"
-L 12/03/2018 - 10:42:00: "sv_stepsize" = "18"
-L 12/03/2018 - 10:42:00: "sv_alltalk" = "1"
-L 12/03/2018 - 10:42:00: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 10:42:00: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 10:42:00: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 10:42:00: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 10:42:00: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 10:42:00: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 10:42:00: "sv_rollspeed" = "200"
-L 12/03/2018 - 10:42:00: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 10:42:00: "sv_deadtalk" = "0"
-L 12/03/2018 - 10:42:00: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 10:42:00: "mp_fadetoblack" = "0"
-L 12/03/2018 - 10:42:00: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 10:42:00: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 10:42:00: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 10:42:00: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 10:42:00: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 10:42:00: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 10:42:00: "coop" = "0"
-L 12/03/2018 - 10:42:00: "nextlevel" = ""
-L 12/03/2018 - 10:42:00: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 10:42:00: "deathmatch" = "1"
-L 12/03/2018 - 10:42:00: "tv_enable" = "0"
-L 12/03/2018 - 10:42:00: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 10:42:00: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 10:42:00: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 10:42:00: "mp_freezetime" = "15"
-L 12/03/2018 - 10:42:00: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 10:42:00: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 10:42:00: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 10:42:00: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 10:42:00: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 10:42:00: "mp_weaponstay" = "0"
-L 12/03/2018 - 10:42:00: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 10:42:00: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 10:42:00: "mp_friendlyfire" = "1"
-L 12/03/2018 - 10:42:00: "sv_allchat" = "1"
-L 12/03/2018 - 10:42:00: "mp_roundlives" = "0"
-L 12/03/2018 - 10:42:00: "mp_supply_token_max" = "30"
-L 12/03/2018 - 10:42:00: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 10:42:00: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 10:42:00: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 10:42:00: "sv_footsteps" = "1"
-L 12/03/2018 - 10:42:00: "mp_timer_preround" = "18"
-L 12/03/2018 - 10:42:00: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 10:42:00: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 10:42:00: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 10:42:00: "mp_teamplay" = "0"
-L 12/03/2018 - 10:42:00: "sv_specnoclip" = "1"
-L 12/03/2018 - 10:42:00: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 10:42:00: "sv_ruleset" = ""
-L 12/03/2018 - 10:42:00: "mp_roundtime" = "600"
-L 12/03/2018 - 10:42:00: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 10:42:00: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 10:42:00: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 10:42:00: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 10:42:00: "mp_forcerespawn" = "1"
-L 12/03/2018 - 10:42:00: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 10:42:00: "sv_accelerate" = "10"
-L 12/03/2018 - 10:42:00: "sv_gravity" = "800"
-L 12/03/2018 - 10:42:00: "sv_password" = ""
-L 12/03/2018 - 10:42:00: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 10:42:00: "sv_deadvoice" = "0"
-L 12/03/2018 - 10:42:00: "tv_password" = ""
-L 12/03/2018 - 10:42:00: "sv_specspeed" = "3"
-L 12/03/2018 - 10:42:02: Started map "vietnam_b5_night" (CRC "1084427597")
-vietnam_b5_night, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
+Gamerules: entering state 'GR_STATE_STARTGAME'
 [CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Server loading custom theater 'nam'
-Reached limit of 128 for WeaponDefinitions
-Attempted to create unknown entity type ins_team_parameters!
-Gamerules: entering state 'GR_STATE_PREGAME'
-Failed finding CP area for 0!
-Failed finding CP area for 2!
-Server waking up from hibernation
-Client "xXxLORD_SAVAGExXx" connected (45.18.147.31:27005).
-BattlEye Server: Player #0 xXxLORD_SAVAGExXx (31.147.18.45:32105) connected
-BattlEye Server: Verified GUID (858f68cbec0c1051dc55b3ebeca0067a) of player #0 xXxLORD_SAVAGExXx
-L 12/03/2018 - 11:14:45: "xXxLORD_SAVAGExXx<3><STEAM_1:1:78799997><>" entered the game
-BattlEye Server: Player #0 xXxLORD_SAVAGExXx disconnected
-Server is hibernating
----- Host_Changelevel ----
-L 12/03/2018 - 11:38:13: Loading map "khe_sanh"
-L 12/03/2018 - 11:38:13: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 11:38:13: "spec_allow_bots" = "0"
-L 12/03/2018 - 11:38:13: "ins_teamsize" = "0"
-L 12/03/2018 - 11:38:13: "mp_timer_taglines" = "17"
-L 12/03/2018 - 11:38:13: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 11:38:13: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 11:38:13: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 11:38:13: "mp_maxgames" = "1"
-L 12/03/2018 - 11:38:13: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 11:38:13: "mp_flashlight" = "0"
-L 12/03/2018 - 11:38:13: "sv_tags" = "battleye"
-L 12/03/2018 - 11:38:13: "sv_stepsize" = "18"
-L 12/03/2018 - 11:38:13: "sv_alltalk" = "1"
-L 12/03/2018 - 11:38:13: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 11:38:13: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 11:38:13: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 11:38:13: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 11:38:13: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 11:38:13: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 11:38:13: "sv_rollspeed" = "200"
-L 12/03/2018 - 11:38:13: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 11:38:13: "sv_deadtalk" = "0"
-L 12/03/2018 - 11:38:13: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 11:38:13: "mp_fadetoblack" = "0"
-L 12/03/2018 - 11:38:13: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 11:38:13: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 11:38:13: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 11:38:13: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 11:38:13: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 11:38:13: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 11:38:13: "coop" = "0"
-L 12/03/2018 - 11:38:13: "nextlevel" = ""
-L 12/03/2018 - 11:38:13: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 11:38:13: "deathmatch" = "1"
-L 12/03/2018 - 11:38:13: "tv_enable" = "0"
-L 12/03/2018 - 11:38:13: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 11:38:13: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 11:38:13: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 11:38:13: "mp_freezetime" = "15"
-L 12/03/2018 - 11:38:13: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 11:38:13: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 11:38:13: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 11:38:13: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 11:38:13: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 11:38:13: "mp_weaponstay" = "0"
-L 12/03/2018 - 11:38:13: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 11:38:13: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 11:38:13: "mp_friendlyfire" = "1"
-L 12/03/2018 - 11:38:13: "sv_allchat" = "1"
-L 12/03/2018 - 11:38:13: "mp_roundlives" = "0"
-L 12/03/2018 - 11:38:13: "mp_supply_token_max" = "30"
-L 12/03/2018 - 11:38:13: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 11:38:13: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 11:38:13: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 11:38:13: "sv_footsteps" = "1"
-L 12/03/2018 - 11:38:13: "mp_timer_preround" = "18"
-L 12/03/2018 - 11:38:13: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 11:38:13: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 11:38:13: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 11:38:13: "mp_teamplay" = "0"
-L 12/03/2018 - 11:38:13: "sv_specnoclip" = "1"
-L 12/03/2018 - 11:38:13: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 11:38:13: "sv_ruleset" = ""
-L 12/03/2018 - 11:38:13: "mp_roundtime" = "600"
-L 12/03/2018 - 11:38:13: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 11:38:13: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 11:38:13: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 11:38:13: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 11:38:13: "mp_forcerespawn" = "1"
-L 12/03/2018 - 11:38:13: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 11:38:13: "sv_accelerate" = "10"
-L 12/03/2018 - 11:38:13: "sv_gravity" = "800"
-L 12/03/2018 - 11:38:13: "sv_password" = ""
-L 12/03/2018 - 11:38:13: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 11:38:13: "sv_deadvoice" = "0"
-L 12/03/2018 - 11:38:13: "tv_password" = ""
-L 12/03/2018 - 11:38:13: "sv_specspeed" = "3"
-L 12/03/2018 - 11:38:17: Started map "khe_sanh" (CRC "69154015")
-khe_sanh, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
-[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Server loading custom theater 'nam'
-Reached limit of 128 for WeaponDefinitions
-Attempted to create unknown entity type ins_team_parameters!
-Attempted to create unknown entity type info_node!
-PrecacheScriptSound 'Fire.Plasma' failed, no such sound script entry
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto70-outside'
-Failed finding CP area for 1!
-Failed finding CP area for 3!
----- Host_Changelevel ----
-L 12/03/2018 - 12:33:53: Loading map "hastings"
-L 12/03/2018 - 12:33:53: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 12:33:53: "spec_allow_bots" = "0"
-L 12/03/2018 - 12:33:53: "ins_teamsize" = "0"
-L 12/03/2018 - 12:33:53: "mp_timer_taglines" = "17"
-L 12/03/2018 - 12:33:53: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 12:33:53: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 12:33:53: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 12:33:53: "mp_maxgames" = "1"
-L 12/03/2018 - 12:33:53: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 12:33:53: "mp_flashlight" = "0"
-L 12/03/2018 - 12:33:53: "sv_tags" = "battleye"
-L 12/03/2018 - 12:33:53: "sv_stepsize" = "18"
-L 12/03/2018 - 12:33:53: "sv_alltalk" = "1"
-L 12/03/2018 - 12:33:53: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 12:33:53: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 12:33:53: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 12:33:53: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 12:33:53: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 12:33:53: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 12:33:53: "sv_rollspeed" = "200"
-L 12/03/2018 - 12:33:53: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 12:33:53: "sv_deadtalk" = "0"
-L 12/03/2018 - 12:33:53: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 12:33:53: "mp_fadetoblack" = "0"
-L 12/03/2018 - 12:33:53: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 12:33:53: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 12:33:53: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 12:33:53: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 12:33:53: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 12:33:53: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 12:33:53: "coop" = "0"
-L 12/03/2018 - 12:33:53: "nextlevel" = ""
-L 12/03/2018 - 12:33:53: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 12:33:53: "deathmatch" = "1"
-L 12/03/2018 - 12:33:53: "tv_enable" = "0"
-L 12/03/2018 - 12:33:53: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 12:33:53: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 12:33:53: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 12:33:53: "mp_freezetime" = "15"
-L 12/03/2018 - 12:33:53: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 12:33:53: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 12:33:53: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 12:33:53: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 12:33:53: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 12:33:53: "mp_weaponstay" = "0"
-L 12/03/2018 - 12:33:53: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 12:33:53: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 12:33:53: "mp_friendlyfire" = "1"
-L 12/03/2018 - 12:33:53: "sv_allchat" = "1"
-L 12/03/2018 - 12:33:53: "mp_roundlives" = "0"
-L 12/03/2018 - 12:33:53: "mp_supply_token_max" = "30"
-L 12/03/2018 - 12:33:53: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 12:33:53: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 12:33:53: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 12:33:53: "sv_footsteps" = "1"
-L 12/03/2018 - 12:33:53: "mp_timer_preround" = "18"
-L 12/03/2018 - 12:33:53: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 12:33:53: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 12:33:53: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 12:33:53: "mp_teamplay" = "0"
-L 12/03/2018 - 12:33:53: "sv_specnoclip" = "1"
-L 12/03/2018 - 12:33:53: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 12:33:53: "sv_ruleset" = ""
-L 12/03/2018 - 12:33:53: "mp_roundtime" = "600"
-L 12/03/2018 - 12:33:53: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 12:33:53: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 12:33:53: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 12:33:53: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 12:33:53: "mp_forcerespawn" = "1"
-L 12/03/2018 - 12:33:53: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 12:33:53: "sv_accelerate" = "10"
-L 12/03/2018 - 12:33:53: "sv_gravity" = "800"
-L 12/03/2018 - 12:33:53: "sv_password" = ""
-L 12/03/2018 - 12:33:53: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 12:33:53: "sv_deadvoice" = "0"
-L 12/03/2018 - 12:33:53: "tv_password" = ""
-L 12/03/2018 - 12:33:53: "sv_specspeed" = "3"
-Missing map material: MAPS/REVOLT/REV_WOODFLOOR_01
-Missing map material: MAPS/REVOLT/REV_WOODFLOOR_01
-L 12/03/2018 - 12:33:56: Started map "hastings" (CRC "-198679814")
-hastings, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
-[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Server loading custom theater 'nam'
-Reached limit of 128 for WeaponDefinitions
-Attempted to create unknown entity type ins_team_parameters!
-Attempted to create unknown entity type info_node!
-Attempted to create unknown entity type info_node!
-Gamerules: entering state 'GR_STATE_PREGAME'
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto3-outside'
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto41-outside'
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto61-outside'
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto77-outside'
-Failed finding CP area for 1!
-Failed finding CP area for 3!
----- Host_Changelevel ----
-L 12/03/2018 - 13:29:32: Loading map "ho_bo_woods"
-L 12/03/2018 - 13:29:32: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 13:29:32: "spec_allow_bots" = "0"
-L 12/03/2018 - 13:29:32: "ins_teamsize" = "0"
-L 12/03/2018 - 13:29:32: "mp_timer_taglines" = "17"
-L 12/03/2018 - 13:29:32: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 13:29:32: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 13:29:32: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 13:29:32: "mp_maxgames" = "1"
-L 12/03/2018 - 13:29:32: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 13:29:32: "mp_flashlight" = "0"
-L 12/03/2018 - 13:29:32: "sv_tags" = "battleye"
-L 12/03/2018 - 13:29:32: "sv_stepsize" = "18"
-L 12/03/2018 - 13:29:32: "sv_alltalk" = "1"
-L 12/03/2018 - 13:29:32: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 13:29:32: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 13:29:32: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 13:29:32: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 13:29:32: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 13:29:32: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 13:29:32: "sv_rollspeed" = "200"
-L 12/03/2018 - 13:29:32: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 13:29:32: "sv_deadtalk" = "0"
-L 12/03/2018 - 13:29:32: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 13:29:32: "mp_fadetoblack" = "0"
-L 12/03/2018 - 13:29:32: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 13:29:32: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 13:29:32: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 13:29:32: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 13:29:32: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 13:29:32: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 13:29:32: "coop" = "0"
-L 12/03/2018 - 13:29:32: "nextlevel" = ""
-L 12/03/2018 - 13:29:32: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 13:29:32: "deathmatch" = "1"
-L 12/03/2018 - 13:29:32: "tv_enable" = "0"
-L 12/03/2018 - 13:29:32: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 13:29:32: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 13:29:32: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 13:29:32: "mp_freezetime" = "15"
-L 12/03/2018 - 13:29:32: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 13:29:32: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 13:29:32: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 13:29:32: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 13:29:32: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 13:29:32: "mp_weaponstay" = "0"
-L 12/03/2018 - 13:29:32: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 13:29:32: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 13:29:32: "mp_friendlyfire" = "1"
-L 12/03/2018 - 13:29:32: "sv_allchat" = "1"
-L 12/03/2018 - 13:29:32: "mp_roundlives" = "0"
-L 12/03/2018 - 13:29:32: "mp_supply_token_max" = "30"
-L 12/03/2018 - 13:29:32: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 13:29:32: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 13:29:32: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 13:29:32: "sv_footsteps" = "1"
-L 12/03/2018 - 13:29:32: "mp_timer_preround" = "18"
-L 12/03/2018 - 13:29:32: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 13:29:32: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 13:29:32: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 13:29:32: "mp_teamplay" = "0"
-L 12/03/2018 - 13:29:32: "sv_specnoclip" = "1"
-L 12/03/2018 - 13:29:32: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 13:29:32: "sv_ruleset" = ""
-L 12/03/2018 - 13:29:32: "mp_roundtime" = "600"
-L 12/03/2018 - 13:29:32: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 13:29:32: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 13:29:32: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 13:29:32: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 13:29:32: "mp_forcerespawn" = "1"
-L 12/03/2018 - 13:29:32: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 13:29:32: "sv_accelerate" = "10"
-L 12/03/2018 - 13:29:32: "sv_gravity" = "800"
-L 12/03/2018 - 13:29:32: "sv_password" = ""
-L 12/03/2018 - 13:29:32: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 13:29:32: "sv_deadvoice" = "0"
-L 12/03/2018 - 13:29:32: "tv_password" = ""
-L 12/03/2018 - 13:29:32: "sv_specspeed" = "3"
-Missing map material: WOOD/MILWALL016
-KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file maps/ho_bo_woods_particles.txt
-ConVarRef room_type doesn't point to an existing ConVar
-MATCHMAKING: Server set to playlist 'nam/mp_battles' on ruleset 'default' (crc: 1784564776) (maxplayers: 32-40)
-Playlist Error: Unable to find cvar "liberation"
-Playlist Error: Unable to find cvar "offensive"
-Server logging enabled.
-Writing cfg/banned_user.cfg.
-Server logging enabled.
-Writing cfg/banned_user.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-[CServerUGCManager] Added 3 Workshop items to the download list.
 Unknown command "mp_supply_token_base"
-Loading theater file 'nam' on server
-CSoundEmitterSystem::AddSoundsFromFile:  No such file scripts/nam_sounds_voice.txt
-Can't init ins_team_parameters
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-Failed finding CP area for 1!
-Failed finding CP area for 3!
-Server waking up from hibernation
-Client "PITMAKK" connected (73.205.248.209:27005).
-BattlEye Server: Player #0 PITMAKK (209.248.205.73:32105) connected
-BattlEye Server: Verified GUID (0a1c46416c4af1b9ea687d98f52ae703) of player #0 PITMAKK
-L 12/03/2018 - 13:45:25: "PITMAKK<4><STEAM_1:1:72264808><>" entered the game
-L 12/03/2018 - 13:52:31: "PITMAKK<4><STEAM_1:1:72264808><#us>" disconnected (reason "Disconnected.")
-Dropped PITMAKK from server (Disconnected.)
-sv_pure_default set to: -1
-L 12/03/2018 - 14:25:50: server cvars start
-L 12/03/2018 - 14:25:50: "mp_ignore_timer_conditions" = "0"
-L 12/03/2018 - 14:25:50: "sv_rollangle" = "0"
-L 12/03/2018 - 14:25:50: "mp_cp_proximity_check_frequency" = "3"
-L 12/03/2018 - 14:25:50: "sv_cheats" = "0"
-L 12/03/2018 - 14:25:50: "doi_bot_difficulty" = "0"
-L 12/03/2018 - 14:25:50: "mp_allowNPCs" = "1"
-L 12/03/2018 - 14:25:50: "mp_timer_voting" = "15"
-L 12/03/2018 - 14:25:50: "sv_hud_targetindicator_friend_obstruct" = "0"
-L 12/03/2018 - 14:25:50: "sv_stopspeed_prone" = "45"
-L 12/03/2018 - 14:25:50: "mp_maxrounds" = "3"
-L 12/03/2018 - 14:25:50: "sv_thirdperson_height" = "20"
-L 12/03/2018 - 14:25:50: "mp_teamlist" = "hgrunt;scientist"
-L 12/03/2018 - 14:25:50: "mp_timer_pregame" = "10"
-L 12/03/2018 - 14:25:50: "mp_footsteps" = "1"
-L 12/03/2018 - 14:25:50: "sv_noclipaccelerate" = "5"
-L 12/03/2018 - 14:25:50: "sv_hud_deathmessages" = "0"
-L 12/03/2018 - 14:25:50: "sv_thirdperson_mindist" = "25"
-L 12/03/2018 - 14:25:50: "mp_autocrosshair" = "1"
-L 12/03/2018 - 14:25:50: "solo_timer_pregame" = "0"
-L 12/03/2018 - 14:25:50: "sv_airaccelerate" = "10"
-L 12/03/2018 - 14:25:50: "mp_timelimit" = "20"
-L 12/03/2018 - 14:25:50: "mp_supply_gain_obj_destroyed" = "1"
-L 12/03/2018 - 14:25:50: "mp_minteamplayers" = "1"
-L 12/03/2018 - 14:25:50: "mp_cp_proximity_distance" = "3500"
-L 12/03/2018 - 14:25:50: "sv_waterfriction" = "1"
-L 12/03/2018 - 14:25:50: "sv_steamgroup" = ""
-L 12/03/2018 - 14:25:50: "mp_lobbytime" = "10"
-L 12/03/2018 - 14:25:50: "mp_cp_capture_time" = "80"
-L 12/03/2018 - 14:25:50: "mp_cp_speedup_max" = "6"
-L 12/03/2018 - 14:25:50: "mp_supply_gain" = "1"
-L 12/03/2018 - 14:25:50: "sv_hud_scoreboard_show_score_dead" = "1"
-L 12/03/2018 - 14:25:50: "mp_coop_lobbysize" = "6"
-L 12/03/2018 - 14:25:50: "sv_specaccelerate" = "5"
-L 12/03/2018 - 14:25:50: "ins_bot_difficulty" = "1"
-L 12/03/2018 - 14:25:50: "mp_supply_gain_regroup" = "1"
-L 12/03/2018 - 14:25:50: "mp_switchteams_each_round" = "1"
-L 12/03/2018 - 14:25:50: "mp_timer_postround" = "15"
-L 12/03/2018 - 14:25:50: "mp_falldamage" = "0"
-L 12/03/2018 - 14:25:50: "mp_extract_point" = "0"
-L 12/03/2018 - 14:25:50: "sv_alltalk_intermission" = "1"
-L 12/03/2018 - 14:25:50: "mp_respawnwavetime_min" = "20"
-L 12/03/2018 - 14:25:50: "sv_voiceenable" = "1"
-L 12/03/2018 - 14:25:50: "sv_bounce" = "0"
-L 12/03/2018 - 14:25:50: "sv_thirdperson_fov" = "75"
-L 12/03/2018 - 14:25:50: "sv_changelevel_next_round" = "0"
-L 12/03/2018 - 14:25:50: "mp_supply_gain_kill_assist_amount" = "1"
-L 12/03/2018 - 14:25:50: "mp_scrambleteams_auto" = "0"
-L 12/03/2018 - 14:25:50: "sv_noclipspeed" = "5"
-L 12/03/2018 - 14:25:50: "mp_joinwaittime" = "20"
-L 12/03/2018 - 14:25:50: "sv_map_voting" = "1"
-L 12/03/2018 - 14:25:50: "mp_supply_token_bot_base" = "18"
-L 12/03/2018 - 14:25:50: "solo_timer_preround" = "15"
-L 12/03/2018 - 14:25:50: "mp_timer_postgame" = "10"
-L 12/03/2018 - 14:25:50: "mp_respawnwavetime_max" = "30"
-L 12/03/2018 - 14:25:50: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
-L 12/03/2018 - 14:25:50: "sv_hud_targetindicator_party_obstruct" = "0"
-L 12/03/2018 - 14:25:50: "sv_thirdperson_useangle" = "15"
-L 12/03/2018 - 14:25:50: "mp_cp_deteriorate_time" = "0"
-L 12/03/2018 - 14:25:50: "tv_relaypassword" = ""
-L 12/03/2018 - 14:25:50: "mp_supply_token_base" = "20"
-L 12/03/2018 - 14:25:50: "sv_friction" = "4"
-L 12/03/2018 - 14:25:50: "sv_contact" = ""
-L 12/03/2018 - 14:25:50: "sv_thirdperson" = "0"
-L 12/03/2018 - 14:25:50: "doi_coop_cp_proximity_check_frequency" = "5.0"
-L 12/03/2018 - 14:25:50: "sv_hud_deathmessages_spectator" = "0"
-L 12/03/2018 - 14:25:50: "mp_switchteams_each_game" = "0"
-L 12/03/2018 - 14:25:50: "mp_fraglimit" = "0"
-L 12/03/2018 - 14:25:50: "sv_hud_targetindicator_squad_color" = ""
-L 12/03/2018 - 14:25:50: "decalfrequency" = "10"
-L 12/03/2018 - 14:25:50: "sv_map_voting_shuffle" = "1"
-L 12/03/2018 - 14:25:50: "mp_winlimit" = "2"
-L 12/03/2018 - 14:25:50: "sv_hud_targetindicator_squad_obstruct" = "0"
-L 12/03/2018 - 14:25:50: "ins_bot_change_difficulty" = "1"
-L 12/03/2018 - 14:25:50: "mp_supply_rate_winning_team_low" = "0"
-L 12/03/2018 - 14:25:50: "sv_thirdperson_leandist" = "35"
-L 12/03/2018 - 14:25:50: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
-L 12/03/2018 - 14:25:50: server cvars end
-L 12/03/2018 - 14:25:53: Started map "ho_bo_woods_night" (CRC "-1112710426")
-ho_bo_woods_night, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
-[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Server loading custom theater 'nam'
-Reached limit of 128 for WeaponDefinitions
-Attempted to create unknown entity type ins_team_parameters!
-Gamerules: entering state 'GR_STATE_PREGAME'
-Failed finding CP area for 0!
-Failed finding CP area for 2!
-[CWorkshopItem] Born to Kill: Vietnam BETA [881437908] installed!
-sv_pure_default set to: -1
-L 12/03/2018 - 15:21:30: server cvars start
-L 12/03/2018 - 15:21:30: "mp_ignore_timer_conditions" = "0"
-L 12/03/2018 - 15:21:30: "sv_rollangle" = "0"
-L 12/03/2018 - 15:21:30: "mp_cp_proximity_check_frequency" = "3"
-L 12/03/2018 - 15:21:30: "sv_cheats" = "0"
-L 12/03/2018 - 15:21:30: "doi_bot_difficulty" = "0"
-L 12/03/2018 - 15:21:30: "mp_allowNPCs" = "1"
-L 12/03/2018 - 15:21:30: "mp_timer_voting" = "15"
-L 12/03/2018 - 15:21:30: "sv_hud_targetindicator_friend_obstruct" = "0"
-L 12/03/2018 - 15:21:30: "sv_stopspeed_prone" = "45"
-L 12/03/2018 - 15:21:30: "mp_maxrounds" = "3"
-L 12/03/2018 - 15:21:30: "sv_thirdperson_height" = "20"
-L 12/03/2018 - 15:21:30: "mp_teamlist" = "hgrunt;scientist"
-L 12/03/2018 - 15:21:30: "mp_timer_pregame" = "10"
-L 12/03/2018 - 15:21:30: "mp_footsteps" = "1"
-L 12/03/2018 - 15:21:30: "sv_noclipaccelerate" = "5"
-L 12/03/2018 - 15:21:30: "sv_hud_deathmessages" = "0"
-L 12/03/2018 - 15:21:30: "sv_thirdperson_mindist" = "25"
-L 12/03/2018 - 15:21:30: "mp_autocrosshair" = "1"
-L 12/03/2018 - 15:21:30: "solo_timer_pregame" = "0"
-L 12/03/2018 - 15:21:30: "sv_airaccelerate" = "10"
-L 12/03/2018 - 15:21:30: "mp_timelimit" = "20"
-L 12/03/2018 - 15:21:30: "mp_supply_gain_obj_destroyed" = "1"
-L 12/03/2018 - 15:21:30: "mp_minteamplayers" = "1"
-L 12/03/2018 - 15:21:30: "mp_cp_proximity_distance" = "3500"
-L 12/03/2018 - 15:21:30: "sv_waterfriction" = "1"
-L 12/03/2018 - 15:21:30: "sv_steamgroup" = ""
-L 12/03/2018 - 15:21:30: "mp_lobbytime" = "10"
-L 12/03/2018 - 15:21:30: "mp_cp_capture_time" = "80"
-L 12/03/2018 - 15:21:30: "mp_cp_speedup_max" = "6"
-L 12/03/2018 - 15:21:30: "mp_supply_gain" = "1"
-L 12/03/2018 - 15:21:30: "sv_hud_scoreboard_show_score_dead" = "1"
-L 12/03/2018 - 15:21:30: "mp_coop_lobbysize" = "6"
-L 12/03/2018 - 15:21:30: "sv_specaccelerate" = "5"
-L 12/03/2018 - 15:21:30: "ins_bot_difficulty" = "1"
-L 12/03/2018 - 15:21:30: "mp_supply_gain_regroup" = "1"
-L 12/03/2018 - 15:21:30: "mp_switchteams_each_round" = "1"
-L 12/03/2018 - 15:21:30: "mp_timer_postround" = "15"
-L 12/03/2018 - 15:21:30: "mp_falldamage" = "0"
-L 12/03/2018 - 15:21:30: "mp_extract_point" = "0"
-L 12/03/2018 - 15:21:30: "sv_alltalk_intermission" = "1"
-L 12/03/2018 - 15:21:30: "mp_respawnwavetime_min" = "20"
-L 12/03/2018 - 15:21:30: "sv_voiceenable" = "1"
-L 12/03/2018 - 15:21:30: "sv_bounce" = "0"
-L 12/03/2018 - 15:21:30: "sv_thirdperson_fov" = "75"
-L 12/03/2018 - 15:21:30: "sv_changelevel_next_round" = "0"
-L 12/03/2018 - 15:21:30: "mp_supply_gain_kill_assist_amount" = "1"
-L 12/03/2018 - 15:21:30: "mp_scrambleteams_auto" = "0"
-L 12/03/2018 - 15:21:30: "sv_noclipspeed" = "5"
-L 12/03/2018 - 15:21:30: "mp_joinwaittime" = "20"
-L 12/03/2018 - 15:21:30: "sv_map_voting" = "1"
-L 12/03/2018 - 15:21:30: "mp_supply_token_bot_base" = "18"
-L 12/03/2018 - 15:21:30: "solo_timer_preround" = "15"
-L 12/03/2018 - 15:21:30: "mp_timer_postgame" = "10"
-L 12/03/2018 - 15:21:30: "mp_respawnwavetime_max" = "30"
-L 12/03/2018 - 15:21:30: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
-L 12/03/2018 - 15:21:30: "sv_hud_targetindicator_party_obstruct" = "0"
-L 12/03/2018 - 15:21:30: "sv_thirdperson_useangle" = "15"
-L 12/03/2018 - 15:21:30: "mp_cp_deteriorate_time" = "0"
-L 12/03/2018 - 15:21:30: "tv_relaypassword" = ""
-L 12/03/2018 - 15:21:30: "mp_supply_token_base" = "20"
-L 12/03/2018 - 15:21:30: "sv_friction" = "4"
-L 12/03/2018 - 15:21:30: "sv_contact" = ""
-L 12/03/2018 - 15:21:30: "sv_thirdperson" = "0"
-L 12/03/2018 - 15:21:30: "doi_coop_cp_proximity_check_frequency" = "5.0"
-L 12/03/2018 - 15:21:30: "sv_hud_deathmessages_spectator" = "0"
-L 12/03/2018 - 15:21:30: "mp_switchteams_each_game" = "0"
-L 12/03/2018 - 15:21:30: "mp_fraglimit" = "0"
-L 12/03/2018 - 15:21:30: "sv_hud_targetindicator_squad_color" = ""
-L 12/03/2018 - 15:21:30: "decalfrequency" = "10"
-L 12/03/2018 - 15:21:30: "sv_map_voting_shuffle" = "1"
-L 12/03/2018 - 15:21:30: "mp_winlimit" = "2"
-L 12/03/2018 - 15:21:30: "sv_hud_targetindicator_squad_obstruct" = "0"
-L 12/03/2018 - 15:21:30: "ins_bot_change_difficulty" = "1"
-L 12/03/2018 - 15:21:30: "mp_supply_rate_winning_team_low" = "0"
-L 12/03/2018 - 15:21:30: "sv_thirdperson_leandist" = "35"
-L 12/03/2018 - 15:21:30: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
-L 12/03/2018 - 15:21:30: server cvars end
-KeyValues Error: RecursiveLoadFromBuffer:  got NULL key in file maps/la_drang_particles.txt
-ConVarRef room_type doesn't point to an existing ConVar
-MATCHMAKING: Server set to playlist 'nam/mp_battles' on ruleset 'default' (crc: 1784564776) (maxplayers: 32-40)
-Playlist Error: Unable to find cvar "liberation"
-Playlist Error: Unable to find cvar "offensive"
-Server logging enabled.
-Writing cfg/banned_user.cfg.
-Server logging enabled.
-Writing cfg/banned_user.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-[CServerUGCManager] Added 2 Workshop items to the download list.
-Unknown command "mp_supply_token_base"
-Loading theater file 'nam' on server
-CSoundEmitterSystem::AddSoundsFromFile:  No such file scripts/nam_sounds_voice.txt
-Can't init ins_team_parameters
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-Failed finding CP area for 1!
-Failed finding CP area for 3!
----- Host_Changelevel ----
-L 12/03/2018 - 16:17:09: Loading map "saigon_embassy"
-L 12/03/2018 - 16:17:09: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 16:17:09: "spec_allow_bots" = "0"
-L 12/03/2018 - 16:17:09: "ins_teamsize" = "0"
-L 12/03/2018 - 16:17:09: "mp_timer_taglines" = "17"
-L 12/03/2018 - 16:17:09: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 16:17:09: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 16:17:09: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 16:17:09: "mp_maxgames" = "1"
-L 12/03/2018 - 16:17:09: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 16:17:09: "mp_flashlight" = "0"
-L 12/03/2018 - 16:17:09: "sv_tags" = "battleye"
-L 12/03/2018 - 16:17:09: "sv_stepsize" = "18"
-L 12/03/2018 - 16:17:09: "sv_alltalk" = "1"
-L 12/03/2018 - 16:17:09: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 16:17:09: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 16:17:09: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 16:17:09: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 16:17:09: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 16:17:09: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 16:17:09: "sv_rollspeed" = "200"
-L 12/03/2018 - 16:17:09: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 16:17:09: "sv_deadtalk" = "0"
-L 12/03/2018 - 16:17:09: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 16:17:09: "mp_fadetoblack" = "0"
-L 12/03/2018 - 16:17:09: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 16:17:09: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 16:17:09: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 16:17:09: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 16:17:09: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 16:17:09: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 16:17:09: "coop" = "0"
-L 12/03/2018 - 16:17:09: "nextlevel" = ""
-L 12/03/2018 - 16:17:09: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 16:17:09: "deathmatch" = "1"
-L 12/03/2018 - 16:17:09: "tv_enable" = "0"
-L 12/03/2018 - 16:17:09: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 16:17:09: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 16:17:09: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 16:17:09: "mp_freezetime" = "15"
-L 12/03/2018 - 16:17:09: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 16:17:09: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 16:17:09: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 16:17:09: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 16:17:09: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 16:17:09: "mp_weaponstay" = "0"
-L 12/03/2018 - 16:17:09: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 16:17:09: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 16:17:09: "mp_friendlyfire" = "1"
-L 12/03/2018 - 16:17:09: "sv_allchat" = "1"
-L 12/03/2018 - 16:17:09: "mp_roundlives" = "0"
-L 12/03/2018 - 16:17:09: "mp_supply_token_max" = "30"
-L 12/03/2018 - 16:17:09: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 16:17:09: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 16:17:09: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 16:17:09: "sv_footsteps" = "1"
-L 12/03/2018 - 16:17:09: "mp_timer_preround" = "18"
-L 12/03/2018 - 16:17:09: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 16:17:09: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 16:17:09: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 16:17:09: "mp_teamplay" = "0"
-L 12/03/2018 - 16:17:09: "sv_specnoclip" = "1"
-L 12/03/2018 - 16:17:09: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 16:17:09: "sv_ruleset" = ""
-L 12/03/2018 - 16:17:09: "mp_roundtime" = "600"
-L 12/03/2018 - 16:17:09: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 16:17:09: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 16:17:09: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 16:17:09: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 16:17:09: "mp_forcerespawn" = "1"
-L 12/03/2018 - 16:17:09: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 16:17:09: "sv_accelerate" = "10"
-L 12/03/2018 - 16:17:09: "sv_gravity" = "800"
-L 12/03/2018 - 16:17:09: "sv_password" = ""
-L 12/03/2018 - 16:17:09: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 16:17:09: "sv_deadvoice" = "0"
-L 12/03/2018 - 16:17:09: "tv_password" = ""
-L 12/03/2018 - 16:17:09: "sv_specspeed" = "3"
-Missing map material: DEV/REFLECTIVITY_90
-Missing map material: DEV/REFLECTIVITY_90
-Missing map material: DEV/REFLECTIVITY_90
-Missing map material: DEV/REFLECTIVITY_90
-Missing map material: DEV/REFLECTIVITY_90
-Missing map material: DEV/REFLECTIVITY_60
-L 12/03/2018 - 16:17:12: Started map "saigon_embassy" (CRC "-1133666644")
-saigon_embassy, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
-[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Server loading custom theater 'nam'
-Reached limit of 128 for WeaponDefinitions
-Gamerules: entering state 'GR_STATE_PREGAME'
-env_soundscape_proxy can't find target soundscape: ''
-env_soundscape_proxy can't find target soundscape: ''
-env_soundscape_proxy can't find target soundscape: ''
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-Failed finding CP area for 1!
-Failed finding CP area for 3!
----- Host_Changelevel ----
-L 12/03/2018 - 17:12:48: Loading map "cu_chi_tunnels"
-L 12/03/2018 - 17:12:48: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 17:12:48: "spec_allow_bots" = "0"
-L 12/03/2018 - 17:12:48: "ins_teamsize" = "0"
-L 12/03/2018 - 17:12:48: "mp_timer_taglines" = "17"
-L 12/03/2018 - 17:12:48: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 17:12:48: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 17:12:48: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 17:12:48: "mp_maxgames" = "1"
-L 12/03/2018 - 17:12:48: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 17:12:48: "mp_flashlight" = "0"
-L 12/03/2018 - 17:12:48: "sv_tags" = "battleye"
-L 12/03/2018 - 17:12:48: "sv_stepsize" = "18"
-L 12/03/2018 - 17:12:48: "sv_alltalk" = "1"
-L 12/03/2018 - 17:12:48: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 17:12:48: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 17:12:48: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 17:12:48: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 17:12:48: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 17:12:48: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 17:12:48: "sv_rollspeed" = "200"
-L 12/03/2018 - 17:12:48: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 17:12:48: "sv_deadtalk" = "0"
-L 12/03/2018 - 17:12:48: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 17:12:48: "mp_fadetoblack" = "0"
-L 12/03/2018 - 17:12:48: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 17:12:48: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 17:12:48: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 17:12:48: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 17:12:48: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 17:12:48: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 17:12:48: "coop" = "0"
-L 12/03/2018 - 17:12:48: "nextlevel" = ""
-L 12/03/2018 - 17:12:48: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 17:12:48: "deathmatch" = "1"
-L 12/03/2018 - 17:12:48: "tv_enable" = "0"
-L 12/03/2018 - 17:12:48: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 17:12:48: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 17:12:48: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 17:12:48: "mp_freezetime" = "15"
-L 12/03/2018 - 17:12:48: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 17:12:48: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 17:12:48: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 17:12:48: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 17:12:48: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 17:12:48: "mp_weaponstay" = "0"
-L 12/03/2018 - 17:12:48: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 17:12:48: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 17:12:48: "mp_friendlyfire" = "1"
-L 12/03/2018 - 17:12:48: "sv_allchat" = "1"
-L 12/03/2018 - 17:12:48: "mp_roundlives" = "0"
-L 12/03/2018 - 17:12:48: "mp_supply_token_max" = "30"
-L 12/03/2018 - 17:12:48: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 17:12:48: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 17:12:48: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 17:12:48: "sv_footsteps" = "1"
-L 12/03/2018 - 17:12:48: "mp_timer_preround" = "18"
-L 12/03/2018 - 17:12:48: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 17:12:48: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 17:12:48: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 17:12:48: "mp_teamplay" = "0"
-L 12/03/2018 - 17:12:48: "sv_specnoclip" = "1"
-L 12/03/2018 - 17:12:48: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 17:12:48: "sv_ruleset" = ""
-L 12/03/2018 - 17:12:48: "mp_roundtime" = "600"
-L 12/03/2018 - 17:12:48: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 17:12:48: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 17:12:48: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 17:12:48: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 17:12:48: "mp_forcerespawn" = "1"
-L 12/03/2018 - 17:12:48: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 17:12:48: "sv_accelerate" = "10"
-L 12/03/2018 - 17:12:48: "sv_gravity" = "800"
-L 12/03/2018 - 17:12:48: "sv_password" = ""
-L 12/03/2018 - 17:12:48: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 17:12:48: "sv_deadvoice" = "0"
-L 12/03/2018 - 17:12:48: "tv_password" = ""
-L 12/03/2018 - 17:12:48: "sv_specspeed" = "3"
-L 12/03/2018 - 17:12:51: Started map "cu_chi_tunnels" (CRC "-1009039878")
-cu_chi_tunnels, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
-[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Server loading custom theater 'nam'
-Reached limit of 128 for WeaponDefinitions
-Attempted to create unknown entity type ins_team_parameters!
-Gamerules: entering state 'GR_STATE_PREGAME'
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-Failed finding CP area for 1!
-Failed finding CP area for 3!
----- Host_Changelevel ----
-L 12/03/2018 - 18:08:28: Loading map "khe_sanh"
-L 12/03/2018 - 18:08:28: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 18:08:28: "spec_allow_bots" = "0"
-L 12/03/2018 - 18:08:28: "ins_teamsize" = "0"
-L 12/03/2018 - 18:08:28: "mp_timer_taglines" = "17"
-L 12/03/2018 - 18:08:28: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 18:08:28: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 18:08:28: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 18:08:28: "mp_maxgames" = "1"
-L 12/03/2018 - 18:08:28: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 18:08:28: "mp_flashlight" = "0"
-L 12/03/2018 - 18:08:28: "sv_tags" = "battleye"
-L 12/03/2018 - 18:08:28: "sv_stepsize" = "18"
-L 12/03/2018 - 18:08:28: "sv_alltalk" = "1"
-L 12/03/2018 - 18:08:28: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 18:08:28: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 18:08:28: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 18:08:28: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 18:08:28: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 18:08:28: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 18:08:28: "sv_rollspeed" = "200"
-L 12/03/2018 - 18:08:28: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 18:08:28: "sv_deadtalk" = "0"
-L 12/03/2018 - 18:08:28: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 18:08:28: "mp_fadetoblack" = "0"
-L 12/03/2018 - 18:08:28: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 18:08:28: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 18:08:28: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 18:08:28: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 18:08:28: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 18:08:28: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 18:08:28: "coop" = "0"
-L 12/03/2018 - 18:08:28: "nextlevel" = ""
-L 12/03/2018 - 18:08:28: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 18:08:28: "deathmatch" = "1"
-L 12/03/2018 - 18:08:28: "tv_enable" = "0"
-L 12/03/2018 - 18:08:28: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 18:08:28: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 18:08:28: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 18:08:28: "mp_freezetime" = "15"
-L 12/03/2018 - 18:08:28: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 18:08:28: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 18:08:28: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 18:08:28: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 18:08:28: "mp_spawnprotectontime" = "30"
-L 12/03/2018 - 18:08:28: "mp_weaponstay" = "0"
-L 12/03/2018 - 18:08:28: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 18:08:28: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 18:08:28: "mp_friendlyfire" = "1"
-L 12/03/2018 - 18:08:28: "sv_allchat" = "1"
-L 12/03/2018 - 18:08:28: "mp_roundlives" = "0"
-L 12/03/2018 - 18:08:28: "mp_supply_token_max" = "30"
-L 12/03/2018 - 18:08:28: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 18:08:28: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 18:08:28: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 18:08:28: "sv_footsteps" = "1"
-L 12/03/2018 - 18:08:28: "mp_timer_preround" = "18"
-L 12/03/2018 - 18:08:28: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 18:08:28: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 18:08:28: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 18:08:28: "mp_teamplay" = "0"
-L 12/03/2018 - 18:08:28: "sv_specnoclip" = "1"
-L 12/03/2018 - 18:08:28: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 18:08:28: "sv_ruleset" = ""
-L 12/03/2018 - 18:08:28: "mp_roundtime" = "600"
-L 12/03/2018 - 18:08:28: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 18:08:28: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 18:08:28: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 18:08:28: "mp_supply_gain_obj_cap" = "1"
-L 12/03/2018 - 18:08:28: "mp_forcerespawn" = "1"
-L 12/03/2018 - 18:08:28: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 18:08:28: "sv_accelerate" = "10"
-L 12/03/2018 - 18:08:28: "sv_gravity" = "800"
-L 12/03/2018 - 18:08:28: "sv_password" = ""
-L 12/03/2018 - 18:08:28: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 18:08:28: "sv_deadvoice" = "0"
-L 12/03/2018 - 18:08:28: "tv_password" = ""
-L 12/03/2018 - 18:08:28: "sv_specspeed" = "3"
-L 12/03/2018 - 18:08:31: Started map "khe_sanh" (CRC "69154015")
-khe_sanh, 
-Executing dedicated server config file
-MATCHMAKING: Server set to playlist 'nam/mp_battles' on ruleset 'default' (crc: 1784564776) (maxplayers: 32-40)
-Playlist Error: Unable to find cvar "liberation"
-Playlist Error: Unable to find cvar "offensive"
-Server logging enabled.
-Writing cfg/banned_user.cfg.
-Server logging enabled.
-Writing cfg/banned_user.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-[CServerUGCManager] Added 2 Workshop items to the download list.
-L 12/03/2018 - 18:08:32: server_cvar: "mp_roundtime" "900"
-L 12/03/2018 - 18:08:32: server_cvar: "mp_respawnwavetime_max" "50"
-Unknown command "mp_supply_token_base"
-Unknown command "mp_artillery_cooldown"
-Playlist: Setting "mp_timer_preround" to "15"
-Loading theater file 'nam' on server
-CSoundEmitterSystem::AddSoundsFromFile:  No such file scripts/nam_sounds_voice.txt
-Can't init ins_team_parameters
-Can't init info_node
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto70-outside'
-Failed finding CP area for 1!
-Failed finding CP area for 3!
-[CWorkshopItem] Born to Kill: Vietnam BETA [881437908] installed!
-L 12/03/2018 - 18:18:41: "triford<5><STEAM_1:0:99704160><>" connected, address "107.178.19.139:27005"
-L 12/03/2018 - 18:18:42: "triford<5><STEAM_1:0:99704160><STEAM_1:0:99704160>" STEAM USERID validated
-BattlEye Server: Player #0 triford - BE GUID: 1a4c89a511bc9b272df47c5e7e2b9d5e
-L 12/03/2018 - 18:19:16: "triford<5><STEAM_1:0:99704160><#Team_Unassigned>" joined team "#us"
-Player inventory: Tried giving "triford" gear "us_heavykit" from template "template_american_rifleman", failed with error "Not enough supply" (5)
-BattlEye Server: Player #0 triford disconnected
-Server is hibernating
----- Host_Changelevel ----
-L 12/03/2018 - 19:04:20: Loading map "hastings"
-L 12/03/2018 - 19:04:20: "sv_maxspeed" = "1000.000000"
-L 12/03/2018 - 19:04:20: "spec_allow_bots" = "0"
-L 12/03/2018 - 19:04:20: "ins_teamsize" = "0"
-L 12/03/2018 - 19:04:20: "mp_timer_taglines" = "17"
-L 12/03/2018 - 19:04:20: "r_VehicleViewDampen" = "1"
-L 12/03/2018 - 19:04:20: "sv_hud_targetindicator_party_color" = ""
-L 12/03/2018 - 19:04:20: "sv_deadtalk_team" = "1"
-L 12/03/2018 - 19:04:20: "mp_maxgames" = "1"
-L 12/03/2018 - 19:04:20: "sv_hud_targetindicator_vip_color" = ""
-L 12/03/2018 - 19:04:20: "mp_flashlight" = "0"
-L 12/03/2018 - 19:04:20: "sv_tags" = "battleye"
-L 12/03/2018 - 19:04:20: "sv_stepsize" = "18"
-L 12/03/2018 - 19:04:20: "sv_alltalk" = "1"
-L 12/03/2018 - 19:04:20: "doi_coop_bot_ranking_officer" = "6"
-L 12/03/2018 - 19:04:20: "mp_supply_rate_losing_team_low" = "0"
-L 12/03/2018 - 19:04:20: "mp_timer_preround_switch" = "30"
-L 12/03/2018 - 19:04:20: "sv_wateraccelerate" = "10"
-L 12/03/2018 - 19:04:20: "sv_playlist" = "nam/mp_battles"
-L 12/03/2018 - 19:04:20: "sv_thirdperson_aimangle" = "45"
-L 12/03/2018 - 19:04:20: "sv_rollspeed" = "200"
-L 12/03/2018 - 19:04:20: "mp_teams_unbalance_limit" = "1"
-L 12/03/2018 - 19:04:20: "sv_deadtalk" = "0"
-L 12/03/2018 - 19:04:20: "sv_alltalk_dead" = "0"
-L 12/03/2018 - 19:04:20: "mp_fadetoblack" = "0"
-L 12/03/2018 - 19:04:20: "sv_alltalk_endgame" = "1"
-L 12/03/2018 - 19:04:20: "mp_spawnprotectiontime_navspawn" = "15"
-L 12/03/2018 - 19:04:20: "mp_friendlyfire_explosives" = "0"
-L 12/03/2018 - 19:04:20: "sv_hud_targetindicator" = "1"
-L 12/03/2018 - 19:04:20: "sv_hud_enemy_wave_display" = "1"
-L 12/03/2018 - 19:04:20: "mp_supply_rate_losing_team_high" = "0"
-L 12/03/2018 - 19:04:20: "coop" = "0"
-L 12/03/2018 - 19:04:20: "nextlevel" = ""
-L 12/03/2018 - 19:04:20: "sv_stopspeed" = "75.000000"
-L 12/03/2018 - 19:04:20: "deathmatch" = "1"
-L 12/03/2018 - 19:04:20: "tv_enable" = "0"
-L 12/03/2018 - 19:04:20: "mp_supply_rate_winning_team_high" = "0"
-L 12/03/2018 - 19:04:20: "doi_coop_bot_ranking" = "1"
-L 12/03/2018 - 19:04:20: "sv_hud_scoreboard_show_score" = "0"
-L 12/03/2018 - 19:04:20: "mp_freezetime" = "15"
-L 12/03/2018 - 19:04:20: "mp_cp_speedup_rate" = "0.35"
-L 12/03/2018 - 19:04:20: "doi_coop_lobby_size" = "8"
-L 12/03/2018 - 19:04:20: "sv_hud_targetindicator_teammate_obstruct" = "1"
-L 12/03/2018 - 19:04:20: "mp_assassination_single_point_max" = "16"
-L 12/03/2018 - 19:04:20: "mp_spawnprotectontime" = "20"
-L 12/03/2018 - 19:04:20: "mp_weaponstay" = "0"
-L 12/03/2018 - 19:04:20: "mp_winlimit_coop" = "1"
-L 12/03/2018 - 19:04:20: "sv_hud_targetindicator_teammate_color" = ""
-L 12/03/2018 - 19:04:20: "mp_friendlyfire" = "1"
-L 12/03/2018 - 19:04:20: "sv_allchat" = "1"
-L 12/03/2018 - 19:04:20: "mp_roundlives" = "0"
-L 12/03/2018 - 19:04:20: "mp_supply_token_max" = "30"
-L 12/03/2018 - 19:04:20: "mp_scrambleteams_auto_windifference" = "3"
-L 12/03/2018 - 19:04:20: "mp_ambush_single_point_max" = "10"
-L 12/03/2018 - 19:04:20: "sv_thirdperson_dist" = "100"
-L 12/03/2018 - 19:04:20: "sv_footsteps" = "1"
-L 12/03/2018 - 19:04:20: "mp_timer_preround" = "15"
-L 12/03/2018 - 19:04:20: "sv_thirdperson_aimdist" = "1000"
-L 12/03/2018 - 19:04:20: "mp_cp_proximity_distance_sabotage" = "1500"
-L 12/03/2018 - 19:04:20: "mp_searchdestroy_single_cache_max" = "12"
-L 12/03/2018 - 19:04:20: "mp_teamplay" = "0"
-L 12/03/2018 - 19:04:20: "sv_specnoclip" = "1"
-L 12/03/2018 - 19:04:20: "mp_switchteams_reset_supply" = "1"
-L 12/03/2018 - 19:04:20: "sv_ruleset" = ""
-L 12/03/2018 - 19:04:20: "mp_roundtime" = "900"
-L 12/03/2018 - 19:04:20: "mp_ignore_win_conditions" = "0"
-L 12/03/2018 - 19:04:20: "mp_timer_preround_first" = "18"
-L 12/03/2018 - 19:04:20: "mp_cp_radio_speedup_rate" = "0.60"
-L 12/03/2018 - 19:04:20: "mp_supply_gain_obj_cap" = "2"
-L 12/03/2018 - 19:04:20: "mp_forcerespawn" = "1"
-L 12/03/2018 - 19:04:20: "mp_supply_gain_kill_assist_threshold" = "5"
-L 12/03/2018 - 19:04:20: "sv_accelerate" = "10"
-L 12/03/2018 - 19:04:20: "sv_gravity" = "800"
-L 12/03/2018 - 19:04:20: "sv_password" = ""
-L 12/03/2018 - 19:04:20: "mp_supply_gain_obj_hero_cap" = "1"
-L 12/03/2018 - 19:04:20: "sv_deadvoice" = "0"
-L 12/03/2018 - 19:04:20: "tv_password" = ""
-L 12/03/2018 - 19:04:20: "sv_specspeed" = "3"
-Missing map material: MAPS/REVOLT/REV_WOODFLOOR_01
-Missing map material: MAPS/REVOLT/REV_WOODFLOOR_01
-L 12/03/2018 - 19:04:23: Started map "hastings" (CRC "-198679814")
-hastings, 
-Executing dedicated server config file
-Playlist Error: Unable to find cvar "ins_bot_quota"
-Playlist Error: Unable to find cvar "frontline"
-Executing 'server.cfg' config file
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-Unknown command "sv_battleye"
-Writing cfg/banned_ip.cfg.
-CModelLoader::Map_IsValid:  No such map 'maps/panzer_tag_btk.bsp'
-Empty mapcycle, falling back to playlist allowed_maps whitelist.
-[CDOIPersistence] You cannot have a ranked server running Workshop modifications. Stats disabled.
-Unknown command "mp_artillery_cooldown"
-Loading theater file 'nam' on server
-CSoundEmitterSystem::AddSoundsFromFile:  No such file scripts/nam_sounds_voice.txt
-Can't init ins_team_parameters
-Can't init info_node
-Can't init info_node
-CGameEventManager::AddListener: event 'teamplay_round_start' unknown.
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto24-outside'
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto59-outside'
-env_soundscape_proxy can't find target soundscape: 'InstanceAuto67-outside'
-Failed finding CP area for 0!
-Failed finding CP area for 2!
-Failed finding CP area for 4!
+Gamerules: entering state 'GR_STATE_PREROUND'
+Warning:: CTrigger_CaptureZone vip_cap_2_t unable to find capture point vip_cap_2
+Warning:: CTrigger_CaptureZone vip_cap_1_t unable to find capture point vip_cap_1
+L 12/06/2018 - 16:09:38: "BOT Geoffrey<3><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<3><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Geoffrey<3><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Jono<4><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<4><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Jono<4><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Nik<5><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<5><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Nik<5><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Serguei<6><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<6><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Serguei<6><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Tom<7><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<7><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Tom<7><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Rich<8><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<8><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Rich<8><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Chuck<9><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<9><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Chuck<9><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Kedhrin<10><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<10><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Kedhrin<10><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Cole<11><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<11><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Cole<11><BOT><#Team_Unassigned>" joined team "#nva"
+NextBot tickrate changed from 0 (0.000ms) to 10 (0.156ms)
+Player inventory: Tried giving "BOT Geoffrey" gear "us_chestrig" from template "template_american_assault", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Jono" gear "us_heavykit" from template "template_american_rifleman", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Nik" gear "us_heavykit" from template "template_american_rifleman", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Serguei" gear "us_heavykit" from template "template_american_rifleman", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Tom" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Rich" weapon "weapon_nam_f1" from template "template_german_assault", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Chuck" gear "ins_heavykit" from template "template_german_rifleman", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Kedhrin" gear "ins_heavykit" from template "template_german_rifleman", failed with error "Not enough supply" (5)
+Player inventory: Tried giving "BOT Cole" gear "ins_heavykit" from template "template_german_rifleman", failed with error "Not enough supply" (5)
+L 12/06/2018 - 16:09:49: "BOT Nik<5><BOT><2>" stuck (position "-1146.45 761.03 48.03") (duration "1.41") L 12/06/2018 - 16:09:49:    path_goal ( "-1840.00 -1040.00 48.03" )
+L 12/06/2018 - 16:09:49: "BOT Nik<5><BOT><2>" stuck (position "-1150.82 761.03 48.03") (duration "1.56") L 12/06/2018 - 16:09:49:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:09:51: "BOT Nik<5><BOT><2>" stuck (position "-1133.41 782.19 48.03") (duration "0.16") L 12/06/2018 - 16:09:51:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:09:52: "BOT Jono<4><BOT><2>" stuck (position "-1877.03 -1279.48 -56.98") (duration "1.41") L 12/06/2018 - 16:09:52:    path_goal ( "-1840.00 -1280.00 -56.97" )
+L 12/06/2018 - 16:09:52: "BOT Jono<4><BOT><2>" stuck (position "-1877.03 -1279.50 -56.98") (duration "1.56") L 12/06/2018 - 16:09:52:    path_goal ( "-1880.00 -940.00 -57.49" )
+L 12/06/2018 - 16:09:54: "BOT Jono<4><BOT><2>" stuck (position "-1888.10 -1253.51 -56.98") (duration "0.16") L 12/06/2018 - 16:09:54:    path_goal ( "-1880.00 -1060.00 -57.29" )
+Gamerules: entering state 'GR_STATE_RND_RUNNING'
+L 12/06/2018 - 16:09:59: "BOT Nik<5><BOT><2>" stuck (position "-1106.77 761.03 48.03") (duration "1.41") L 12/06/2018 - 16:09:59:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:01: "BOT Nik<5><BOT><2>" stuck (position "-1106.66 761.03 93.58") (duration "1.41") L 12/06/2018 - 16:10:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:01: "BOT Nik<5><BOT><2>" stuck (position "-1116.69 761.03 96.66") (duration "1.56") L 12/06/2018 - 16:10:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:03: "BOT Nik<5><BOT><2>" stuck (position "-1099.74 761.03 77.06") (duration "0.16") L 12/06/2018 - 16:10:03:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:11: "BOT Tom<7><BOT><3>" stuck (position "-467.92 -4439.47 -56.97") (duration "1.41") L 12/06/2018 - 16:10:11:    path_goal ( "-470.00 -4400.00 -57.50" )
+L 12/06/2018 - 16:10:11: "BOT Tom<7><BOT><3>" stuck (position "-468.15 -4439.70 -56.97") (duration "1.56") L 12/06/2018 - 16:10:11:    path_goal ( "-480.00 -4460.00 -56.97" )
+L 12/06/2018 - 16:10:11: "BOT Rich<8><BOT><3>" stuck (position "-494.71 -4371.42 -58.04") (duration "1.41") L 12/06/2018 - 16:10:11:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/06/2018 - 16:10:12: "BOT Rich<8><BOT><3>" stuck (position "-485.73 -4369.92 -57.78") (duration "1.56") L 12/06/2018 - 16:10:12:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/06/2018 - 16:10:13: "BOT Kedhrin<10><BOT><3>" stuck (position "-726.62 -5337.64 181.81") (duration "10.20") L 12/06/2018 - 16:10:13:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/06/2018 - 16:10:17: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Chuck<9><BOT><#nva>" with "nam_mac10<45>" at (-1586.248291, -2662.990234, 172.236694)
+L 12/06/2018 - 16:10:22: "BOT Nik<5><BOT><2>" stuck (position "-1078.69 761.03 48.03") (duration "1.41") L 12/06/2018 - 16:10:22:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:22: "BOT Nik<5><BOT><2>" stuck (position "-1100.27 761.01 48.03") (duration "1.56") L 12/06/2018 - 16:10:22:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:26: "BOT Nik<5><BOT><2>" stuck (position "-1062.88 761.12 48.03") (duration "1.41") L 12/06/2018 - 16:10:26:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:26: "BOT Nik<5><BOT><2>" stuck (position "-1079.32 761.63 48.03") (duration "1.56") L 12/06/2018 - 16:10:26:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:10:31: "BOT Kedhrin<10><BOT><3>" stuck (position "-700.06 -3686.55 -96.22") (duration "1.41") L 12/06/2018 - 16:10:31:    path_goal ( "-720.00 -3800.00 -96.42" )
+L 12/06/2018 - 16:10:31: "BOT Kedhrin<10><BOT><3>" stuck (position "-699.60 -3700.86 -96.25") (duration "1.56") L 12/06/2018 - 16:10:31:    path_goal ( "-500.00 -3687.68 -93.87" )
+L 12/06/2018 - 16:10:32: "BOT Kedhrin<10><BOT><3>" stuck (position "-719.36 -3695.16 -95.56") (duration "2.66") L 12/06/2018 - 16:10:32:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:33: "BOT Kedhrin<10><BOT><3>" stuck (position "-703.43 -3679.35 -96.09") (duration "3.75") L 12/06/2018 - 16:10:33:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:34: "BOT Kedhrin<10><BOT><3>" stuck (position "-716.43 -3699.15 -95.65") (duration "4.84") L 12/06/2018 - 16:10:34:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:35: "BOT Kedhrin<10><BOT><3>" stuck (position "-704.34 -3688.72 -96.07") (duration "5.94") L 12/06/2018 - 16:10:35:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:36: "BOT Kedhrin<10><BOT><3>" stuck (position "-704.08 -3686.85 -96.07") (duration "7.03") L 12/06/2018 - 16:10:36:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:37: "BOT Kedhrin<10><BOT><3>" stuck (position "-713.83 -3697.39 -95.74") (duration "8.12") L 12/06/2018 - 16:10:37:    path_goal ( "NULL" )
+commiting suicide and respawning a stuck/Idle bot
+L 12/06/2018 - 16:10:38: "BOT Geoffrey<3><BOT><#us>" committed suicide with "player"
+commiting suicide and respawning a stuck/Idle bot
+L 12/06/2018 - 16:10:38: "BOT Serguei<6><BOT><#us>" committed suicide with "player"
+L 12/06/2018 - 16:10:38: "BOT Kedhrin<10><BOT><3>" stuck (position "-713.43 -3680.06 -95.75") (duration "9.22") L 12/06/2018 - 16:10:38:    path_goal ( "NULL" )

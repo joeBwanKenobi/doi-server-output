@@ -1,0 +1,264 @@
+L 12/06/2018 - 16:08:03: Log file started (file "logs/L000_000_000_000_27015_201812061608_000.log") (game "/media/data-drive/Steam/doi/doi") (version "6948")
+L 12/06/2018 - 16:08:03: server_cvar: "sv_playlist" "nam/mp_battles"
+L 12/06/2018 - 16:08:03: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/06/2018 - 16:08:03: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/06/2018 - 16:08:03: Loading map "vietnam_b5"
+L 12/06/2018 - 16:08:03: server cvars start
+L 12/06/2018 - 16:08:03: "sv_maxspeed" = "320"
+L 12/06/2018 - 16:08:03: "mp_ignore_timer_conditions" = "0"
+L 12/06/2018 - 16:08:03: "spec_allow_bots" = "0"
+L 12/06/2018 - 16:08:03: "sv_rollangle" = "0"
+L 12/06/2018 - 16:08:03: "ins_teamsize" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_proximity_check_frequency" = "3"
+L 12/06/2018 - 16:08:03: "mp_timer_taglines" = "17"
+L 12/06/2018 - 16:08:03: "sv_cheats" = "0"
+L 12/06/2018 - 16:08:03: "r_VehicleViewDampen" = "1"
+L 12/06/2018 - 16:08:03: "doi_bot_difficulty" = "0.000000"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_party_color" = ""
+L 12/06/2018 - 16:08:03: "mp_allowNPCs" = "1"
+L 12/06/2018 - 16:08:03: "sv_deadtalk_team" = "1"
+L 12/06/2018 - 16:08:03: "mp_timer_voting" = "15"
+L 12/06/2018 - 16:08:03: "mp_maxgames" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_friend_obstruct" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_vip_color" = ""
+L 12/06/2018 - 16:08:03: "sv_stopspeed_prone" = "45"
+L 12/06/2018 - 16:08:03: "mp_flashlight" = "0"
+L 12/06/2018 - 16:08:03: "mp_maxrounds" = "1"
+L 12/06/2018 - 16:08:03: "sv_tags" = ""
+L 12/06/2018 - 16:08:03: "sv_thirdperson_height" = "20"
+L 12/06/2018 - 16:08:03: "sv_stepsize" = "18"
+L 12/06/2018 - 16:08:03: "mp_teamlist" = "hgrunt;scientist"
+L 12/06/2018 - 16:08:03: "sv_alltalk" = "1"
+L 12/06/2018 - 16:08:03: "mp_timer_pregame" = "10"
+L 12/06/2018 - 16:08:03: "doi_coop_bot_ranking_officer" = "6"
+L 12/06/2018 - 16:08:03: "mp_footsteps" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_losing_team_low" = "0"
+L 12/06/2018 - 16:08:03: "sv_noclipaccelerate" = "5"
+L 12/06/2018 - 16:08:03: "mp_timer_preround_switch" = "30"
+L 12/06/2018 - 16:08:03: "sv_hud_deathmessages" = "0"
+L 12/06/2018 - 16:08:03: "sv_wateraccelerate" = "10"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_mindist" = "25"
+L 12/06/2018 - 16:08:03: "sv_playlist" = "nam/mp_battles"
+L 12/06/2018 - 16:08:03: "mp_autocrosshair" = "1"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_aimangle" = "45"
+L 12/06/2018 - 16:08:03: "solo_timer_pregame" = "0"
+L 12/06/2018 - 16:08:03: "sv_rollspeed" = "200"
+L 12/06/2018 - 16:08:03: "sv_airaccelerate" = "10"
+L 12/06/2018 - 16:08:03: "mp_teams_unbalance_limit" = "1"
+L 12/06/2018 - 16:08:03: "mp_timelimit" = "0"
+L 12/06/2018 - 16:08:03: "sv_deadtalk" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_obj_destroyed" = "1"
+L 12/06/2018 - 16:08:03: "sv_alltalk_dead" = "0"
+L 12/06/2018 - 16:08:03: "mp_minteamplayers" = "1"
+L 12/06/2018 - 16:08:03: "mp_fadetoblack" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_proximity_distance" = "3500"
+L 12/06/2018 - 16:08:03: "sv_alltalk_endgame" = "1"
+L 12/06/2018 - 16:08:03: "sv_waterfriction" = "1"
+L 12/06/2018 - 16:08:03: "mp_spawnprotectiontime_navspawn" = "15"
+L 12/06/2018 - 16:08:03: "sv_steamgroup" = ""
+L 12/06/2018 - 16:08:03: "mp_friendlyfire_explosives" = "0"
+L 12/06/2018 - 16:08:03: "mp_lobbytime" = "10"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator" = "1"
+L 12/06/2018 - 16:08:03: "mp_cp_capture_time" = "2"
+L 12/06/2018 - 16:08:03: "sv_hud_enemy_wave_display" = "1"
+L 12/06/2018 - 16:08:03: "mp_cp_speedup_max" = "5"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_losing_team_high" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain" = "1"
+L 12/06/2018 - 16:08:03: "coop" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_scoreboard_show_score_dead" = "1"
+L 12/06/2018 - 16:08:03: "nextlevel" = ""
+L 12/06/2018 - 16:08:03: "mp_coop_lobbysize" = "6"
+L 12/06/2018 - 16:08:03: "sv_stopspeed" = "100"
+L 12/06/2018 - 16:08:03: "sv_specaccelerate" = "5"
+L 12/06/2018 - 16:08:03: "deathmatch" = "1"
+L 12/06/2018 - 16:08:03: "ins_bot_difficulty" = "1"
+L 12/06/2018 - 16:08:03: "tv_enable" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_regroup" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_winning_team_high" = "0"
+L 12/06/2018 - 16:08:03: "mp_switchteams_each_round" = "0"
+L 12/06/2018 - 16:08:03: "doi_coop_bot_ranking" = "1"
+L 12/06/2018 - 16:08:03: "mp_timer_postround" = "19"
+L 12/06/2018 - 16:08:03: "sv_hud_scoreboard_show_score" = "0"
+L 12/06/2018 - 16:08:03: "mp_falldamage" = "0"
+L 12/06/2018 - 16:08:03: "mp_freezetime" = "15.0"
+L 12/06/2018 - 16:08:03: "mp_extract_point" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_speedup_rate" = "0.25"
+L 12/06/2018 - 16:08:03: "sv_alltalk_intermission" = "1"
+L 12/06/2018 - 16:08:03: "doi_coop_lobby_size" = "8"
+L 12/06/2018 - 16:08:03: "mp_respawnwavetime_min" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_teammate_obstruct" = "1"
+L 12/06/2018 - 16:08:03: "sv_voiceenable" = "1"
+L 12/06/2018 - 16:08:03: "mp_assassination_single_point_max" = "16"
+L 12/06/2018 - 16:08:03: "sv_bounce" = "0"
+L 12/06/2018 - 16:08:03: "mp_spawnprotectontime" = "30"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_fov" = "75"
+L 12/06/2018 - 16:08:03: "mp_weaponstay" = "0"
+L 12/06/2018 - 16:08:03: "sv_changelevel_next_round" = "0"
+L 12/06/2018 - 16:08:03: "mp_winlimit_coop" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_kill_assist_amount" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_teammate_color" = ""
+L 12/06/2018 - 16:08:03: "mp_scrambleteams_auto" = "0"
+L 12/06/2018 - 16:08:03: "mp_friendlyfire" = "1"
+L 12/06/2018 - 16:08:03: "sv_noclipspeed" = "5"
+L 12/06/2018 - 16:08:03: "sv_allchat" = "1"
+L 12/06/2018 - 16:08:03: "mp_joinwaittime" = "20"
+L 12/06/2018 - 16:08:03: "mp_roundlives" = "0"
+L 12/06/2018 - 16:08:03: "sv_map_voting" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_token_max" = "30"
+L 12/06/2018 - 16:08:03: "mp_supply_token_bot_base" = "18"
+L 12/06/2018 - 16:08:03: "mp_scrambleteams_auto_windifference" = "3"
+L 12/06/2018 - 16:08:03: "solo_timer_preround" = "15"
+L 12/06/2018 - 16:08:03: "mp_ambush_single_point_max" = "10"
+L 12/06/2018 - 16:08:03: "mp_timer_postgame" = "0"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_dist" = "100"
+L 12/06/2018 - 16:08:03: "mp_respawnwavetime_max" = "0"
+L 12/06/2018 - 16:08:03: "sv_footsteps" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
+L 12/06/2018 - 16:08:03: "mp_timer_preround" = "18"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_party_obstruct" = "0"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_aimdist" = "1000"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_useangle" = "15"
+L 12/06/2018 - 16:08:03: "mp_cp_proximity_distance_sabotage" = "1500"
+L 12/06/2018 - 16:08:03: "mp_cp_deteriorate_time" = "8"
+L 12/06/2018 - 16:08:03: "mp_searchdestroy_single_cache_max" = "12"
+L 12/06/2018 - 16:08:03: "tv_relaypassword" = ""
+L 12/06/2018 - 16:08:03: "mp_teamplay" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_token_base" = "10"
+L 12/06/2018 - 16:08:03: "sv_specnoclip" = "1"
+L 12/06/2018 - 16:08:03: "sv_friction" = "4"
+L 12/06/2018 - 16:08:03: "mp_switchteams_reset_supply" = "1"
+L 12/06/2018 - 16:08:03: "sv_contact" = ""
+L 12/06/2018 - 16:08:03: "sv_ruleset" = ""
+L 12/06/2018 - 16:08:03: "sv_thirdperson" = "0"
+L 12/06/2018 - 16:08:03: "mp_roundtime" = "210"
+L 12/06/2018 - 16:08:03: "doi_coop_cp_proximity_check_frequency" = "5.0"
+L 12/06/2018 - 16:08:03: "mp_ignore_win_conditions" = "0"
+L 12/06/2018 - 16:08:03: "sv_hud_deathmessages_spectator" = "0"
+L 12/06/2018 - 16:08:03: "mp_timer_preround_first" = "18"
+L 12/06/2018 - 16:08:03: "mp_switchteams_each_game" = "0"
+L 12/06/2018 - 16:08:03: "mp_cp_radio_speedup_rate" = "0.50"
+L 12/06/2018 - 16:08:03: "mp_fraglimit" = "0"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_obj_cap" = "1"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_squad_color" = ""
+L 12/06/2018 - 16:08:03: "mp_forcerespawn" = "1"
+L 12/06/2018 - 16:08:03: "decalfrequency" = "10"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_kill_assist_threshold" = "5"
+L 12/06/2018 - 16:08:03: "sv_map_voting_shuffle" = "1"
+L 12/06/2018 - 16:08:03: "sv_accelerate" = "10"
+L 12/06/2018 - 16:08:03: "mp_winlimit" = "5"
+L 12/06/2018 - 16:08:03: "sv_gravity" = "800"
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_squad_obstruct" = "0"
+L 12/06/2018 - 16:08:03: "sv_password" = ""
+L 12/06/2018 - 16:08:03: "ins_bot_change_difficulty" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_gain_obj_hero_cap" = "1"
+L 12/06/2018 - 16:08:03: "mp_supply_rate_winning_team_low" = "0"
+L 12/06/2018 - 16:08:03: "sv_deadvoice" = "0"
+L 12/06/2018 - 16:08:03: "sv_thirdperson_leandist" = "35"
+L 12/06/2018 - 16:08:03: "tv_password" = ""
+L 12/06/2018 - 16:08:03: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
+L 12/06/2018 - 16:08:03: "sv_specspeed" = "3"
+L 12/06/2018 - 16:08:03: server cvars end
+L 12/06/2018 - 16:08:04: Started map "vietnam_b5" (CRC "1881228412")
+L 12/06/2018 - 16:08:04: server_cvar: "mp_supply_token_base" "20"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_timer_postround" "15"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_timer_postgame" "10"
+L 12/06/2018 - 16:08:04: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/06/2018 - 16:08:04: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_maxrounds" "3"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_winlimit" "2"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_timelimit" "20"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_roundtime" "600"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_capture_time" "80"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_deteriorate_time" "0"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_respawnwavetime_min" "20"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_respawnwavetime_max" "30"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_freezetime" "15"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_switchteams_each_round" "1"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_speedup_rate" "0.35"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_radio_speedup_rate" "0.60"
+L 12/06/2018 - 16:08:04: server_cvar: "mp_cp_speedup_max" "6"
+L 12/06/2018 - 16:08:04: server_cvar: "sv_maxspeed" "1000.000000"
+L 12/06/2018 - 16:08:04: server_cvar: "sv_stopspeed" "75.000000"
+L 12/06/2018 - 16:08:08: server_cvar: "sv_tags" "battleye"
+L 12/06/2018 - 16:08:08: server_cvar: "sv_tags" "battleye"
+L 12/06/2018 - 16:08:40: "b00jum<2><STEAM_1:1:9014066><>" connected, address "172.73.164.22:27005"
+L 12/06/2018 - 16:08:41: "b00jum<2><STEAM_1:1:9014066><STEAM_1:1:9014066>" STEAM USERID validated
+L 12/06/2018 - 16:08:45: "b00jum<2><STEAM_1:1:9014066><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:08:45: "b00jum<2><STEAM_1:1:9014066><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Geoffrey<3><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<3><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Geoffrey<3><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Jono<4><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<4><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Jono<4><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Nik<5><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<5><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Nik<5><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Serguei<6><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<6><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Serguei<6><BOT><#Team_Unassigned>" joined team "#us"
+L 12/06/2018 - 16:09:38: "BOT Tom<7><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<7><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Tom<7><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Rich<8><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<8><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Rich<8><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Chuck<9><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<9><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Chuck<9><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Kedhrin<10><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<10><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Kedhrin<10><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:38: "BOT Cole<11><BOT><>" connected, address "none"
+L 12/06/2018 - 16:09:38: "<11><BOT><>" entered the game
+L 12/06/2018 - 16:09:38: "BOT Cole<11><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/06/2018 - 16:09:49: "BOT Nik<5><BOT><2>" stuck (position "-1146.45 761.03 48.03") (duration "1.41") L 12/06/2018 - 16:09:49:    path_goal ( "-1840.00 -1040.00 48.03" )
+L 12/06/2018 - 16:09:49: "BOT Nik<5><BOT><2>" stuck (position "-1150.82 761.03 48.03") (duration "1.56") L 12/06/2018 - 16:09:49:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:09:51: "BOT Nik<5><BOT><2>" stuck (position "-1133.41 782.19 48.03") (duration "0.16") L 12/06/2018 - 16:09:51:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:09:52: "BOT Jono<4><BOT><2>" stuck (position "-1877.03 -1279.48 -56.98") (duration "1.41") L 12/06/2018 - 16:09:52:    path_goal ( "-1840.00 -1280.00 -56.97" )
+L 12/06/2018 - 16:09:52: "BOT Jono<4><BOT><2>" stuck (position "-1877.03 -1279.50 -56.98") (duration "1.56") L 12/06/2018 - 16:09:52:    path_goal ( "-1880.00 -940.00 -57.49" )
+L 12/06/2018 - 16:09:54: "BOT Jono<4><BOT><2>" stuck (position "-1888.10 -1253.51 -56.98") (duration "0.16") L 12/06/2018 - 16:09:54:    path_goal ( "-1880.00 -1060.00 -57.29" )
+L 12/06/2018 - 16:09:59: "BOT Nik<5><BOT><2>" stuck (position "-1106.77 761.03 48.03") (duration "1.41") L 12/06/2018 - 16:09:59:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:01: "BOT Nik<5><BOT><2>" stuck (position "-1106.66 761.03 93.58") (duration "1.41") L 12/06/2018 - 16:10:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:01: "BOT Nik<5><BOT><2>" stuck (position "-1116.69 761.03 96.66") (duration "1.56") L 12/06/2018 - 16:10:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:03: "BOT Nik<5><BOT><2>" stuck (position "-1099.74 761.03 77.06") (duration "0.16") L 12/06/2018 - 16:10:03:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:11: "BOT Tom<7><BOT><3>" stuck (position "-467.92 -4439.47 -56.97") (duration "1.41") L 12/06/2018 - 16:10:11:    path_goal ( "-470.00 -4400.00 -57.50" )
+L 12/06/2018 - 16:10:11: "BOT Tom<7><BOT><3>" stuck (position "-468.15 -4439.70 -56.97") (duration "1.56") L 12/06/2018 - 16:10:11:    path_goal ( "-480.00 -4460.00 -56.97" )
+L 12/06/2018 - 16:10:11: "BOT Rich<8><BOT><3>" stuck (position "-494.71 -4371.42 -58.04") (duration "1.41") L 12/06/2018 - 16:10:11:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/06/2018 - 16:10:12: "BOT Rich<8><BOT><3>" stuck (position "-485.73 -4369.92 -57.78") (duration "1.56") L 12/06/2018 - 16:10:12:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/06/2018 - 16:10:13: "BOT Kedhrin<10><BOT><3>" stuck (position "-726.62 -5337.64 181.81") (duration "10.20") L 12/06/2018 - 16:10:13:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/06/2018 - 16:10:17: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Chuck<9><BOT><#nva>" with "nam_mac10<45>" at (-1586.248291, -2662.990234, 172.236694)
+L 12/06/2018 - 16:10:22: "BOT Nik<5><BOT><2>" stuck (position "-1078.69 761.03 48.03") (duration "1.41") L 12/06/2018 - 16:10:22:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:22: "BOT Nik<5><BOT><2>" stuck (position "-1100.27 761.01 48.03") (duration "1.56") L 12/06/2018 - 16:10:22:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:26: "BOT Nik<5><BOT><2>" stuck (position "-1062.88 761.12 48.03") (duration "1.41") L 12/06/2018 - 16:10:26:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:26: "BOT Nik<5><BOT><2>" stuck (position "-1079.32 761.63 48.03") (duration "1.56") L 12/06/2018 - 16:10:26:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:10:31: "BOT Kedhrin<10><BOT><3>" stuck (position "-700.06 -3686.55 -96.22") (duration "1.41") L 12/06/2018 - 16:10:31:    path_goal ( "-720.00 -3800.00 -96.42" )
+L 12/06/2018 - 16:10:31: "BOT Kedhrin<10><BOT><3>" stuck (position "-699.60 -3700.86 -96.25") (duration "1.56") L 12/06/2018 - 16:10:31:    path_goal ( "-500.00 -3687.68 -93.87" )
+L 12/06/2018 - 16:10:32: "BOT Kedhrin<10><BOT><3>" stuck (position "-719.36 -3695.16 -95.56") (duration "2.66") L 12/06/2018 - 16:10:32:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:33: "BOT Kedhrin<10><BOT><3>" stuck (position "-703.43 -3679.35 -96.09") (duration "3.75") L 12/06/2018 - 16:10:33:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:34: "BOT Kedhrin<10><BOT><3>" stuck (position "-716.43 -3699.15 -95.65") (duration "4.84") L 12/06/2018 - 16:10:34:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:35: "BOT Kedhrin<10><BOT><3>" stuck (position "-704.34 -3688.72 -96.07") (duration "5.94") L 12/06/2018 - 16:10:35:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:36: "BOT Kedhrin<10><BOT><3>" stuck (position "-704.08 -3686.85 -96.07") (duration "7.03") L 12/06/2018 - 16:10:36:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:37: "BOT Kedhrin<10><BOT><3>" stuck (position "-713.83 -3697.39 -95.74") (duration "8.12") L 12/06/2018 - 16:10:37:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:38: "BOT Geoffrey<3><BOT><#us>" committed suicide with "player"
+L 12/06/2018 - 16:10:38: "BOT Serguei<6><BOT><#us>" committed suicide with "player"
+L 12/06/2018 - 16:10:38: "BOT Kedhrin<10><BOT><3>" stuck (position "-713.43 -3680.06 -95.75") (duration "9.22") L 12/06/2018 - 16:10:38:    path_goal ( "NULL" )
+L 12/06/2018 - 16:10:47: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Cole<11><BOT><#nva>" with "nam_mac10<45>" at (-1140.449097, -3100.926025, -50.777210)
+L 12/06/2018 - 16:10:50: "BOT Nik<5><BOT><2>" stuck (position "-1086.86 761.21 48.03") (duration "1.41") L 12/06/2018 - 16:10:50:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:50: "BOT Nik<5><BOT><2>" stuck (position "-1101.71 761.14 77.06") (duration "1.56") L 12/06/2018 - 16:10:50:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:55: "BOT Nik<5><BOT><2>" stuck (position "-1068.97 764.29 48.03") (duration "1.41") L 12/06/2018 - 16:10:55:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:10:55: "BOT Nik<5><BOT><2>" stuck (position "-1085.25 763.87 60.38") (duration "1.56") L 12/06/2018 - 16:10:55:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:10:57: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Rich<8><BOT><#nva>" with "nam_mac10<45>" at (-499.039520, -4377.121094, -57.824837)
+L 12/06/2018 - 16:11:02: "BOT Nik<5><BOT><2>" stuck (position "-1114.37 761.00 48.03") (duration "1.41") L 12/06/2018 - 16:11:02:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/06/2018 - 16:11:02: "BOT Nik<5><BOT><2>" stuck (position "-1110.77 761.00 48.03") (duration "1.56") L 12/06/2018 - 16:11:02:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/06/2018 - 16:11:07: "BOT Tom<7><BOT><3>" stuck (position "-476.27 -4449.52 -56.97") (duration "0.16") L 12/06/2018 - 16:11:07:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/06/2018 - 16:11:08: "BOT Tom<7><BOT><3>" stuck (position "-470.89 -4456.16 -56.97") (duration "1.25") L 12/06/2018 - 16:11:08:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/06/2018 - 16:11:09: "BOT Tom<7><BOT><3>" stuck (position "-506.89 -4450.58 -56.97") (duration "0.31") L 12/06/2018 - 16:11:09:    path_goal ( "-525.00 -4380.00 -58.51" )
+L 12/06/2018 - 16:11:18: "BOT Tom<7><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_ppsh41<63>" at (-1352.320801, -2795.111816, -25.364441)
+L 12/06/2018 - 16:11:21: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Chuck<9><BOT><#nva>" with "grenade_mk2<18>" at (-467.369904, -4588.221191, -56.968750)
+L 12/06/2018 - 16:11:21: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Rich<8><BOT><#nva>" with "grenade_mk2<18>" at (-687.572815, -4427.124512, -56.968750)
+L 12/06/2018 - 16:11:25: "b00jum<2><STEAM_1:1:9014066><#us>" disconnected (reason "Disconnected.")
+L 12/06/2018 - 16:11:25: "BOT Geoffrey<3><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/06/2018 - 16:11:25: "BOT Jono<4><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/06/2018 - 16:11:25: "BOT Nik<5><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/06/2018 - 16:11:25: "BOT Serguei<6><BOT><#us>" disconnected (reason 
