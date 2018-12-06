@@ -26,6 +26,8 @@ class User(object):
 		self.team = team_cur
 		self.c_date = c_date
 		self.c_time = c_time
+		self.kills = 0
+		self.deaths = 0
 		# self.instances.append(self)
 		"""
 		Need to implement hashfile to store ip's and loc info to save 
@@ -34,8 +36,9 @@ class User(object):
 		self.location = self.get_location(ip)
 
 	def get_location(self, ip):
-		with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
-			loc = ast.literal_eval(response.read().decode('UTF-8'))
+		loc = 'TEST LOCATION SAVING CALLS'
+		# with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
+		# 	loc = ast.literal_eval(response.read().decode('UTF-8'))
 		return loc
 
 	@property
@@ -80,24 +83,22 @@ def handle_line(line):
 		print(line)
 
 	elif 'killed' in line:
-		print('Handling Killed Line')
 		steamid = parse_steamid(line)
 		steamid_2 = parse_steamid_2(line)
-		connections[steamid].kills += 1
-		connections[steamid_2].deaths += 1
-		# print("{} just killed {}, {}:{} has {} kills and {} deaths."\
-		# 		.format(connections[steamid].uname, connections[steamid_2].uname, \
-		# 		connections[steamid].uname, connections[steamid].steamid) \
-		# 		str(connections[steamid].kills), str(connections[steamid].deaths))
-		# print("------------------>{}:{} has {} kills and {} deaths."\
-		# 		.format(connections[steamid_2].uname, connections[steamid_2].steamid, \
-		# 		str(connections[steamid_2].kills), str(connections[steamid_2].deaths)))
-		print("{} just killed {}, {}:{} has {} kills and {} deaths."\
-				.format(connections[steamid].uname, connections[steamid].steamid))
-		print("------------------>{}:{} has been killed by {}:{}."\
-				.format(connections[steamid_2].uname, connections[steamid_2].steamid, \
-				connections[steamid].uname, connections[steamid].steamid))
+		'''If all Steam IDs in kill exist as objects in connections{} then increase kill 
+		count for steamid and death count for steamid_2 
+		'''
+		if all (ids in connections for ids in (steamid, steamid_2)):
+			connections[steamid].kills += 1
+			connections[steamid_2].deaths += 1
+			print("{}: K:{} D:{} just killed {}: K:{} D:{}"\
+				.format(connections[steamid].uname, connections[steamid].kills, connections[steamid].deaths,\
+				 connections[steamid_2].uname, connections[steamid_2].kills, connections[steamid_2].deaths))
+			print()
+		else:
+			print("A STEAM ID DOESN'T EXIST IN connections")
 
+			
 	elif ' say' in line:
 		print('Handling Global Say Line')
 		print(line)
@@ -116,13 +117,13 @@ def handle_line(line):
 
 def parse_steamid(line):
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
-	steamid = steam_id_pattern.search(line).group(1)
-	return steamid
+	steamid = steam_id_pattern.findall(line)
+	return steamid[0]
 
 def parse_steamid_2(line):
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
-	steamid2 = steam_id_pattern.search(line)
-	return steamid2.group(2)
+	steamid = steam_id_pattern.findall(line)
+	return steamid[1]
 
 def parse_uname(line):
 	uname_pattern = re.compile(r'"([\w\s]+)')
@@ -177,7 +178,7 @@ def main():
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
 
 def from_file():
-	log_file = 'testlog1.txt'
+	log_file = 'kill-line-test.txt'
 	file = open('logs/{}'.format(log_file), 'r')
 	try:
 		for line in file:
