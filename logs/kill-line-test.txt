@@ -1,0 +1,11 @@
+L 09/24/2018 - 12:11:33: "Garebear<557><STEAM_1:1:51146872><>" connected, address "172.1.119.26:27005"
+L 09/24/2018 - 12:11:43: "GOLDEN AK<558><STEAM_1:0:46048519><>" connected, address "67.247.206.175:27005"
+L 09/24/2018 - 12:18:53: "DerHenricus03<559><STEAM_1:0:158941909><>" connected, address "87.182.19.38:27005"
+L 12/04/2018 - 11:43:35: "b00jum<2><STEAM_1:1:9014066><>" connected, address "172.73.164.22:27005"
+L 12/04/2018 - 11:44:21: "BOT John<3><BOT><>" connected, address "none"
+L 09/24/2018 - 12:13:41: "GOLDEN AK<558><STEAM_1:0:46048519><#nva>" killed "Garebear<557><STEAM_1:1:51146872><#nva>" with "nam_svt40<70>" at (-194.081360, -1328.414307, 0.031250)
+L 09/24/2018 - 12:24:51: "Garebear<557><STEAM_1:1:51146872><#us>" killed "DerHenricus03<559><STEAM_1:0:158941909><#nva>" with "nam_m14<77>" at (1593.718506, 2824.930664, 824.078674)
+L 09/24/2018 - 12:20:52: "Garebear<557><STEAM_1:1:51146872><#us>" killed "GOLDEN AK<558><STEAM_1:0:46048519><#nva>" with "nam_m1911<39>" at (-93.655937, -435.965515, 798.031250)
+L 12/04/2018 - 11:45:39: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_m40a1<53>" at (-1575.459473, -3613.974365, 197.562500)
+L 12/04/2018 - 11:45:39: "BOT John<3><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_m40a1<53>" at (-1575.459473, -3613.974365, 197.562500)
+L 12/04/2018 - 11:45:39: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT John<3><BOT><#nva>" with "nam_m40a1<53>" at (-1575.459473, -3613.974365, 197.562500)
