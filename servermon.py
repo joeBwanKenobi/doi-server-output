@@ -58,7 +58,7 @@ class User(object):
 	@classmethod
 	def bot_from_string(cls, line):
 		# c = 
-		c_date, c_time, steam_id, uname = parse_date(line), parse_time(line), parse_bot_id(line),\
+		c_date, c_time, steam_id, uname = parse_date(line), parse_time(line), parse_bot_id(line)[0],\
 														parse_uname(line)
 		return cls(c_date, c_time, steam_id, uname)
 
@@ -76,7 +76,7 @@ def handle_line(line):
 
 	if ' connected,' in line:
 		if '<BOT>' in line:
-			steamid = parse_bot_id(line)
+			steamid = parse_bot_id(line)[0]
 			connections[steamid] = User.bot_from_string(line)
 			for key,val in connections[steamid].__dict__.items():
 				print(key, ":", val)
@@ -92,16 +92,28 @@ def handle_line(line):
 		print(line)
 
 	elif 'joined' in line:
-		print('Handling Joined Line')
-		print(line)
+		# import pdb; pdb.set_trace()
+		if 'BOT' in line:
+			steamid = parse_bot_id(line)[0]
+			team = parse_team(line)
+			connections[steamid].team_cur = team[1]
+			print("Player: {}({}): joined team {}".format(connections[steamid].uname, team[0], team[1]))
+			print()
+		else:
+			steamid = parse_steamid(line)[0]
+			team = parse_team(line)
+			connections[steamid].team_cur = team[1]
+			print("Player: {}({}): joined team {}".format(connections[steamid].uname, team[0], team[1]))
+
+
 	
 	elif ' killed ' in line:
 		if '<BOT>' in line and not parse_steamid(line):  # Only bots in line, bot on bot crime
 			bot_id_list = parse_bot_id(line)
 			steamid, steamid_2 = bot_id_list[0], bot_id_list[1]
 		elif '<BOT>' in line:
-			steamid = parse_steamid(line)[0] if is_first(line) else parse_bot_id(line)  # Player with SteamID in first position, killed bot
-			steamid_2 = parse_bot_id(line) if is_first(line) else parse_steamid(line)[0]  # Bot in first position, killed Player with SteamID
+			steamid = parse_steamid(line)[0] if is_first(line) else parse_bot_id(line)[0]  # Player with SteamID in first position, killed bot
+			steamid_2 = parse_bot_id(line)[0] if is_first(line) else parse_steamid(line)[0]  # Bot in first position, killed Player with SteamID
 		else:
 			steamid_list = parse_steamid(line)
 			steamid, steamid_2 = steamid_list[0], steamid_2[1]
@@ -120,12 +132,15 @@ def handle_line(line):
 			print("A STEAM ID DOESN'T EXIST IN connections")
 	
 	elif ' say' in line:
-		steamid = parse_steamid(line)
-		print("{} - {}> {}: {}".format(parse_date(line), parse_time(line), connections[steamid].uname), parse_message(line))
+		steamid = parse_steamid(line)[0]
+		print('{} - {}> {}: {}'.format(parse_date(line), parse_time(line), connections[steamid].uname, parse_message(line)))
+		print()
 
 	elif 'say_team' in line:
-		steamid = parse_steamid(line)
-		print("{} - {}> {}({}): {}".format(parse_date(line), parse_time(line), connections[steamid].uname), connections[steamid].team, parse_message(line))
+		steamid = parse_steamid(line)[0]
+		print('{} - {}> {}({}): {}'.format(parse_date(line), parse_time(line), connections[steamid].uname,\
+		 connections[steamid].team, parse_message(line)))
+		print()
 
 	elif 'triggered' in line:
 		print('Handling Triggered / Win Line')
@@ -133,7 +148,7 @@ def handle_line(line):
 
 
 def parse_steamid(line):
-	'''Returns first Steam ID found in line'''
+	'''Returns list of Steam ID's found in line'''
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
 	steamid = steam_id_pattern.findall(line)
 	if not steamid:
@@ -148,14 +163,14 @@ def parse_steamid(line):
 # 	return steamid[1]
 
 def parse_bot_id(line):
-	'''Returns BotID from line'''
+	'''Returns list of BotID's from line'''
 	bot_id_pattern = re.compile(r'<(\d+)><(\w+)>')
 	botid = bot_id_pattern.findall(line)
 	if len(botid) > 1:
 		botid = [botid[0][0] + botid[0][1], botid[1][0] + botid[1][1]]
 		return botid
 	else:
-		botid = botid[0][0] + botid[0][1]
+		botid = [botid[0][0] + botid[0][1]]
 		return botid
 
 def parse_uname(line):
@@ -188,17 +203,17 @@ def parse_coords(line):
 	coords = coords_pattern.search(line).group()
 	return coords
 
-def parse_team_1(line):
-	'''Return first team found in line'''
-	team_1_pattern = re.compile(r'(<#)(\w{2,15})')
-	team = team_1_pattern.search(line).group(2)
+def parse_team(line):
+	'''Returns list of teams found in line'''
+	team_pattern = re.compile(r'#(\w{1,15})')
+	team = team_pattern.findall(line)
 	return team
 
-def parse_team_2(line):
-	'''Return second team in line'''
-	team_2_pattern = re.compile(r'("#)(\w{2,15})')
-	team = team_2_pattern.search(line).group(2)
-	return team
+# def parse_team_2(line):
+# 	'''Return second team in line'''
+# 	team_2_pattern = re.compile(r'("#)(\w{2,15})')
+# 	team = team_2_pattern.search(line).group(2)
+	# return team
 
 def parse_message(line):
 	'''Return user chat input'''
@@ -206,7 +221,6 @@ def parse_message(line):
 	return msg_pattern.search(line).group()
 
 def is_first(line):
-	# import pdb; pdb.set_trace()
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
 	bot_id_pattern = re.compile(r'<(\d+)><(\w+)>')
 
@@ -242,7 +256,7 @@ def main():
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
 
 def from_file():
-	log_file = 'NEWlog'
+	log_file = 'saylog'
 	file = open('logs/{}.txt'.format(log_file), 'r')
 	try:
 		for line in file:
