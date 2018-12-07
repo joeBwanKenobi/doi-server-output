@@ -1,0 +1,1247 @@
+L 12/07/2018 - 10:37:58: Log file started (file "logs/L000_000_000_000_27015_201812071037_000.log") (game "/media/data-drive/Steam/doi/doi") (version "6948")
+L 12/07/2018 - 10:37:58: server_cvar: "sv_playlist" "nam/mp_battles"
+L 12/07/2018 - 10:37:58: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/07/2018 - 10:37:58: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/07/2018 - 10:37:58: Loading map "vietnam_b5"
+L 12/07/2018 - 10:37:58: server cvars start
+L 12/07/2018 - 10:37:58: "sv_maxspeed" = "320"
+L 12/07/2018 - 10:37:58: "mp_ignore_timer_conditions" = "0"
+L 12/07/2018 - 10:37:58: "spec_allow_bots" = "0"
+L 12/07/2018 - 10:37:58: "sv_rollangle" = "0"
+L 12/07/2018 - 10:37:58: "ins_teamsize" = "0"
+L 12/07/2018 - 10:37:58: "mp_cp_proximity_check_frequency" = "3"
+L 12/07/2018 - 10:37:58: "mp_timer_taglines" = "17"
+L 12/07/2018 - 10:37:58: "sv_cheats" = "0"
+L 12/07/2018 - 10:37:58: "r_VehicleViewDampen" = "1"
+L 12/07/2018 - 10:37:58: "doi_bot_difficulty" = "0.000000"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_party_color" = ""
+L 12/07/2018 - 10:37:58: "mp_allowNPCs" = "1"
+L 12/07/2018 - 10:37:58: "sv_deadtalk_team" = "1"
+L 12/07/2018 - 10:37:58: "mp_timer_voting" = "15"
+L 12/07/2018 - 10:37:58: "mp_maxgames" = "1"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_friend_obstruct" = "0"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_vip_color" = ""
+L 12/07/2018 - 10:37:58: "sv_stopspeed_prone" = "45"
+L 12/07/2018 - 10:37:58: "mp_flashlight" = "0"
+L 12/07/2018 - 10:37:58: "mp_maxrounds" = "1"
+L 12/07/2018 - 10:37:58: "sv_tags" = ""
+L 12/07/2018 - 10:37:58: "sv_thirdperson_height" = "20"
+L 12/07/2018 - 10:37:58: "sv_stepsize" = "18"
+L 12/07/2018 - 10:37:58: "mp_teamlist" = "hgrunt;scientist"
+L 12/07/2018 - 10:37:58: "sv_alltalk" = "1"
+L 12/07/2018 - 10:37:58: "mp_timer_pregame" = "10"
+L 12/07/2018 - 10:37:58: "doi_coop_bot_ranking_officer" = "6"
+L 12/07/2018 - 10:37:58: "mp_footsteps" = "1"
+L 12/07/2018 - 10:37:58: "mp_supply_rate_losing_team_low" = "0"
+L 12/07/2018 - 10:37:58: "sv_noclipaccelerate" = "5"
+L 12/07/2018 - 10:37:58: "mp_timer_preround_switch" = "30"
+L 12/07/2018 - 10:37:58: "sv_hud_deathmessages" = "0"
+L 12/07/2018 - 10:37:58: "sv_wateraccelerate" = "10"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_mindist" = "25"
+L 12/07/2018 - 10:37:58: "sv_playlist" = "nam/mp_battles"
+L 12/07/2018 - 10:37:58: "mp_autocrosshair" = "1"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_aimangle" = "45"
+L 12/07/2018 - 10:37:58: "solo_timer_pregame" = "0"
+L 12/07/2018 - 10:37:58: "sv_rollspeed" = "200"
+L 12/07/2018 - 10:37:58: "sv_airaccelerate" = "10"
+L 12/07/2018 - 10:37:58: "mp_teams_unbalance_limit" = "1"
+L 12/07/2018 - 10:37:58: "mp_timelimit" = "0"
+L 12/07/2018 - 10:37:58: "sv_deadtalk" = "0"
+L 12/07/2018 - 10:37:58: "mp_supply_gain_obj_destroyed" = "1"
+L 12/07/2018 - 10:37:58: "sv_alltalk_dead" = "0"
+L 12/07/2018 - 10:37:58: "mp_minteamplayers" = "1"
+L 12/07/2018 - 10:37:58: "mp_fadetoblack" = "0"
+L 12/07/2018 - 10:37:58: "mp_cp_proximity_distance" = "3500"
+L 12/07/2018 - 10:37:58: "sv_alltalk_endgame" = "1"
+L 12/07/2018 - 10:37:58: "sv_waterfriction" = "1"
+L 12/07/2018 - 10:37:58: "mp_spawnprotectiontime_navspawn" = "15"
+L 12/07/2018 - 10:37:58: "sv_steamgroup" = ""
+L 12/07/2018 - 10:37:58: "mp_friendlyfire_explosives" = "0"
+L 12/07/2018 - 10:37:58: "mp_lobbytime" = "10"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator" = "1"
+L 12/07/2018 - 10:37:58: "mp_cp_capture_time" = "2"
+L 12/07/2018 - 10:37:58: "sv_hud_enemy_wave_display" = "1"
+L 12/07/2018 - 10:37:58: "mp_cp_speedup_max" = "5"
+L 12/07/2018 - 10:37:58: "mp_supply_rate_losing_team_high" = "0"
+L 12/07/2018 - 10:37:58: "mp_supply_gain" = "1"
+L 12/07/2018 - 10:37:58: "coop" = "0"
+L 12/07/2018 - 10:37:58: "sv_hud_scoreboard_show_score_dead" = "1"
+L 12/07/2018 - 10:37:58: "nextlevel" = ""
+L 12/07/2018 - 10:37:58: "mp_coop_lobbysize" = "6"
+L 12/07/2018 - 10:37:58: "sv_stopspeed" = "100"
+L 12/07/2018 - 10:37:58: "sv_specaccelerate" = "5"
+L 12/07/2018 - 10:37:58: "deathmatch" = "1"
+L 12/07/2018 - 10:37:58: "ins_bot_difficulty" = "1"
+L 12/07/2018 - 10:37:58: "tv_enable" = "0"
+L 12/07/2018 - 10:37:58: "mp_supply_gain_regroup" = "1"
+L 12/07/2018 - 10:37:58: "mp_supply_rate_winning_team_high" = "0"
+L 12/07/2018 - 10:37:58: "mp_switchteams_each_round" = "0"
+L 12/07/2018 - 10:37:58: "doi_coop_bot_ranking" = "1"
+L 12/07/2018 - 10:37:58: "mp_timer_postround" = "19"
+L 12/07/2018 - 10:37:58: "sv_hud_scoreboard_show_score" = "0"
+L 12/07/2018 - 10:37:58: "mp_falldamage" = "0"
+L 12/07/2018 - 10:37:58: "mp_freezetime" = "15.0"
+L 12/07/2018 - 10:37:58: "mp_extract_point" = "0"
+L 12/07/2018 - 10:37:58: "mp_cp_speedup_rate" = "0.25"
+L 12/07/2018 - 10:37:58: "sv_alltalk_intermission" = "1"
+L 12/07/2018 - 10:37:58: "doi_coop_lobby_size" = "8"
+L 12/07/2018 - 10:37:58: "mp_respawnwavetime_min" = "0"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_teammate_obstruct" = "1"
+L 12/07/2018 - 10:37:58: "sv_voiceenable" = "1"
+L 12/07/2018 - 10:37:58: "mp_assassination_single_point_max" = "16"
+L 12/07/2018 - 10:37:58: "sv_bounce" = "0"
+L 12/07/2018 - 10:37:58: "mp_spawnprotectontime" = "30"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_fov" = "75"
+L 12/07/2018 - 10:37:58: "mp_weaponstay" = "0"
+L 12/07/2018 - 10:37:58: "sv_changelevel_next_round" = "0"
+L 12/07/2018 - 10:37:58: "mp_winlimit_coop" = "1"
+L 12/07/2018 - 10:37:58: "mp_supply_gain_kill_assist_amount" = "1"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_teammate_color" = ""
+L 12/07/2018 - 10:37:58: "mp_scrambleteams_auto" = "0"
+L 12/07/2018 - 10:37:58: "mp_friendlyfire" = "1"
+L 12/07/2018 - 10:37:58: "sv_noclipspeed" = "5"
+L 12/07/2018 - 10:37:58: "sv_allchat" = "1"
+L 12/07/2018 - 10:37:58: "mp_joinwaittime" = "20"
+L 12/07/2018 - 10:37:58: "mp_roundlives" = "0"
+L 12/07/2018 - 10:37:58: "sv_map_voting" = "1"
+L 12/07/2018 - 10:37:58: "mp_supply_token_max" = "30"
+L 12/07/2018 - 10:37:58: "mp_supply_token_bot_base" = "18"
+L 12/07/2018 - 10:37:58: "mp_scrambleteams_auto_windifference" = "3"
+L 12/07/2018 - 10:37:58: "solo_timer_preround" = "15"
+L 12/07/2018 - 10:37:58: "mp_ambush_single_point_max" = "10"
+L 12/07/2018 - 10:37:58: "mp_timer_postgame" = "0"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_dist" = "100"
+L 12/07/2018 - 10:37:58: "mp_respawnwavetime_max" = "0"
+L 12/07/2018 - 10:37:58: "sv_footsteps" = "1"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_friend_color" = "0 200 200 200"
+L 12/07/2018 - 10:37:58: "mp_timer_preround" = "18"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_party_obstruct" = "0"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_aimdist" = "1000"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_useangle" = "15"
+L 12/07/2018 - 10:37:58: "mp_cp_proximity_distance_sabotage" = "1500"
+L 12/07/2018 - 10:37:58: "mp_cp_deteriorate_time" = "8"
+L 12/07/2018 - 10:37:58: "mp_searchdestroy_single_cache_max" = "12"
+L 12/07/2018 - 10:37:58: "tv_relaypassword" = ""
+L 12/07/2018 - 10:37:58: "mp_teamplay" = "0"
+L 12/07/2018 - 10:37:58: "mp_supply_token_base" = "10"
+L 12/07/2018 - 10:37:58: "sv_specnoclip" = "1"
+L 12/07/2018 - 10:37:58: "sv_friction" = "4"
+L 12/07/2018 - 10:37:58: "mp_switchteams_reset_supply" = "1"
+L 12/07/2018 - 10:37:58: "sv_contact" = ""
+L 12/07/2018 - 10:37:58: "sv_ruleset" = ""
+L 12/07/2018 - 10:37:58: "sv_thirdperson" = "0"
+L 12/07/2018 - 10:37:58: "mp_roundtime" = "210"
+L 12/07/2018 - 10:37:58: "doi_coop_cp_proximity_check_frequency" = "5.0"
+L 12/07/2018 - 10:37:58: "mp_ignore_win_conditions" = "0"
+L 12/07/2018 - 10:37:58: "sv_hud_deathmessages_spectator" = "0"
+L 12/07/2018 - 10:37:58: "mp_timer_preround_first" = "18"
+L 12/07/2018 - 10:37:58: "mp_switchteams_each_game" = "0"
+L 12/07/2018 - 10:37:58: "mp_cp_radio_speedup_rate" = "0.50"
+L 12/07/2018 - 10:37:58: "mp_fraglimit" = "0"
+L 12/07/2018 - 10:37:58: "mp_supply_gain_obj_cap" = "1"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_squad_color" = ""
+L 12/07/2018 - 10:37:58: "mp_forcerespawn" = "1"
+L 12/07/2018 - 10:37:58: "decalfrequency" = "10"
+L 12/07/2018 - 10:37:58: "mp_supply_gain_kill_assist_threshold" = "5"
+L 12/07/2018 - 10:37:58: "sv_map_voting_shuffle" = "1"
+L 12/07/2018 - 10:37:58: "sv_accelerate" = "10"
+L 12/07/2018 - 10:37:58: "mp_winlimit" = "5"
+L 12/07/2018 - 10:37:58: "sv_gravity" = "800"
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_squad_obstruct" = "0"
+L 12/07/2018 - 10:37:58: "sv_password" = ""
+L 12/07/2018 - 10:37:58: "ins_bot_change_difficulty" = "1"
+L 12/07/2018 - 10:37:58: "mp_supply_gain_obj_hero_cap" = "1"
+L 12/07/2018 - 10:37:58: "mp_supply_rate_winning_team_low" = "0"
+L 12/07/2018 - 10:37:58: "sv_deadvoice" = "0"
+L 12/07/2018 - 10:37:58: "sv_thirdperson_leandist" = "35"
+L 12/07/2018 - 10:37:58: "tv_password" = ""
+L 12/07/2018 - 10:37:58: "sv_hud_targetindicator_friend_max_distance" = "-1.0"
+L 12/07/2018 - 10:37:58: "sv_specspeed" = "3"
+L 12/07/2018 - 10:37:58: server cvars end
+L 12/07/2018 - 10:37:58: Started map "vietnam_b5" (CRC "1881228412")
+L 12/07/2018 - 10:37:58: server_cvar: "mp_supply_token_base" "20"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_timer_postround" "15"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_timer_postgame" "10"
+L 12/07/2018 - 10:37:58: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/07/2018 - 10:37:58: server_cvar: "doi_bot_difficulty" "0.000000"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_maxrounds" "3"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_winlimit" "2"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_timelimit" "20"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_roundtime" "600"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_cp_capture_time" "80"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_cp_deteriorate_time" "0"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_respawnwavetime_min" "20"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_respawnwavetime_max" "30"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_freezetime" "15"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_switchteams_each_round" "1"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_cp_speedup_rate" "0.35"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_cp_radio_speedup_rate" "0.60"
+L 12/07/2018 - 10:37:58: server_cvar: "mp_cp_speedup_max" "6"
+L 12/07/2018 - 10:37:58: server_cvar: "sv_maxspeed" "1000.000000"
+L 12/07/2018 - 10:37:58: server_cvar: "sv_stopspeed" "75.000000"
+L 12/07/2018 - 10:38:02: server_cvar: "sv_tags" "battleye"
+L 12/07/2018 - 10:38:02: server_cvar: "sv_tags" "battleye"
+L 12/07/2018 - 10:38:25: "b00jum<2><STEAM_1:1:9014066><>" connected, address "172.73.164.22:27005"
+L 12/07/2018 - 10:38:25: "b00jum<2><STEAM_1:1:9014066><STEAM_1:1:9014066>" STEAM USERID validated
+L 12/07/2018 - 10:38:29: "b00jum<2><STEAM_1:1:9014066><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 10:38:29: "b00jum<2><STEAM_1:1:9014066><>" entered the game
+L 12/07/2018 - 10:38:38: "b00jum<2><STEAM_1:1:9014066><#nva>" joined team "#us"
+L 12/07/2018 - 10:38:58: "BOT Stephen<3><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<3><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Stephen<3><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 10:38:58: "BOT Thiago<4><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<4><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Thiago<4><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 10:38:58: "BOT Valdis<5><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<5><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Valdis<5><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 10:38:58: "BOT Vuk<6><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<6><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Vuk<6><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 10:38:58: "BOT Zach<7><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<7><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Zach<7><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 10:38:58: "BOT Bruce<8><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<8><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Bruce<8><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 10:38:58: "BOT Devin<9><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<9><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Devin<9><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 10:38:58: "BOT Geoffrey<10><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<10><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Geoffrey<10><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 10:38:58: "BOT Jono<11><BOT><>" connected, address "none"
+L 12/07/2018 - 10:38:58: "<11><BOT><>" entered the game
+L 12/07/2018 - 10:38:58: "BOT Jono<11><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 10:39:01: "BOT Stephen<3><BOT><2>" stuck (position "-1089.77 761.03 92.20") (duration "1.41") L 12/07/2018 - 10:39:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:01: "BOT Stephen<3><BOT><2>" stuck (position "-1095.12 761.03 97.23") (duration "1.56") L 12/07/2018 - 10:39:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:05: "BOT Stephen<3><BOT><2>" stuck (position "-1054.86 761.12 48.03") (duration "1.41") L 12/07/2018 - 10:39:05:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:05: "BOT Stephen<3><BOT><2>" stuck (position "-1068.68 761.83 48.03") (duration "1.56") L 12/07/2018 - 10:39:05:    path_goal ( "NULL" )
+L 12/07/2018 - 10:39:08: "BOT Stephen<3><BOT><2>" stuck (position "-1089.28 761.03 79.80") (duration "0.16") L 12/07/2018 - 10:39:08:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:10: "BOT Stephen<3><BOT><2>" stuck (position "-1089.66 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:39:10:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:10: "BOT Stephen<3><BOT><2>" stuck (position "-1088.80 761.03 77.06") (duration "1.56") L 12/07/2018 - 10:39:10:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:13: "BOT Stephen<3><BOT><2>" stuck (position "-1060.42 761.19 48.03") (duration "1.41") L 12/07/2018 - 10:39:13:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:13: "BOT Stephen<3><BOT><2>" stuck (position "-1075.75 762.63 48.03") (duration "1.56") L 12/07/2018 - 10:39:13:    path_goal ( "NULL" )
+L 12/07/2018 - 10:39:14: "BOT Vuk<6><BOT><2>" stuck (position "-1079.43 762.37 48.03") (duration "1.41") L 12/07/2018 - 10:39:14:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:14: "BOT Vuk<6><BOT><2>" stuck (position "-1095.66 761.37 48.03") (duration "1.56") L 12/07/2018 - 10:39:14:    path_goal ( "NULL" )
+L 12/07/2018 - 10:39:16: "BOT Stephen<3><BOT><2>" stuck (position "-1106.13 762.42 48.03") (duration "1.41") L 12/07/2018 - 10:39:16:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:16: "BOT Stephen<3><BOT><2>" stuck (position "-1109.56 762.30 48.03") (duration "1.56") L 12/07/2018 - 10:39:16:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:39:17: "BOT Stephen<3><BOT><2>" stuck (position "-1082.59 766.48 60.38") (duration "0.31") L 12/07/2018 - 10:39:17:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:39:22: "BOT Stephen<3><BOT><2>" stuck (position "-1090.94 761.00 94.77") (duration "1.41") L 12/07/2018 - 10:39:22:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:22: "BOT Stephen<3><BOT><2>" stuck (position "-1087.54 761.00 95.89") (duration "1.56") L 12/07/2018 - 10:39:22:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:23: "BOT Vuk<6><BOT><2>" stuck (position "-1105.60 763.52 48.03") (duration "1.41") L 12/07/2018 - 10:39:23:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:23: "BOT Vuk<6><BOT><2>" stuck (position "-1111.47 761.03 48.03") (duration "1.56") L 12/07/2018 - 10:39:23:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:39:23: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m60<30>" at (-1449.168213, -5062.583984, 147.105316)
+L 12/07/2018 - 10:39:24: "BOT Stephen<3><BOT><2>" stuck (position "-1082.91 761.01 67.64") (duration "0.16") L 12/07/2018 - 10:39:24:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:39:24: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m60<30>" at (-1255.168945, -4962.702637, 111.309845)
+L 12/07/2018 - 10:39:27: "BOT Vuk<6><BOT><2>" stuck (position "-1101.28 770.44 48.03") (duration "1.41") L 12/07/2018 - 10:39:27:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:27: "BOT Stephen<3><BOT><2>" stuck (position "-1091.41 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:39:27:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:27: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_m60<30>" at (-773.652405, -4838.863281, -51.931034)
+L 12/07/2018 - 10:39:27: "BOT Stephen<3><BOT><2>" stuck (position "-1068.53 761.03 79.80") (duration "1.56") L 12/07/2018 - 10:39:27:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:31: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_m60<30>" at (-616.189026, -4455.732910, -56.968750)
+L 12/07/2018 - 10:39:31: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m60<30>" at (-531.301697, -4384.162109, -57.547035)
+L 12/07/2018 - 10:39:32: "BOT Vuk<6><BOT><2>" stuck (position "-1095.92 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:39:32:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:32: "BOT Stephen<3><BOT><2>" stuck (position "-1107.52 764.19 48.03") (duration "1.41") L 12/07/2018 - 10:39:32:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:32: "BOT Vuk<6><BOT><2>" stuck (position "-1074.33 761.03 79.80") (duration "1.56") L 12/07/2018 - 10:39:32:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:32: "BOT Stephen<3><BOT><2>" stuck (position "-1110.08 764.66 48.03") (duration "1.56") L 12/07/2018 - 10:39:32:    path_goal ( "NULL" )
+L 12/07/2018 - 10:39:39: "BOT Vuk<6><BOT><2>" stuck (position "-1092.49 769.51 48.03") (duration "1.41") L 12/07/2018 - 10:39:39:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:41: "BOT Stephen<3><BOT><2>" stuck (position "-1086.48 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:39:41:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:46: "BOT Stephen<3><BOT><2>" stuck (position "-1087.32 761.20 70.97") (duration "1.41") L 12/07/2018 - 10:39:46:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:46: "BOT Stephen<3><BOT><2>" stuck (position "-1095.26 761.03 93.58") (duration "1.56") L 12/07/2018 - 10:39:46:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:49: "BOT Stephen<3><BOT><2>" stuck (position "-1116.17 761.26 48.03") (duration "0.16") L 12/07/2018 - 10:39:49:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:39:51: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m60<30>" at (-390.925659, -5236.797363, 251.859589)
+L 12/07/2018 - 10:39:52: "BOT Stephen<3><BOT><2>" stuck (position "-1110.29 762.00 48.03") (duration "1.41") L 12/07/2018 - 10:39:52:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:52: "BOT Stephen<3><BOT><2>" stuck (position "-1096.33 762.42 70.97") (duration "1.56") L 12/07/2018 - 10:39:52:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:39:57: "BOT Jono<11><BOT><3>" stuck (position "-726.09 -5336.56 182.22") (duration "9.53") L 12/07/2018 - 10:39:57:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:39:58: "BOT Thiago<4><BOT><#us>" committed suicide with "player"
+L 12/07/2018 - 10:39:58: "BOT Valdis<5><BOT><#us>" committed suicide with "player"
+L 12/07/2018 - 10:39:58: "BOT Vuk<6><BOT><2>" stuck (position "-1086.70 762.44 48.03") (duration "1.41") L 12/07/2018 - 10:39:58:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:58: "BOT Vuk<6><BOT><2>" stuck (position "-1083.72 761.21 79.80") (duration "1.56") L 12/07/2018 - 10:39:58:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:39:59: "BOT Zach<7><BOT><3>" stuck (position "-726.47 -5336.07 179.83") (duration "5.31") L 12/07/2018 - 10:39:59:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:00: "BOT Stephen<3><BOT><2>" stuck (position "-1094.64 763.09 48.03") (duration "1.41") L 12/07/2018 - 10:40:00:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:00: "BOT Stephen<3><BOT><2>" stuck (position "-1070.72 763.82 79.80") (duration "1.56") L 12/07/2018 - 10:40:00:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:01: "BOT Zach<7><BOT><3>" stuck (position "-727.04 -5338.51 158.31") (duration "1.41") L 12/07/2018 - 10:40:01:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:01: "BOT Zach<7><BOT><3>" stuck (position "-727.35 -5339.15 157.96") (duration "1.56") L 12/07/2018 - 10:40:01:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:04: "BOT Stephen<3><BOT><2>" stuck (position "-1106.01 761.03 64.11") (duration "1.41") L 12/07/2018 - 10:40:04:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:05: "BOT Zach<7><BOT><3>" stuck (position "-727.99 -5341.42 156.78") (duration "0.16") L 12/07/2018 - 10:40:05:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:05: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m60<30>" at (-180.064529, -3787.232666, -107.369621)
+L 12/07/2018 - 10:40:06: "BOT Stephen<3><BOT><2>" stuck (position "-1095.49 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:06:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:06: "BOT Stephen<3><BOT><2>" stuck (position "-1090.64 761.03 79.80") (duration "1.56") L 12/07/2018 - 10:40:06:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:07: "BOT Zach<7><BOT><3>" stuck (position "-727.30 -5337.73 158.66") (duration "1.41") L 12/07/2018 - 10:40:07:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:08: "BOT Zach<7><BOT><3>" stuck (position "-726.16 -5336.70 159.31") (duration "1.56") L 12/07/2018 - 10:40:08:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:12: "BOT Zach<7><BOT><3>" stuck (position "-726.46 -5337.33 158.96") (duration "0.16") L 12/07/2018 - 10:40:12:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:14: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5362.86 146.47") (duration "1.41") L 12/07/2018 - 10:40:14:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:14: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5365.21 145.33") (duration "1.56") L 12/07/2018 - 10:40:14:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:17: "BOT Zach<7><BOT><3>" stuck (position "-728.80 -5362.42 146.51") (duration "0.16") L 12/07/2018 - 10:40:17:    path_goal ( "-720.00 -5340.00 152.27" )
+L 12/07/2018 - 10:40:18: "BOT Zach<7><BOT><3>" stuck (position "-747.33 -5336.07 157.63") (duration "1.25") L 12/07/2018 - 10:40:18:    path_goal ( "-720.00 -5340.00 152.27" )
+L 12/07/2018 - 10:40:19: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5354.42 150.54") (duration "0.16") L 12/07/2018 - 10:40:19:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:20: "BOT Thiago<4><BOT><2>" stuck (position "-1142.69 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:20:    path_goal ( "-1660.00 -960.00 -56.97" )
+L 12/07/2018 - 10:40:20: "BOT Thiago<4><BOT><2>" stuck (position "-1144.41 761.03 48.03") (duration "1.56") L 12/07/2018 - 10:40:20:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:21: "BOT Vuk<6><BOT><2>" stuck (position "-1099.97 761.01 67.64") (duration "1.41") L 12/07/2018 - 10:40:21:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:21: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_m60<30>" at (-1471.775391, -3642.284668, 126.735191)
+L 12/07/2018 - 10:40:21: "BOT Zach<7><BOT><3>" stuck (position "-726.12 -5336.07 159.62") (duration "1.41") L 12/07/2018 - 10:40:22:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:22: "BOT Zach<7><BOT><3>" stuck (position "-726.21 -5336.81 159.25") (duration "1.56") L 12/07/2018 - 10:40:22:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:23: "BOT Thiago<4><BOT><2>" stuck (position "-1142.03 785.40 48.03") (duration "0.16") L 12/07/2018 - 10:40:23:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:25: "BOT Vuk<6><BOT><2>" stuck (position "-1081.67 761.01 92.20") (duration "1.41") L 12/07/2018 - 10:40:25:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:25: "BOT Vuk<6><BOT><2>" stuck (position "-1089.21 761.01 97.23") (duration "1.56") L 12/07/2018 - 10:40:25:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:26: "BOT Stephen<3><BOT><2>" stuck (position "-1076.82 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:40:26:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:26: "BOT Stephen<3><BOT><2>" stuck (position "-1073.20 761.00 48.03") (duration "1.56") L 12/07/2018 - 10:40:26:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:26: "BOT Vuk<6><BOT><2>" stuck (position "-1100.85 761.61 79.80") (duration "0.16") L 12/07/2018 - 10:40:26:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:27: "BOT Jono<11><BOT><3>" stuck (position "-727.51 -5355.93 168.18") (duration "18.75") L 12/07/2018 - 10:40:27:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:27: "BOT Zach<7><BOT><3>" stuck (position "-726.62 -5337.65 158.79") (duration "0.16") L 12/07/2018 - 10:40:27:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:29: "BOT Zach<7><BOT><3>" stuck (position "-726.41 -5337.22 159.03") (duration "1.25") L 12/07/2018 - 10:40:29:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:29: "BOT Stephen<3><BOT><2>" stuck (position "-1054.14 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:29:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:30: "BOT Stephen<3><BOT><2>" stuck (position "-1061.69 761.03 48.03") (duration "1.56") L 12/07/2018 - 10:40:30:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:30: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5346.51 154.38") (duration "0.31") L 12/07/2018 - 10:40:30:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:30: "BOT Jono<11><BOT><3>" stuck (position "-727.51 -5355.97 149.80") (duration "1.41") L 12/07/2018 - 10:40:30:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:30: "BOT Jono<11><BOT><3>" stuck (position "-727.51 -5356.21 149.69") (duration "1.56") L 12/07/2018 - 10:40:30:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:31: "BOT Vuk<6><BOT><2>" stuck (position "-1075.50 762.95 48.03") (duration "1.41") L 12/07/2018 - 10:40:31:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:31: "BOT Vuk<6><BOT><2>" stuck (position "-1096.75 762.65 70.97") (duration "1.56") L 12/07/2018 - 10:40:31:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:32: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m60<30>" at (-1333.174927, -4753.036621, -72.212837)
+L 12/07/2018 - 10:40:32: "BOT Zach<7><BOT><3>" stuck (position "-727.32 -5339.09 158.00") (duration "1.41") L 12/07/2018 - 10:40:32:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:32: "BOT Stephen<3><BOT><2>" stuck (position "-1107.56 763.06 48.03") (duration "0.16") L 12/07/2018 - 10:40:32:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:32: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5340.77 157.16") (duration "1.56") L 12/07/2018 - 10:40:32:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:33: "BOT Jono<11><BOT><3>" stuck (position "-726.61 -5337.63 158.80") (duration "1.41") L 12/07/2018 - 10:40:33:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:33: "BOT Jono<11><BOT><3>" stuck (position "-726.94 -5338.30 158.43") (duration "1.56") L 12/07/2018 - 10:40:33:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:35: "BOT Zach<7><BOT><3>" stuck (position "-726.83 -5338.07 158.56") (duration "1.41") L 12/07/2018 - 10:40:35:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:35: "BOT Zach<7><BOT><3>" stuck (position "-726.53 -5337.46 190.29") (duration "1.56") L 12/07/2018 - 10:40:35:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:35: "BOT Vuk<6><BOT><2>" stuck (position "-1061.18 762.38 48.03") (duration "1.41") L 12/07/2018 - 10:40:35:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:36: "BOT Vuk<6><BOT><2>" stuck (position "-1075.60 762.45 48.03") (duration "1.56") L 12/07/2018 - 10:40:36:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:38: "BOT Vuk<6><BOT><2>" stuck (position "-1093.60 761.03 79.80") (duration "0.16") L 12/07/2018 - 10:40:38:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:39: "BOT Jono<11><BOT><3>" stuck (position "-727.45 -5339.34 157.86") (duration "0.16") L 12/07/2018 - 10:40:39:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:42: "BOT Vuk<6><BOT><2>" stuck (position "-1103.81 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:42:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:42: "BOT Vuk<6><BOT><2>" stuck (position "-1107.25 761.03 48.03") (duration "1.56") L 12/07/2018 - 10:40:42:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:42: "BOT Thiago<4><BOT><2>" stuck (position "-1087.85 762.02 48.03") (duration "1.41") L 12/07/2018 - 10:40:42:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:42: "BOT Thiago<4><BOT><2>" stuck (position "-1070.75 761.03 79.80") (duration "1.56") L 12/07/2018 - 10:40:42:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:43: "BOT Stephen<3><BOT><2>" stuck (position "-1095.64 761.00 67.64") (duration "1.41") L 12/07/2018 - 10:40:43:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:45: "BOT Vuk<6><BOT><2>" stuck (position "-1106.15 761.22 48.03") (duration "0.16") L 12/07/2018 - 10:40:45:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:45: "BOT Stephen<3><BOT><2>" stuck (position "-1116.56 762.87 48.03") (duration "1.41") L 12/07/2018 - 10:40:45:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:46: "BOT Stephen<3><BOT><2>" stuck (position "-1100.35 767.89 52.34") (duration "1.56") L 12/07/2018 - 10:40:46:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:47: "BOT Vuk<6><BOT><2>" stuck (position "-1100.74 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:47:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:47: "BOT Vuk<6><BOT><2>" stuck (position "-1095.87 761.01 79.80") (duration "1.56") L 12/07/2018 - 10:40:47:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:48: "BOT Zach<7><BOT><3>" stuck (position "-727.41 -5339.28 174.04") (duration "6.09") L 12/07/2018 - 10:40:48:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:50: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5344.52 155.35") (duration "1.41") L 12/07/2018 - 10:40:50:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:40:50: "BOT Zach<7><BOT><3>" stuck (position "-727.51 -5358.67 148.50") (duration "1.56") L 12/07/2018 - 10:40:50:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:51: "BOT Stephen<3><BOT><2>" stuck (position "-1088.50 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:51:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:52: "BOT Stephen<3><BOT><2>" stuck (position "-1099.02 761.01 48.03") (duration "1.56") L 12/07/2018 - 10:40:52:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:52: "BOT Geoffrey<10><BOT><3>" stuck (position "-468.64 -4440.19 -56.97") (duration "1.41") L 12/07/2018 - 10:40:52:    path_goal ( "-470.00 -4400.00 -57.50" )
+L 12/07/2018 - 10:40:52: "BOT Geoffrey<10><BOT><3>" stuck (position "-469.19 -4440.74 -56.97") (duration "1.56") L 12/07/2018 - 10:40:52:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:40:52: "BOT Vuk<6><BOT><2>" stuck (position "-1106.01 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:52:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:52: "BOT Zach<7><BOT><3>" stuck (position "-728.81 -5373.51 141.14") (duration "0.16") L 12/07/2018 - 10:40:52:    path_goal ( "-720.00 -5340.00 152.27" )
+L 12/07/2018 - 10:40:52: "BOT Vuk<6><BOT><2>" stuck (position "-1102.37 761.03 70.97") (duration "1.56") L 12/07/2018 - 10:40:52:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:54: "BOT Stephen<3><BOT><2>" stuck (position "-1113.91 761.35 48.03") (duration "0.16") L 12/07/2018 - 10:40:54:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:56: "BOT Stephen<3><BOT><2>" stuck (position "-1072.61 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:40:56:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:40:56: "BOT Stephen<3><BOT><2>" stuck (position "-1072.40 761.70 48.03") (duration "1.56") L 12/07/2018 - 10:40:56:    path_goal ( "NULL" )
+L 12/07/2018 - 10:40:56: "BOT Thiago<4><BOT><2>" stuck (position "-1098.28 762.86 48.03") (duration "1.41") L 12/07/2018 - 10:40:56:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:40:56: "BOT Thiago<4><BOT><2>" stuck (position "-1085.69 765.11 48.03") (duration "1.56") L 12/07/2018 - 10:40:56:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:03: "BOT Jono<11><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_sks<69>" at (391.363586, -2857.925293, -15.815243)
+L 12/07/2018 - 10:41:04: "BOT Geoffrey<10><BOT><3>" stuck (position "-403.69 -4551.78 -56.97") (duration "0.16") L 12/07/2018 - 10:41:04:    path_goal ( "-440.00 -4552.66 -56.93" )
+L 12/07/2018 - 10:41:07: "BOT Bruce<8><BOT><3>" stuck (position "-1260.58 -4912.25 -5.19") (duration "1.41") L 12/07/2018 - 10:41:07:    path_goal ( "-1240.00 -4900.00 -39.44" )
+L 12/07/2018 - 10:41:07: "BOT Bruce<8><BOT><3>" stuck (position "-1260.25 -4912.25 -5.31") (duration "1.56") L 12/07/2018 - 10:41:07:    path_goal ( "-1240.00 -4900.00 -39.44" )
+L 12/07/2018 - 10:41:08: "BOT Geoffrey<10><BOT><3>" stuck (position "-507.80 -4372.16 -22.62") (duration "1.41") L 12/07/2018 - 10:41:08:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/07/2018 - 10:41:09: "BOT Bruce<8><BOT><3>" stuck (position "-1256.74 -4912.23 -6.68") (duration "0.16") L 12/07/2018 - 10:41:09:    path_goal ( "-1240.00 -4900.00 -39.44" )
+L 12/07/2018 - 10:41:10: "BOT Valdis<5><BOT><#us>" committed suicide with "player"
+L 12/07/2018 - 10:41:10: "BOT Bruce<8><BOT><3>" stuck (position "-1229.08 -4907.86 -1.30") (duration "1.25") L 12/07/2018 - 10:41:10:    path_goal ( "-1240.00 -4860.00 -54.36" )
+L 12/07/2018 - 10:41:20: "BOT Devin<9><BOT><3>" stuck (position "-28.92 -2901.46 -64.69") (duration "1.41") L 12/07/2018 - 10:41:20:    path_goal ( "-20.00 -2958.30 -75.80" )
+L 12/07/2018 - 10:41:20: "BOT Devin<9><BOT><3>" stuck (position "-25.43 -2901.43 -64.61") (duration "1.56") L 12/07/2018 - 10:41:20:    path_goal ( "-20.00 -2958.30 -75.80" )
+L 12/07/2018 - 10:41:24: "BOT Bruce<8><BOT><3>" stuck (position "-678.26 -2993.05 -73.16") (duration "1.41") L 12/07/2018 - 10:41:24:    path_goal ( "-690.00 -2960.00 -70.43" )
+L 12/07/2018 - 10:41:24: "BOT Bruce<8><BOT><3>" stuck (position "-671.68 -2991.74 -72.94") (duration "1.56") L 12/07/2018 - 10:41:24:    path_goal ( "-600.00 -3060.00 -85.35" )
+L 12/07/2018 - 10:41:25: "BOT Stephen<3><BOT><2>" stuck (position "-1080.19 761.31 48.03") (duration "0.16") L 12/07/2018 - 10:41:25:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:41:26: "BOT Stephen<3><BOT><2>" stuck (position "-1080.66 761.03 48.03") (duration "1.25") L 12/07/2018 - 10:41:26:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:27: "BOT Stephen<3><BOT><2>" stuck (position "-1085.28 761.03 48.03") (duration "2.34") L 12/07/2018 - 10:41:27:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:27: "BOT Bruce<8><BOT><3>" stuck (position "-684.83 -3016.06 -77.00") (duration "0.16") L 12/07/2018 - 10:41:27:    path_goal ( "-740.00 -3020.00 -77.16" )
+L 12/07/2018 - 10:41:28: "BOT Thiago<4><BOT><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m16a1<66>" at (-15.350589, -2901.349365, -64.301598)
+L 12/07/2018 - 10:41:28: "BOT Stephen<3><BOT><2>" stuck (position "-1083.30 761.03 48.03") (duration "3.44") L 12/07/2018 - 10:41:28:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:29: "BOT Thiago<4><BOT><2>" stuck (position "-1077.21 766.22 48.03") (duration "0.16") L 12/07/2018 - 10:41:29:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:41:30: "BOT Thiago<4><BOT><2>" stuck (position "-1084.07 761.03 48.03") (duration "1.25") L 12/07/2018 - 10:41:30:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:41:30: "BOT Vuk<6><BOT><2>" stuck (position "-1094.81 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:41:30:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:41:30: "BOT Vuk<6><BOT><2>" stuck (position "-1084.28 761.03 48.03") (duration "1.56") L 12/07/2018 - 10:41:30:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:31: "BOT Thiago<4><BOT><2>" stuck (position "-1088.19 761.03 48.03") (duration "2.34") L 12/07/2018 - 10:41:31:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:31: "BOT Vuk<6><BOT><2>" stuck (position "-1084.44 761.03 48.03") (duration "2.66") L 12/07/2018 - 10:41:31:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:32: "BOT Thiago<4><BOT><2>" stuck (position "-1084.07 761.03 48.03") (duration "3.44") L 12/07/2018 - 10:41:32:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:32: "BOT Vuk<6><BOT><2>" stuck (position "-1082.53 761.03 48.03") (duration "3.75") L 12/07/2018 - 10:41:32:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:33: "BOT Thiago<4><BOT><2>" stuck (position "-1084.79 761.03 48.03") (duration "4.53") L 12/07/2018 - 10:41:33:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:34: "BOT Thiago<4><BOT><2>" stuck (position "-1084.60 761.03 48.03") (duration "5.62") L 12/07/2018 - 10:41:34:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:34: "BOT Zach<7><BOT><#nva>" killed "BOT Vuk<6><BOT><#us>" with "nam_ppsh41<63>" at (-1083.746948, 721.867859, 80.031250)
+L 12/07/2018 - 10:41:35: "BOT Thiago<4><BOT><2>" stuck (position "-1081.52 761.03 48.03") (duration "6.72") L 12/07/2018 - 10:41:35:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:36: "BOT Thiago<4><BOT><2>" stuck (position "-1080.39 761.03 48.03") (duration "7.81") L 12/07/2018 - 10:41:36:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:37: "BOT Thiago<4><BOT><2>" stuck (position "-1079.70 761.03 48.03") (duration "8.91") L 12/07/2018 - 10:41:37:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:39: "BOT Thiago<4><BOT><2>" stuck (position "-1079.39 761.03 48.03") (duration "10.00") L 12/07/2018 - 10:41:39:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:40: "BOT Thiago<4><BOT><2>" stuck (position "-1079.69 761.03 48.03") (duration "11.09") L 12/07/2018 - 10:41:40:    path_goal ( "NULL" )
+L 12/07/2018 - 10:41:47: "BOT Stephen<3><BOT><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_m14<77>" at (516.772034, -2579.362549, 54.353500)
+L 12/07/2018 - 10:41:54: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m1919<31>" at (390.556488, -1208.552856, -47.730026)
+L 12/07/2018 - 10:42:10: "BOT Geoffrey<10><BOT><3>" stuck (position "68.26 -1579.85 -55.37") (duration "1.41") L 12/07/2018 - 10:42:10:    path_goal ( "70.00 -1550.00 -56.69" )
+L 12/07/2018 - 10:42:10: "BOT Geoffrey<10><BOT><3>" stuck (position "65.21 -1578.04 -54.99") (duration "1.56") L 12/07/2018 - 10:42:10:    path_goal ( "NULL" )
+L 12/07/2018 - 10:42:11: "BOT Vuk<6><BOT><2>" stuck (position "-1092.44 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:42:11:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:11: "BOT Vuk<6><BOT><2>" stuck (position "-1109.19 761.80 79.80") (duration "1.56") L 12/07/2018 - 10:42:11:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:14: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m1919<31>" at (-1243.998535, -1900.132812, -56.968750)
+L 12/07/2018 - 10:42:17: "BOT Vuk<6><BOT><2>" stuck (position "-1086.33 761.01 79.80") (duration "0.16") L 12/07/2018 - 10:42:17:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:20: "BOT Jono<11><BOT><3>" stuck (position "-467.23 -4438.78 -56.97") (duration "1.41") L 12/07/2018 - 10:42:20:    path_goal ( "-470.00 -4400.00 -57.50" )
+L 12/07/2018 - 10:42:20: "BOT Zach<7><BOT><3>" stuck (position "-477.27 -4446.56 -56.97") (duration "1.41") L 12/07/2018 - 10:42:20:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:42:20: "BOT Jono<11><BOT><3>" stuck (position "-467.23 -4438.78 -56.97") (duration "1.56") L 12/07/2018 - 10:42:20:    path_goal ( "-470.00 -4400.00 -57.50" )
+L 12/07/2018 - 10:42:20: "BOT Zach<7><BOT><3>" stuck (position "-474.76 -4450.28 -56.97") (duration "1.56") L 12/07/2018 - 10:42:20:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:42:21: "BOT Vuk<6><BOT><2>" stuck (position "-1090.21 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:42:21:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:21: "BOT Vuk<6><BOT><2>" stuck (position "-1081.91 761.00 79.80") (duration "1.56") L 12/07/2018 - 10:42:21:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:25: "BOT Devin<9><BOT><3>" stuck (position "-140.70 -4394.92 -57.40") (duration "1.41") L 12/07/2018 - 10:42:25:    path_goal ( "-155.00 -4360.00 -61.65" )
+L 12/07/2018 - 10:42:25: "BOT Devin<9><BOT><3>" stuck (position "-140.27 -4394.83 -57.41") (duration "1.56") L 12/07/2018 - 10:42:25:    path_goal ( "NULL" )
+L 12/07/2018 - 10:42:29: "BOT Vuk<6><BOT><2>" stuck (position "-1079.80 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:42:29:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:30: "BOT Vuk<6><BOT><2>" stuck (position "-1085.66 761.00 48.03") (duration "1.56") L 12/07/2018 - 10:42:30:    path_goal ( "NULL" )
+L 12/07/2018 - 10:42:35: "BOT Vuk<6><BOT><2>" stuck (position "-1089.33 761.00 79.80") (duration "0.16") L 12/07/2018 - 10:42:35:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:36: "BOT Thiago<4><BOT><2>" stuck (position "-965.67 -1579.59 -54.55") (duration "1.41") L 12/07/2018 - 10:42:36:    path_goal ( "-980.00 -1638.40 -60.69" )
+L 12/07/2018 - 10:42:36: "BOT Thiago<4><BOT><2>" stuck (position "-968.68 -1579.59 -54.44") (duration "1.56") L 12/07/2018 - 10:42:36:    path_goal ( "-966.18 -1638.36 -61.99" )
+L 12/07/2018 - 10:42:36: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m1919<31>" at (-467.968323, -4440.314941, -56.968750)
+L 12/07/2018 - 10:42:37: "BOT Vuk<6><BOT><2>" stuck (position "-1080.75 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:42:37:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:38: "BOT Vuk<6><BOT><2>" stuck (position "-1080.51 761.00 48.03") (duration "1.56") L 12/07/2018 - 10:42:38:    path_goal ( "NULL" )
+L 12/07/2018 - 10:42:43: "BOT Vuk<6><BOT><2>" stuck (position "-1084.89 761.00 79.80") (duration "0.16") L 12/07/2018 - 10:42:43:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:45: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m1919<31>" at (-140.267746, -4394.830566, -57.410915)
+L 12/07/2018 - 10:42:45: "BOT Vuk<6><BOT><2>" stuck (position "-1077.35 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:42:45:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:46: "BOT Vuk<6><BOT><2>" stuck (position "-1077.23 761.00 48.03") (duration "1.56") L 12/07/2018 - 10:42:46:    path_goal ( "NULL" )
+L 12/07/2018 - 10:42:49: "BOT Thiago<4><BOT><2>" stuck (position "-948.29 -1580.52 -54.64") (duration "0.16") L 12/07/2018 - 10:42:49:    path_goal ( "-949.63 -1638.32 -63.54" )
+L 12/07/2018 - 10:42:50: "BOT Thiago<4><BOT><2>" stuck (position "-952.05 -1587.51 -41.60") (duration "1.25") L 12/07/2018 - 10:42:50:    path_goal ( "-949.63 -1638.32 -63.54" )
+L 12/07/2018 - 10:42:51: "BOT Vuk<6><BOT><2>" stuck (position "-1080.96 761.00 79.80") (duration "0.16") L 12/07/2018 - 10:42:51:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:53: "BOT Vuk<6><BOT><2>" stuck (position "-1087.63 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:42:53:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:53: "BOT Vuk<6><BOT><2>" stuck (position "-1088.06 761.00 77.06") (duration "1.56") L 12/07/2018 - 10:42:53:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:42:56: "BOT Thiago<4><BOT><2>" stuck (position "-947.56 -1585.09 -42.22") (duration "0.16") L 12/07/2018 - 10:42:56:    path_goal ( "-948.74 -1561.68 -52.82" )
+L 12/07/2018 - 10:42:57: "BOT Thiago<4><BOT><2>" stuck (position "-954.85 -1588.11 -41.54") (duration "1.25") L 12/07/2018 - 10:42:57:    path_goal ( "-948.74 -1638.32 -63.63" )
+L 12/07/2018 - 10:43:00: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m1919<31>" at (-976.644226, -5062.286133, 151.157455)
+L 12/07/2018 - 10:43:01: "BOT Valdis<5><BOT><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_m16a1<66>" at (65.276077, -1578.025635, -54.993237)
+L 12/07/2018 - 10:43:01: "BOT Vuk<6><BOT><2>" stuck (position "-1065.77 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:43:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:43:02: "BOT Vuk<6><BOT><2>" stuck (position "-1081.16 761.00 56.46") (duration "1.56") L 12/07/2018 - 10:43:02:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:43:02: "BOT Thiago<4><BOT><2>" stuck (position "-940.25 -1582.87 -54.71") (duration "0.16") L 12/07/2018 - 10:43:02:    path_goal ( "-939.55 -1500.00 -65.09" )
+L 12/07/2018 - 10:43:02: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m1919<31>" at (-378.017059, -5145.045410, 234.297287)
+L 12/07/2018 - 10:43:06: "BOT Zach<7><BOT><3>" stuck (position "-485.49 -4444.60 -56.97") (duration "0.16") L 12/07/2018 - 10:43:06:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:43:06: "BOT Vuk<6><BOT><2>" stuck (position "-1108.45 761.00 64.11") (duration "1.41") L 12/07/2018 - 10:43:06:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:43:07: "BOT Zach<7><BOT><3>" stuck (position "-476.89 -4447.13 -56.98") (duration "1.25") L 12/07/2018 - 10:43:07:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:43:09: "BOT Vuk<6><BOT><2>" stuck (position "-1096.30 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:43:09:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:43:09: "BOT Vuk<6><BOT><2>" stuck (position "-1075.29 761.03 79.80") (duration "1.56") L 12/07/2018 - 10:43:09:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:43:10: "BOT Thiago<4><BOT><2>" stuck (position "-1666.99 -883.91 -56.97") (duration "1.41") L 12/07/2018 - 10:43:10:    path_goal ( "-1740.00 -890.00 -56.97" )
+L 12/07/2018 - 10:43:10: "b00jum<2><STEAM_1:1:9014066><#us>" committed suicide with "player"
+L 12/07/2018 - 10:43:10: "b00jum<2><STEAM_1:1:9014066><#us>" joined team "#Team_Spectators"
+L 12/07/2018 - 10:43:10: "BOT Thiago<4><BOT><2>" stuck (position "-1666.99 -863.39 -56.97") (duration "1.56") L 12/07/2018 - 10:43:10:    path_goal ( "NULL" )
+L 12/07/2018 - 10:43:11: "BOT Zach<7><BOT><3>" stuck (position "-475.38 -4446.48 -56.98") (duration "0.16") L 12/07/2018 - 10:43:11:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:43:11: "BOT Thiago<4><BOT><2>" stuck (position "-1665.85 -840.33 -56.97") (duration "0.16") L 12/07/2018 - 10:43:11:    path_goal ( "-1680.00 -890.00 -56.97" )
+L 12/07/2018 - 10:43:12: "BOT Zach<7><BOT><3>" stuck (position "-474.83 -4443.64 -56.98") (duration "1.25") L 12/07/2018 - 10:43:12:    path_goal ( "-470.00 -4420.00 -56.97" )
+L 12/07/2018 - 10:43:13: "BOT Thiago<4><BOT><2>" stuck (position "-1667.00 -860.57 -56.97") (duration "1.41") L 12/07/2018 - 10:43:13:    path_goal ( "-1740.00 -890.00 -56.97" )
+L 12/07/2018 - 10:43:13: "BOT Vuk<6><BOT><2>" stuck (position "-1108.69 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:43:13:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:43:13: "BOT Thiago<4><BOT><2>" stuck (position "-1661.93 -875.41 -56.97") (duration "1.56") L 12/07/2018 - 10:43:13:    path_goal ( "NULL" )
+L 12/07/2018 - 10:43:13: "BOT Vuk<6><BOT><2>" stuck (position "-1096.64 761.03 64.11") (duration "1.56") L 12/07/2018 - 10:43:13:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:43:14: "BOT Thiago<4><BOT><2>" stuck (position "-1655.15 -888.68 -56.97") (duration "0.16") L 12/07/2018 - 10:43:14:    path_goal ( "-1655.05 -820.00 -56.97" )
+L 12/07/2018 - 10:43:15: "b00jum<2><STEAM_1:1:9014066><#Team_Spectators>" joined team "#us"
+L 12/07/2018 - 10:43:15: "BOT Stephen<3><BOT><2>" stuck (position "-1820.42 -924.99 74.11") (duration "4.69") L 12/07/2018 - 10:43:15:    path_goal ( "-1810.00 -960.00 -56.97" )
+L 12/07/2018 - 10:43:22: "BOT Vuk<6><BOT><2>" stuck (position "-1070.38 761.03 48.03") (duration "1.41") L 12/07/2018 - 10:43:22:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 10:43:22: "BOT Vuk<6><BOT><2>" stuck (position "-1072.30 761.03 48.03") (duration "1.56") L 12/07/2018 - 10:43:22:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:43:36: "BOT Bruce<8><BOT><#nva>" killed "BOT Thiago<4><BOT><#us>" with "nam_ppsh41<63>" at (-1665.031250, -1301.672119, -56.968750)
+L 12/07/2018 - 10:43:38: "BOT Devin<9><BOT><#nva>" killed "BOT Valdis<5><BOT><#us>" with "nam_sks<69>" at (-1727.828491, -1497.465210, -56.968750)
+L 12/07/2018 - 10:43:38: "BOT Jono<11><BOT><3>" stuck (position "-972.21 -4092.12 -56.97") (duration "1.41") L 12/07/2018 - 10:43:38:    path_goal ( "-940.00 -4080.00 -60.22" )
+L 12/07/2018 - 10:43:38: "BOT Jono<11><BOT><3>" stuck (position "-973.63 -4082.80 -56.97") (duration "1.56") L 12/07/2018 - 10:43:38:    path_goal ( "-960.00 -4160.00 -56.97" )
+L 12/07/2018 - 10:43:50: "BOT Geoffrey<10><BOT><3>" stuck (position "-727.51 -5353.36 169.48") (duration "22.50") L 12/07/2018 - 10:43:50:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:43:51: "BOT Geoffrey<10><BOT><3>" stuck (position "-727.51 -5345.10 194.04") (duration "22.66") L 12/07/2018 - 10:43:51:    path_goal ( "-660.00 -5340.00 160.46" )
+L 12/07/2018 - 10:43:55: "BOT Geoffrey<10><BOT><3>" stuck (position "-733.35 -5348.23 152.77") (duration "0.19") L 12/07/2018 - 10:43:55:    path_goal ( "-1000.00 -5360.00 122.17" )
+L 12/07/2018 - 10:44:04: "BOT Bruce<8><BOT><#nva>" killed "BOT Stephen<3><BOT><#us>" with "nam_ppsh41<63>" at (-288.616547, -903.657043, -57.104988)
+L 12/07/2018 - 10:44:09: "BOT Jono<11><BOT><3>" stuck (position "-995.36 -4072.36 -56.97") (duration "0.16") L 12/07/2018 - 10:44:09:    path_goal ( "-960.00 -4080.00 -56.97" )
+L 12/07/2018 - 10:44:10: "BOT Jono<11><BOT><3>" stuck (position "-973.09 -4086.33 -56.97") (duration "1.25") L 12/07/2018 - 10:44:10:    path_goal ( "-940.00 -4080.00 -60.22" )
+L 12/07/2018 - 10:44:22: "BOT Zach<7><BOT><#nva>" killed "BOT Thiago<4><BOT><#us>" with "nam_ppsh41<63>" at (-1743.012207, -686.274963, -61.288589)
+L 12/07/2018 - 10:44:24: "BOT Vuk<6><BOT><2>" stuck (position "-957.48 784.58 48.03") (duration "0.16") L 12/07/2018 - 10:44:24:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:44:26: "BOT Vuk<6><BOT><2>" stuck (position "-1084.29 761.00 48.03") (duration "1.41") L 12/07/2018 - 10:44:26:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:44:27: "BOT Vuk<6><BOT><2>" stuck (position "-1076.83 761.00 48.03") (duration "1.56") L 12/07/2018 - 10:44:27:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 10:44:27: "BOT Geoffrey<10><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_sks<69>" at (-1489.509155, -1556.242676, -56.968750)
+L 12/07/2018 - 10:44:28: "BOT Vuk<6><BOT><2>" stuck (position "-1085.99 761.00 48.03") (duration "2.66") L 12/07/2018 - 10:44:28:    path_goal ( "NULL" )
+L 12/07/2018 - 10:44:28: "BOT Jono<11><BOT><#nva>" killed "BOT Vuk<6><BOT><#us>" with "nam_sks<69>" at (-1084.826782, 761.002136, 48.031250)
+L 12/07/2018 - 10:44:29: "BOT Jono<11><BOT><3>" stuck (position "-976.97 -4068.82 -56.97") (duration "0.16") L 12/07/2018 - 10:44:29:    path_goal ( "-960.00 -4160.00 -56.97" )
+L 12/07/2018 - 10:44:39: Team "#nva" triggered "obj_captured" (object "")
+L 12/07/2018 - 10:44:39: "BOT Bruce<8><BOT><#nva>" triggered "obj_captured" (name "")
+L 12/07/2018 - 10:44:42: "BOT Zach<7><BOT><#nva>" killed "BOT Valdis<5><BOT><#us>" with "nam_ppsh41<63>" at (-784.298279, 424.622101, -60.357712)
+L 12/07/2018 - 10:44:46: "BOT Vuk<6><BOT><2>" stuck (position "-3570.09 6718.25 790.11") (duration "3.75") L 12/07/2018 - 10:44:46:    path_goal ( "-3560.00 6700.00 764.03" )
+L 12/07/2018 - 10:44:48: "BOT Stephen<3><BOT><2>" stuck (position "-3582.03 6566.57 764.03") (duration "1.41") L 12/07/2018 - 10:44:48:    path_goal ( "-3600.00 6560.00 764.03" )
+L 12/07/2018 - 10:44:49: "BOT Stephen<3><BOT><2>" stuck (position "-3575.19 6561.73 795.80") (duration "1.56") L 12/07/2018 - 10:44:49:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:44:49: "BOT Vuk<6><BOT><2>" stuck (position "-3543.84 6784.39 764.03") (duration "1.42") L 12/07/2018 - 10:44:49:    path_goal ( "-3540.00 6780.00 764.03" )
+L 12/07/2018 - 10:44:49: "BOT Thiago<4><BOT><2>" stuck (position "-3694.08 6574.97 764.03") (duration "1.47") L 12/07/2018 - 10:44:49:    path_goal ( "-3680.00 6560.00 764.03" )
+L 12/07/2018 - 10:44:50: "BOT Thiago<4><BOT><2>" stuck (position "-3699.19 6577.13 764.03") (duration "1.62") L 12/07/2018 - 10:44:50:    path_goal ( "NULL" )
+L 12/07/2018 - 10:44:51: "BOT Vuk<6><BOT><2>" stuck (position "-3537.90 6682.75 764.03") (duration "1.41") L 12/07/2018 - 10:44:51:    path_goal ( "-3540.00 6680.00 764.03" )
+L 12/07/2018 - 10:44:52: "BOT Stephen<3><BOT><2>" stuck (position "-3584.05 6488.30 798.50") (duration "1.42") L 12/07/2018 - 10:44:52:    path_goal ( "-3590.52 6460.00 764.03" )
+L 12/07/2018 - 10:44:52: "BOT Vuk<6><BOT><2>" stuck (position "-3542.15 6702.63 795.80") (duration "1.56") L 12/07/2018 - 10:44:52:    path_goal ( "-3538.32 6780.00 764.03" )
+L 12/07/2018 - 10:44:52: "BOT Stephen<3><BOT><2>" stuck (position "-3584.05 6488.30 798.50") (duration "1.58") L 12/07/2018 - 10:44:52:    path_goal ( "NULL" )
+L 12/07/2018 - 10:44:53: "BOT Thiago<4><BOT><2>" stuck (position "-3697.61 6579.75 764.03") (duration "0.16") L 12/07/2018 - 10:44:53:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:44:53: "BOT Stephen<3><BOT><2>" stuck (position "-3596.42 6492.05 798.50") (duration "0.31") L 12/07/2018 - 10:44:53:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:44:55: "BOT Vuk<6><BOT><2>" stuck (position "-3533.12 6681.36 764.03") (duration "1.41") L 12/07/2018 - 10:44:55:    path_goal ( "-3540.00 6680.00 764.03" )
+L 12/07/2018 - 10:44:55: "BOT Vuk<6><BOT><2>" stuck (position "-3537.91 6696.39 795.80") (duration "1.56") L 12/07/2018 - 10:44:55:    path_goal ( "-3532.88 6780.00 764.03" )
+L 12/07/2018 - 10:44:56: "BOT Stephen<3><BOT><2>" stuck (position "-3616.36 6604.82 764.03") (duration "1.41") L 12/07/2018 - 10:44:56:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:44:56: "BOT Thiago<4><BOT><2>" stuck (position "-3717.63 6524.06 764.03") (duration "1.41") L 12/07/2018 - 10:44:56:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:44:56: "BOT Stephen<3><BOT><2>" stuck (position "-3632.27 6611.75 764.03") (duration "1.56") L 12/07/2018 - 10:44:56:    path_goal ( "NULL" )
+L 12/07/2018 - 10:44:56: "BOT Thiago<4><BOT><2>" stuck (position "-3717.63 6524.06 764.03") (duration "1.56") L 12/07/2018 - 10:44:56:    path_goal ( "NULL" )
+L 12/07/2018 - 10:44:58: "BOT Zach<7><BOT><3>" stuck (position "-2251.02 854.97 -56.97") (duration "1.41") L 12/07/2018 - 10:44:58:    path_goal ( "-2251.54 880.00 -56.97" )
+L 12/07/2018 - 10:44:58: "BOT Bruce<8><BOT><3>" stuck (position "-2225.21 854.99 -56.97") (duration "1.41") L 12/07/2018 - 10:44:58:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:44:58: "BOT Zach<7><BOT><3>" stuck (position "-2254.66 854.97 -56.97") (duration "1.56") L 12/07/2018 - 10:44:58:    path_goal ( "NULL" )
+L 12/07/2018 - 10:44:59: "BOT Thiago<4><BOT><2>" stuck (position "-3718.25 6524.22 764.03") (duration "0.16") L 12/07/2018 - 10:44:59:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:44:59: "BOT Stephen<3><BOT><2>" stuck (position "-3630.03 6564.11 764.03") (duration "1.41") L 12/07/2018 - 10:44:59:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:44:59: "BOT Stephen<3><BOT><2>" stuck (position "-3611.00 6559.86 764.03") (duration "1.56") L 12/07/2018 - 10:44:59:    path_goal ( "-3100.00 1520.00 -40.97" )
+L 12/07/2018 - 10:45:01: "BOT Thiago<4><BOT><2>" stuck (position "-3687.60 6516.02 798.50") (duration "1.41") L 12/07/2018 - 10:45:01:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:45:01: "BOT Vuk<6><BOT><2>" stuck (position "-3615.50 6693.52 764.03") (duration "1.41") L 12/07/2018 - 10:45:01:    path_goal ( "-3620.00 6680.00 764.03" )
+L 12/07/2018 - 10:45:01: "BOT Thiago<4><BOT><2>" stuck (position "-3690.25 6516.75 832.83") (duration "1.59") L 12/07/2018 - 10:45:01:    path_goal ( "-3660.00 6530.00 798.50" )
+L 12/07/2018 - 10:45:01: "BOT Vuk<6><BOT><2>" stuck (position "-3613.11 6670.44 764.03") (duration "1.58") L 12/07/2018 - 10:45:01:    path_goal ( "-3640.00 6690.00 764.03" )
+L 12/07/2018 - 10:45:02: "BOT Zach<7><BOT><3>" stuck (position "-2256.15 854.97 -56.97") (duration "0.16") L 12/07/2018 - 10:45:02:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:02: "BOT Stephen<3><BOT><2>" stuck (position "-3569.69 6548.76 764.03") (duration "0.16") L 12/07/2018 - 10:45:02:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:45:02: "BOT Thiago<4><BOT><2>" stuck (position "-3680.00 6520.23 798.50") (duration "0.16") L 12/07/2018 - 10:45:02:    path_goal ( "-3660.00 6530.00 798.50" )
+L 12/07/2018 - 10:45:02: "BOT Vuk<6><BOT><2>" stuck (position "-3641.66 6645.16 764.03") (duration "0.16") L 12/07/2018 - 10:45:02:    path_goal ( "-3680.00 6645.21 685.30" )
+L 12/07/2018 - 10:45:04: "BOT Bruce<8><BOT><3>" stuck (position "-2286.98 854.97 -56.97") (duration "1.41") L 12/07/2018 - 10:45:04:    path_goal ( "-2320.00 920.00 -56.97" )
+L 12/07/2018 - 10:45:04: "BOT Bruce<8><BOT><3>" stuck (position "-2284.36 854.97 -56.97") (duration "1.56") L 12/07/2018 - 10:45:04:    path_goal ( "-2240.00 854.97 -56.97" )
+L 12/07/2018 - 10:45:05: "BOT Stephen<3><BOT><2>" stuck (position "-3584.06 6488.30 806.41") (duration "1.41") L 12/07/2018 - 10:45:05:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:45:05: "BOT Stephen<3><BOT><2>" stuck (position "-3584.16 6488.32 798.50") (duration "1.56") L 12/07/2018 - 10:45:05:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:45:05: "BOT Thiago<4><BOT><2>" stuck (position "-3667.29 6621.19 764.03") (duration "1.41") L 12/07/2018 - 10:45:05:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:05: "BOT Thiago<4><BOT><2>" stuck (position "-3667.03 6620.60 780.11") (duration "1.56") L 12/07/2018 - 10:45:05:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 10:45:06: "BOT Vuk<6><BOT><2>" stuck (position "-3787.31 6543.69 764.03") (duration "1.41") L 12/07/2018 - 10:45:06:    path_goal ( "-3800.00 6520.00 664.26" )
+L 12/07/2018 - 10:45:06: "BOT Vuk<6><BOT><2>" stuck (position "-3804.60 6550.97 764.03") (duration "1.56") L 12/07/2018 - 10:45:06:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:06: "BOT Bruce<8><BOT><3>" stuck (position "-2263.55 848.33 -56.97") (duration "0.16") L 12/07/2018 - 10:45:06:    path_goal ( "-2240.00 848.99 -56.97" )
+L 12/07/2018 - 10:45:07: "BOT Bruce<8><BOT><3>" stuck (position "-2242.31 854.97 -56.97") (duration "1.25") L 12/07/2018 - 10:45:07:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:08: "BOT Bruce<8><BOT><3>" stuck (position "-2240.21 854.97 -56.97") (duration "0.31") L 12/07/2018 - 10:45:08:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:08: "BOT Stephen<3><BOT><2>" stuck (position "-3606.72 6505.37 798.50") (duration "0.16") L 12/07/2018 - 10:45:08:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:09: "BOT Vuk<6><BOT><2>" stuck (position "-3823.22 6558.22 764.03") (duration "0.16") L 12/07/2018 - 10:45:09:    path_goal ( "-2980.00 1520.00 -40.97" )
+L 12/07/2018 - 10:45:09: "BOT Bruce<8><BOT><3>" stuck (position "-2231.24 854.97 -56.97") (duration "1.41") L 12/07/2018 - 10:45:09:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:10: "BOT Devin<9><BOT><3>" stuck (position "-2229.64 854.97 -56.98") (duration "1.41") L 12/07/2018 - 10:45:10:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:11: "BOT Devin<9><BOT><3>" stuck (position "-2235.44 854.97 -56.98") (duration "1.56") L 12/07/2018 - 10:45:11:    path_goal ( "-2220.00 660.00 -56.97" )
+L 12/07/2018 - 10:45:11: "BOT Vuk<6><BOT><2>" stuck (position "-3718.60 6524.34 764.03") (duration "1.41") L 12/07/2018 - 10:45:11:    path_goal ( "-2980.00 1520.00 -40.97" )
+L 12/07/2018 - 10:45:11: "BOT Vuk<6><BOT><2>" stuck (position "-3717.61 6524.05 790.11") (duration "1.56") L 12/07/2018 - 10:45:11:    path_goal ( "-3680.00 6524.30 654.22" )
+L 12/07/2018 - 10:45:13: "BOT Thiago<4><BOT><2>" stuck (position "-3635.84 6621.35 764.03") (duration "1.41") L 12/07/2018 - 10:45:13:    path_goal ( "-3653.58 6620.00 798.50" )
+L 12/07/2018 - 10:45:13: "BOT Thiago<4><BOT><2>" stuck (position "-3647.97 6624.13 795.80") (duration "1.56") L 12/07/2018 - 10:45:13:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:45:14: "BOT Devin<9><BOT><3>" stuck (position "-2234.77 827.71 -56.98") (duration "0.16") L 12/07/2018 - 10:45:14:    path_goal ( "-2200.00 840.00 -56.97" )
+L 12/07/2018 - 10:45:15: "BOT Vuk<6><BOT><2>" stuck (position "-3663.67 6602.91 764.03") (duration "1.41") L 12/07/2018 - 10:45:15:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:15: "BOT Vuk<6><BOT><2>" stuck (position "-3656.57 6596.34 795.80") (duration "1.56") L 12/07/2018 - 10:45:15:    path_goal ( "-3640.00 6610.00 764.03" )
+L 12/07/2018 - 10:45:16: "BOT Devin<9><BOT><3>" stuck (position "-2198.61 854.97 -56.98") (duration "1.42") L 12/07/2018 - 10:45:16:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:16: "BOT Devin<9><BOT><3>" stuck (position "-2198.69 854.97 -56.98") (duration "1.58") L 12/07/2018 - 10:45:16:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:18: "BOT Devin<9><BOT><3>" stuck (position "-2199.72 854.97 -56.98") (duration "0.16") L 12/07/2018 - 10:45:18:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:19: "BOT Vuk<6><BOT><2>" stuck (position "-3657.12 6507.86 798.50") (duration "1.41") L 12/07/2018 - 10:45:19:    path_goal ( "-3639.57 6500.00 764.03" )
+L 12/07/2018 - 10:45:19: "BOT Vuk<6><BOT><2>" stuck (position "-3667.46 6520.46 830.28") (duration "1.56") L 12/07/2018 - 10:45:19:    path_goal ( "-3658.76 6620.00 798.50" )
+L 12/07/2018 - 10:45:20: "BOT Devin<9><BOT><3>" stuck (position "-2234.35 855.00 -56.98") (duration "1.41") L 12/07/2018 - 10:45:20:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:20: "BOT Devin<9><BOT><3>" stuck (position "-2242.70 855.00 -56.98") (duration "1.56") L 12/07/2018 - 10:45:20:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:21: "BOT Thiago<4><BOT><2>" stuck (position "-3713.18 6571.28 764.03") (duration "1.41") L 12/07/2018 - 10:45:21:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:45:24: "BOT Devin<9><BOT><3>" stuck (position "-2247.91 855.00 -56.98") (duration "0.16") L 12/07/2018 - 10:45:24:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:24: "BOT Stephen<3><BOT><2>" stuck (position "-3590.52 6490.03 798.50") (duration "1.41") L 12/07/2018 - 10:45:24:    path_goal ( "-3590.87 6460.00 764.03" )
+L 12/07/2018 - 10:45:24: "BOT Stephen<3><BOT><2>" stuck (position "-3587.49 6489.22 798.50") (duration "1.56") L 12/07/2018 - 10:45:24:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:25: "BOT Thiago<4><BOT><2>" stuck (position "-3720.20 6524.77 764.03") (duration "1.41") L 12/07/2018 - 10:45:25:    path_goal ( "-3100.00 1380.00 -40.97" )
+L 12/07/2018 - 10:45:25: "BOT Thiago<4><BOT><2>" stuck (position "-3721.25 6525.06 795.80") (duration "1.56") L 12/07/2018 - 10:45:25:    path_goal ( "-3680.00 6540.00 658.41" )
+L 12/07/2018 - 10:45:25: "BOT Devin<9><BOT><3>" stuck (position "-2245.53 855.00 -56.98") (duration "1.25") L 12/07/2018 - 10:45:25:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:26: "BOT Devin<9><BOT><3>" stuck (position "-2257.10 855.00 -56.98") (duration "0.31") L 12/07/2018 - 10:45:26:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:28: "BOT Devin<9><BOT><3>" stuck (position "-2189.25 854.97 -56.98") (duration "1.41") L 12/07/2018 - 10:45:28:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:28: "BOT Devin<9><BOT><3>" stuck (position "-2189.86 854.97 -56.98") (duration "1.56") L 12/07/2018 - 10:45:28:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:30: "BOT Stephen<3><BOT><2>" stuck (position "-3586.43 6489.23 798.50") (duration "0.16") L 12/07/2018 - 10:45:30:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:45:30: "BOT Devin<9><BOT><3>" stuck (position "-2191.47 854.96 -56.98") (duration "0.16") L 12/07/2018 - 10:45:30:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:31: "BOT Devin<9><BOT><3>" stuck (position "-2212.69 855.00 -56.98") (duration "1.25") L 12/07/2018 - 10:45:31:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:32: "BOT Devin<9><BOT><3>" stuck (position "-2205.08 855.00 -56.98") (duration "0.31") L 12/07/2018 - 10:45:32:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:33: "BOT Stephen<3><BOT><2>" stuck (position "-3618.79 6615.93 764.03") (duration "1.41") L 12/07/2018 - 10:45:33:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:33: "BOT Stephen<3><BOT><2>" stuck (position "-3631.70 6632.79 764.03") (duration "1.56") L 12/07/2018 - 10:45:33:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:33: "BOT Devin<9><BOT><3>" stuck (position "-2208.45 855.00 -56.98") (duration "1.41") L 12/07/2018 - 10:45:33:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:34: "BOT Vuk<6><BOT><2>" stuck (position "-3620.68 6561.37 764.03") (duration "1.41") L 12/07/2018 - 10:45:34:    path_goal ( "-3630.56 6500.00 764.03" )
+L 12/07/2018 - 10:45:34: "BOT Vuk<6><BOT><2>" stuck (position "-3621.26 6561.52 764.03") (duration "1.56") L 12/07/2018 - 10:45:34:    path_goal ( "-2866.92 2307.42 -53.27" )
+L 12/07/2018 - 10:45:34: "BOT Thiago<4><BOT><2>" stuck (position "-3677.22 6551.99 798.50") (duration "1.41") L 12/07/2018 - 10:45:34:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 10:45:34: "BOT Thiago<4><BOT><2>" stuck (position "-3660.68 6543.29 830.28") (duration "1.56") L 12/07/2018 - 10:45:34:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:34: "BOT Devin<9><BOT><3>" stuck (position "-2220.19 855.00 -56.98") (duration "0.31") L 12/07/2018 - 10:45:34:    path_goal ( "-2240.00 855.00 -56.97" )
+L 12/07/2018 - 10:45:36: "BOT Stephen<3><BOT><2>" stuck (position "-3643.71 6650.17 764.03") (duration "0.16") L 12/07/2018 - 10:45:36:    path_goal ( "-3680.00 6650.21 686.39" )
+L 12/07/2018 - 10:45:36: "BOT Devin<9><BOT><3>" stuck (position "-2242.32 855.00 -56.98") (duration "1.41") L 12/07/2018 - 10:45:36:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:37: "BOT Devin<9><BOT><3>" stuck (position "-2238.97 855.00 -56.98") (duration "1.56") L 12/07/2018 - 10:45:37:    path_goal ( "-2240.50 880.00 -56.97" )
+L 12/07/2018 - 10:45:40: "BOT Vuk<6><BOT><2>" stuck (position "-3620.74 6561.38 764.03") (duration "0.16") L 12/07/2018 - 10:45:40:    path_goal ( "-3100.00 1520.00 -40.97" )
+L 12/07/2018 - 10:45:40: "BOT Devin<9><BOT><3>" stuck (position "-2239.80 855.00 -56.98") (duration "0.16") L 12/07/2018 - 10:45:40:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:41: "BOT Devin<9><BOT><3>" stuck (position "-2238.50 855.00 -56.98") (duration "1.25") L 12/07/2018 - 10:45:41:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:42: "BOT Devin<9><BOT><3>" stuck (position "-2235.10 855.00 -56.98") (duration "0.31") L 12/07/2018 - 10:45:42:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:42: "BOT Thiago<4><BOT><2>" stuck (position "-3584.24 6493.80 798.50") (duration "1.41") L 12/07/2018 - 10:45:42:    path_goal ( "-3580.37 6460.00 764.03" )
+L 12/07/2018 - 10:45:43: "BOT Thiago<4><BOT><2>" stuck (position "-3584.05 6488.30 798.50") (duration "1.56") L 12/07/2018 - 10:45:43:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:44: "BOT Devin<9><BOT><3>" stuck (position "-2247.98 855.00 -56.98") (duration "1.41") L 12/07/2018 - 10:45:44:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:44: "BOT Thiago<4><BOT><2>" stuck (position "-3585.81 6489.23 798.50") (duration "0.16") L 12/07/2018 - 10:45:44:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:45:45: "BOT Devin<9><BOT><3>" stuck (position "-2248.36 855.00 -56.98") (duration "0.31") L 12/07/2018 - 10:45:45:    path_goal ( "-2248.45 880.00 -56.97" )
+L 12/07/2018 - 10:45:45: "BOT Stephen<3><BOT><2>" stuck (position "-3722.89 6525.47 798.36") (duration "5.00") L 12/07/2018 - 10:45:45:    path_goal ( "-2713.82 2008.57 -56.96" )
+L 12/07/2018 - 10:45:46: "BOT Devin<9><BOT><3>" stuck (position "-2242.58 855.00 -56.98") (duration "1.41") L 12/07/2018 - 10:45:46:    path_goal ( "-2248.45 880.00 -56.97" )
+L 12/07/2018 - 10:45:46: "BOT Vuk<6><BOT><2>" stuck (position "-3571.90 6548.30 783.64") (duration "6.25") L 12/07/2018 - 10:45:46:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:45:47: "BOT Devin<9><BOT><3>" stuck (position "-2240.80 855.00 -56.98") (duration "0.47") L 12/07/2018 - 10:45:47:    path_goal ( "-2244.57 880.00 -56.97" )
+L 12/07/2018 - 10:45:47: "BOT Thiago<4><BOT><2>" stuck (position "-3632.42 6613.40 764.03") (duration "1.41") L 12/07/2018 - 10:45:47:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:48: "BOT Devin<9><BOT><3>" stuck (position "-2235.02 855.00 -56.98") (duration "1.58") L 12/07/2018 - 10:45:48:    path_goal ( "-2244.57 880.00 -56.97" )
+L 12/07/2018 - 10:45:48: "BOT Stephen<3><BOT><2>" stuck (position "-3676.09 6602.75 764.03") (duration "1.42") L 12/07/2018 - 10:45:48:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:45:48: "BOT Stephen<3><BOT><2>" stuck (position "-3653.46 6592.53 764.03") (duration "1.58") L 12/07/2018 - 10:45:48:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:49: "BOT Vuk<6><BOT><2>" stuck (position "-3584.45 6488.40 798.50") (duration "1.41") L 12/07/2018 - 10:45:49:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:45:49: "BOT Vuk<6><BOT><2>" stuck (position "-3584.05 6488.30 830.28") (duration "1.56") L 12/07/2018 - 10:45:49:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:45:50: "BOT Devin<9><BOT><3>" stuck (position "-2201.33 855.00 -56.98") (duration "1.41") L 12/07/2018 - 10:45:50:    path_goal ( "-2200.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:50: "BOT Devin<9><BOT><3>" stuck (position "-2201.07 855.00 -56.98") (duration "1.56") L 12/07/2018 - 10:45:50:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:53: "BOT Thiago<4><BOT><2>" stuck (position "-3633.57 6536.45 814.58") (duration "1.41") L 12/07/2018 - 10:45:53:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:45:54: "BOT Stephen<3><BOT><2>" stuck (position "-3625.12 6587.01 764.03") (duration "0.16") L 12/07/2018 - 10:45:54:    path_goal ( "-3625.72 6500.00 764.03" )
+L 12/07/2018 - 10:45:55: "BOT Devin<9><BOT><3>" stuck (position "-2202.60 855.00 -56.98") (duration "0.16") L 12/07/2018 - 10:45:55:    path_goal ( "-2240.00 855.00 -56.97" )
+L 12/07/2018 - 10:45:55: "BOT Vuk<6><BOT><2>" stuck (position "-3593.18 6495.18 798.50") (duration "0.16") L 12/07/2018 - 10:45:55:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:45:56: "BOT Devin<9><BOT><3>" stuck (position "-2242.34 854.97 -56.98") (duration "1.41") L 12/07/2018 - 10:45:56:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:45:57: "BOT Devin<9><BOT><3>" stuck (position "-2239.08 854.97 -56.98") (duration "1.56") L 12/07/2018 - 10:45:57:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:57: "BOT Stephen<3><BOT><2>" stuck (position "-3584.05 6488.31 798.50") (duration "1.41") L 12/07/2018 - 10:45:57:    path_goal ( "-3586.74 6460.00 764.03" )
+L 12/07/2018 - 10:45:57: "BOT Stephen<3><BOT><2>" stuck (position "-3588.96 6489.61 798.50") (duration "1.56") L 12/07/2018 - 10:45:57:    path_goal ( "NULL" )
+L 12/07/2018 - 10:45:59: "BOT Thiago<4><BOT><2>" stuck (position "-3622.45 6573.11 780.11") (duration "4.53") L 12/07/2018 - 10:45:59:    path_goal ( "-3620.00 6580.00 764.03" )
+L 12/07/2018 - 10:46:00: "BOT Vuk<6><BOT><2>" stuck (position "-3629.17 6612.54 764.03") (duration "1.41") L 12/07/2018 - 10:46:00:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:01: "BOT Devin<9><BOT><3>" stuck (position "-2237.88 854.97 -56.98") (duration "0.16") L 12/07/2018 - 10:46:01:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:02: "BOT Devin<9><BOT><3>" stuck (position "-2244.07 854.97 -56.98") (duration "1.25") L 12/07/2018 - 10:46:02:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:02: "BOT Vuk<6><BOT><2>" stuck (position "-3717.47 6526.65 764.03") (duration "1.41") L 12/07/2018 - 10:46:02:    path_goal ( "-3631.20 6500.00 764.03" )
+L 12/07/2018 - 10:46:02: "BOT Vuk<6><BOT><2>" stuck (position "-3717.61 6524.06 795.80") (duration "1.56") L 12/07/2018 - 10:46:02:    path_goal ( "NULL" )
+L 12/07/2018 - 10:46:03: "BOT Stephen<3><BOT><2>" stuck (position "-3594.26 6492.43 798.50") (duration "0.16") L 12/07/2018 - 10:46:03:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:46:03: "BOT Devin<9><BOT><3>" stuck (position "-2236.48 854.97 -56.98") (duration "0.16") L 12/07/2018 - 10:46:03:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:03: Team "#nva" triggered "obj_captured" (object "")
+L 12/07/2018 - 10:46:03: "BOT Zach<7><BOT><#nva>" triggered "obj_captured" (name "")
+L 12/07/2018 - 10:46:04: "BOT Devin<9><BOT><3>" stuck (position "-2236.79 854.97 -56.98") (duration "0.20") L 12/07/2018 - 10:46:04:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:05: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_mac10<45>" at (-2839.136475, 1871.240356, -8.311947)
+L 12/07/2018 - 10:46:05: "BOT Devin<9><BOT><3>" stuck (position "-2236.48 854.97 -56.98") (duration "1.30") L 12/07/2018 - 10:46:05:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:06: "BOT Stephen<3><BOT><2>" stuck (position "-3618.37 6633.32 764.03") (duration "1.41") L 12/07/2018 - 10:46:06:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:06: "BOT Devin<9><BOT><3>" stuck (position "-2235.76 854.97 -56.98") (duration "0.20") L 12/07/2018 - 10:46:06:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:07: "BOT Devin<9><BOT><3>" stuck (position "-2231.53 854.97 -56.98") (duration "1.30") L 12/07/2018 - 10:46:07:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:08: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_mac10<45>" at (-2437.514404, 1979.518921, -56.968750)
+L 12/07/2018 - 10:46:08: "BOT Vuk<6><BOT><2>" stuck (position "-3661.49 6523.52 798.50") (duration "1.41") L 12/07/2018 - 10:46:08:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 10:46:09: "BOT Devin<9><BOT><3>" stuck (position "-2236.16 854.97 -56.98") (duration "0.34") L 12/07/2018 - 10:46:09:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:10: "BOT Devin<9><BOT><3>" stuck (position "-2241.58 854.97 -56.98") (duration "1.44") L 12/07/2018 - 10:46:10:    path_goal ( "-2240.00 880.00 -56.97" )
+L 12/07/2018 - 10:46:11: "BOT Devin<9><BOT><3>" stuck (position "-2242.80 854.97 -56.98") (duration "0.50") L 12/07/2018 - 10:46:11:    path_goal ( "-2242.35 880.00 -56.97" )
+L 12/07/2018 - 10:46:11: "BOT Vuk<6><BOT><2>" stuck (position "-3663.89 6606.92 764.03") (duration "1.41") L 12/07/2018 - 10:46:11:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:11: "BOT Vuk<6><BOT><2>" stuck (position "-3648.57 6619.91 795.80") (duration "1.56") L 12/07/2018 - 10:46:11:    path_goal ( "-3650.00 6520.00 764.03" )
+L 12/07/2018 - 10:46:11: "BOT Stephen<3><BOT><2>" stuck (position "-3680.02 6574.12 764.03") (duration "1.44") L 12/07/2018 - 10:46:11:    path_goal ( "-3680.00 6560.00 764.03" )
+L 12/07/2018 - 10:46:11: "BOT Stephen<3><BOT><2>" stuck (position "-3680.46 6574.12 795.80") (duration "1.59") L 12/07/2018 - 10:46:11:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:46:12: "BOT Devin<9><BOT><3>" stuck (position "-2241.08 854.97 -56.98") (duration "1.59") L 12/07/2018 - 10:46:12:    path_goal ( "-2242.35 880.00 -56.97" )
+L 12/07/2018 - 10:46:13: "BOT Devin<9><BOT><3>" stuck (position "-2245.86 854.97 -56.98") (duration "0.78") L 12/07/2018 - 10:46:13:    path_goal ( "-2243.42 880.00 -56.97" )
+L 12/07/2018 - 10:46:14: "BOT Devin<9><BOT><3>" stuck (position "-2242.10 854.97 -56.98") (duration "1.88") L 12/07/2018 - 10:46:14:    path_goal ( "-2243.42 880.00 -56.97" )
+L 12/07/2018 - 10:46:16: "BOT Thiago<4><BOT><2>" stuck (position "-3576.85 6549.61 786.97") (duration "11.08") L 12/07/2018 - 10:46:16:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:46:16: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_mac10<45>" at (-3712.489258, 1845.916626, 131.043823)
+L 12/07/2018 - 10:46:19: "BOT Thiago<4><BOT><2>" stuck (position "-3590.61 6490.05 798.50") (duration "1.41") L 12/07/2018 - 10:46:19:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:46:19: "BOT Thiago<4><BOT><2>" stuck (position "-3587.29 6489.16 830.28") (duration "1.56") L 12/07/2018 - 10:46:19:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:46:20: "BOT Stephen<3><BOT><2>" stuck (position "-3649.21 6633.28 764.03") (duration "1.41") L 12/07/2018 - 10:46:20:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:23: "BOT Vuk<6><BOT><2>" stuck (position "-3568.24 6547.32 786.97") (duration "4.88") L 12/07/2018 - 10:46:23:    path_goal ( "-3570.00 6540.00 764.03" )
+L 12/07/2018 - 10:46:23: "BOT Valdis<5><BOT><2>" stuck (position "-2526.82 6501.80 623.33") (duration "1.41") L 12/07/2018 - 10:46:23:    path_goal ( "-2600.00 6520.00 667.39" )
+L 12/07/2018 - 10:46:24: "BOT Valdis<5><BOT><2>" stuck (position "-2526.82 6496.20 623.52") (duration "1.56") L 12/07/2018 - 10:46:24:    path_goal ( "-2540.00 6460.00 622.01" )
+L 12/07/2018 - 10:46:24: "BOT Stephen<3><BOT><2>" stuck (position "-3689.92 6574.12 764.03") (duration "1.41") L 12/07/2018 - 10:46:24:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 10:46:25: "BOT Thiago<4><BOT><2>" stuck (position "-3592.93 6499.25 798.50") (duration "0.16") L 12/07/2018 - 10:46:25:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:46:25: "BOT Vuk<6><BOT><2>" stuck (position "-3584.06 6488.27 798.50") (duration "1.41") L 12/07/2018 - 10:46:25:    path_goal ( "-3568.26 6547.32 790.11" )
+L 12/07/2018 - 10:46:25: "BOT Vuk<6><BOT><2>" stuck (position "-3583.10 6491.72 821.44") (duration "1.56") L 12/07/2018 - 10:46:25:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:46:26: "BOT Valdis<5><BOT><2>" stuck (position "-2503.49 6488.18 622.54") (duration "0.16") L 12/07/2018 - 10:46:26:    path_goal ( "-2540.00 6520.00 625.87" )
+L 12/07/2018 - 10:46:26: "BOT Stephen<3><BOT><2>" stuck (position "-3717.61 6524.06 764.03") (duration "1.41") L 12/07/2018 - 10:46:26:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:46:26: "BOT Stephen<3><BOT><2>" stuck (position "-3717.61 6524.06 793.06") (duration "1.56") L 12/07/2018 - 10:46:26:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:46:28: "BOT Valdis<5><BOT><2>" stuck (position "-2526.82 6541.78 628.59") (duration "1.44") L 12/07/2018 - 10:46:28:    path_goal ( "-2600.00 6520.00 667.39" )
+L 12/07/2018 - 10:46:28: "BOT Valdis<5><BOT><2>" stuck (position "-2526.82 6541.42 628.53") (duration "1.59") L 12/07/2018 - 10:46:28:    path_goal ( "NULL" )
+L 12/07/2018 - 10:46:29: "BOT Thiago<4><BOT><2>" stuck (position "-3619.63 6606.39 764.03") (duration "1.41") L 12/07/2018 - 10:46:29:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:29: "BOT Thiago<4><BOT><2>" stuck (position "-3631.32 6609.05 795.80") (duration "1.56") L 12/07/2018 - 10:46:29:    path_goal ( "-3620.80 6500.00 764.03" )
+L 12/07/2018 - 10:46:29: "BOT Valdis<5><BOT><2>" stuck (position "-2526.82 6535.45 627.39") (duration "0.31") L 12/07/2018 - 10:46:29:    path_goal ( "-2540.00 6520.00 625.87" )
+L 12/07/2018 - 10:46:31: "BOT Vuk<6><BOT><2>" stuck (position "-3592.62 6494.73 798.50") (duration "0.16") L 12/07/2018 - 10:46:31:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:46:34: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6653.74 625.81") (duration "1.44") L 12/07/2018 - 10:46:34:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:46:34: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6653.48 625.78") (duration "1.59") L 12/07/2018 - 10:46:34:    path_goal ( "-2680.00 6653.71 624.26" )
+L 12/07/2018 - 10:46:34: "BOT Vuk<6><BOT><2>" stuck (position "-3635.49 6624.59 764.03") (duration "1.41") L 12/07/2018 - 10:46:34:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:34: "BOT Vuk<6><BOT><2>" stuck (position "-3622.83 6640.08 795.80") (duration "1.56") L 12/07/2018 - 10:46:34:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:46:35: "BOT Stephen<3><BOT><2>" stuck (position "-3657.56 6603.50 764.03") (duration "1.41") L 12/07/2018 - 10:46:35:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:35: "BOT Valdis<5><BOT><2>" stuck (position "-2700.94 6653.97 625.98") (duration "0.16") L 12/07/2018 - 10:46:35:    path_goal ( "-2720.00 6660.00 623.21" )
+L 12/07/2018 - 10:46:36: "BOT Valdis<5><BOT><2>" stuck (position "-2697.60 6652.79 625.90") (duration "1.25") L 12/07/2018 - 10:46:36:    path_goal ( "-2680.00 6620.00 620.34" )
+L 12/07/2018 - 10:46:37: "BOT Valdis<5><BOT><2>" stuck (position "-2661.24 6606.70 625.21") (duration "0.78") L 12/07/2018 - 10:46:37:    path_goal ( "-2680.00 6580.00 618.35" )
+L 12/07/2018 - 10:46:37: "BOT Thiago<4><BOT><2>" stuck (position "-3662.92 6572.69 790.11") (duration "2.34") L 12/07/2018 - 10:46:37:    path_goal ( "-3680.00 6540.00 658.74" )
+L 12/07/2018 - 10:46:38: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_mac10<45>" at (-2506.406982, 1937.675903, -56.968750)
+L 12/07/2018 - 10:46:39: "BOT Stephen<3><BOT><2>" stuck (position "-3632.22 6564.46 764.03") (duration "1.41") L 12/07/2018 - 10:46:39:    path_goal ( "-3655.26 6520.00 764.03" )
+L 12/07/2018 - 10:46:39: "BOT Stephen<3><BOT><2>" stuck (position "-3630.47 6563.99 764.03") (duration "1.56") L 12/07/2018 - 10:46:39:    path_goal ( "-2608.82 2012.65 -56.96" )
+L 12/07/2018 - 10:46:40: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_mac10<45>" at (-2884.166504, 1782.927246, -56.968750)
+L 12/07/2018 - 10:46:42: "BOT Thiago<4><BOT><2>" stuck (position "-3650.49 6630.78 764.03") (duration "1.41") L 12/07/2018 - 10:46:42:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:42: "BOT Thiago<4><BOT><2>" stuck (position "-3669.93 6622.39 795.80") (duration "1.56") L 12/07/2018 - 10:46:42:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 10:46:43: "BOT Valdis<5><BOT><2>" stuck (position "-3546.69 6420.25 623.43") (duration "1.41") L 12/07/2018 - 10:46:43:    path_goal ( "-3580.00 6420.00 614.50" )
+L 12/07/2018 - 10:46:43: "BOT Valdis<5><BOT><2>" stuck (position "-3546.68 6420.29 623.44") (duration "1.56") L 12/07/2018 - 10:46:43:    path_goal ( "-3580.00 6420.00 614.41" )
+L 12/07/2018 - 10:46:45: "BOT Stephen<3><BOT><2>" stuck (position "-3611.99 6559.04 764.03") (duration "0.16") L 12/07/2018 - 10:46:45:    path_goal ( "-3613.71 6500.00 646.13" )
+L 12/07/2018 - 10:46:45: "BOT Valdis<5><BOT><2>" stuck (position "-3547.30 6417.97 622.41") (duration "1.41") L 12/07/2018 - 10:46:45:    path_goal ( "-3580.00 6420.00 614.41" )
+L 12/07/2018 - 10:46:46: "BOT Valdis<5><BOT><2>" stuck (position "-3547.35 6417.79 622.33") (duration "1.56") L 12/07/2018 - 10:46:46:    path_goal ( "NULL" )
+L 12/07/2018 - 10:46:46: "BOT Vuk<6><BOT><2>" stuck (position "-3513.05 6753.30 780.11") (duration "1.88") L 12/07/2018 - 10:46:46:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:46:47: "BOT Valdis<5><BOT><2>" stuck (position "-3548.05 6415.17 621.15") (duration "2.66") L 12/07/2018 - 10:46:47:    path_goal ( "-3620.00 6417.79 612.13" )
+L 12/07/2018 - 10:46:47: "BOT Stephen<3><BOT><2>" stuck (position "-3616.95 6544.26 798.50") (duration "1.41") L 12/07/2018 - 10:46:47:    path_goal ( "-3613.71 6500.00 646.13" )
+L 12/07/2018 - 10:46:48: "BOT Valdis<5><BOT><2>" stuck (position "-3548.78 6412.46 619.93") (duration "0.78") L 12/07/2018 - 10:46:48:    path_goal ( "-3620.00 6414.64 610.74" )
+L 12/07/2018 - 10:46:48: "BOT Vuk<6><BOT><2>" stuck (position "-3546.83 6677.47 764.03") (duration "1.41") L 12/07/2018 - 10:46:48:    path_goal ( "-3520.00 6680.00 764.03" )
+L 12/07/2018 - 10:46:49: "BOT Vuk<6><BOT><2>" stuck (position "-3547.73 6697.76 795.80") (duration "1.56") L 12/07/2018 - 10:46:49:    path_goal ( "-3540.00 6780.00 764.03" )
+L 12/07/2018 - 10:46:52: "BOT Thiago<4><BOT><2>" stuck (position "-3607.97 6494.68 798.50") (duration "1.41") L 12/07/2018 - 10:46:52:    path_goal ( "-3620.00 6420.00 613.11" )
+L 12/07/2018 - 10:46:52: "BOT Thiago<4><BOT><2>" stuck (position "-3611.39 6495.59 830.28") (duration "1.56") L 12/07/2018 - 10:46:52:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:52: "BOT Vuk<6><BOT><2>" stuck (position "-3530.79 6687.08 764.03") (duration "1.41") L 12/07/2018 - 10:46:52:    path_goal ( "-3540.00 6680.00 764.03" )
+L 12/07/2018 - 10:46:52: "BOT Stephen<3><BOT><2>" stuck (position "-3643.86 6613.44 764.03") (duration "1.41") L 12/07/2018 - 10:46:52:    path_goal ( "-3640.00 6620.00 798.50" )
+L 12/07/2018 - 10:46:52: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_mac10<45>" at (-2427.124023, 2500.475342, 77.867737)
+L 12/07/2018 - 10:46:54: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_mac10<45>" at (-2552.757568, 2054.040771, -56.968750)
+L 12/07/2018 - 10:46:55: "BOT Valdis<5><BOT><2>" stuck (position "-3849.30 6964.71 770.37") (duration "1.41") L 12/07/2018 - 10:46:55:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:46:55: "BOT Valdis<5><BOT><2>" stuck (position "-3860.36 6952.83 764.50") (duration "1.56") L 12/07/2018 - 10:46:55:    path_goal ( "-3840.00 6930.00 759.14" )
+L 12/07/2018 - 10:46:55: "BOT Vuk<6><BOT><2>" stuck (position "-3519.64 6760.16 764.03") (duration "1.41") L 12/07/2018 - 10:46:55:    path_goal ( "-3530.81 6780.00 764.03" )
+L 12/07/2018 - 10:46:55: "BOT Vuk<6><BOT><2>" stuck (position "-3514.88 6768.13 795.80") (duration "1.56") L 12/07/2018 - 10:46:55:    path_goal ( "-3520.00 6680.00 764.03" )
+L 12/07/2018 - 10:46:57: "BOT Stephen<3><BOT><2>" stuck (position "-3628.59 6521.87 798.50") (duration "1.41") L 12/07/2018 - 10:46:57:    path_goal ( "-3646.19 6520.00 764.03" )
+L 12/07/2018 - 10:46:57: "BOT Valdis<5><BOT><2>" stuck (position "-3858.14 6918.16 764.03") (duration "1.41") L 12/07/2018 - 10:46:57:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:46:57: "BOT Valdis<5><BOT><2>" stuck (position "-3859.17 6914.30 764.03") (duration "1.56") L 12/07/2018 - 10:46:57:    path_goal ( "NULL" )
+L 12/07/2018 - 10:46:58: "BOT Thiago<4><BOT><2>" stuck (position "-3598.64 6506.25 798.50") (duration "0.16") L 12/07/2018 - 10:46:58:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:46:59: "BOT Valdis<5><BOT><2>" stuck (position "-3858.97 6915.07 764.03") (duration "2.70") L 12/07/2018 - 10:46:59:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:46:59: "BOT Vuk<6><BOT><2>" stuck (position "-3534.58 6673.12 764.03") (duration "1.45") L 12/07/2018 - 10:46:59:    path_goal ( "-3520.00 6680.00 764.03" )
+L 12/07/2018 - 10:46:59: "BOT Vuk<6><BOT><2>" stuck (position "-3537.94 6671.66 795.80") (duration "1.61") L 12/07/2018 - 10:46:59:    path_goal ( "-3530.00 6780.00 764.03" )
+L 12/07/2018 - 10:46:59: "BOT Stephen<3><BOT><2>" stuck (position "-3639.14 6631.64 764.03") (duration "1.50") L 12/07/2018 - 10:46:59:    path_goal ( "-3629.08 6620.00 798.50" )
+L 12/07/2018 - 10:47:00: "BOT Stephen<3><BOT><2>" stuck (position "-3649.03 6609.35 764.03") (duration "1.66") L 12/07/2018 - 10:47:00:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:00: "BOT Valdis<5><BOT><2>" stuck (position "-3859.70 6934.54 764.03") (duration "0.81") L 12/07/2018 - 10:47:00:    path_goal ( "-3840.00 6930.00 759.14" )
+L 12/07/2018 - 10:47:00: "BOT Thiago<4><BOT><2>" stuck (position "-3641.19 6630.03 764.03") (duration "1.41") L 12/07/2018 - 10:47:00:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:01: "BOT Valdis<5><BOT><2>" stuck (position "-3848.48 6954.20 764.06") (duration "1.91") L 12/07/2018 - 10:47:01:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:01: "BOT Vuk<6><BOT><2>" stuck (position "-3513.40 6777.15 764.03") (duration "1.41") L 12/07/2018 - 10:47:01:    path_goal ( "-3540.00 6780.00 764.03" )
+L 12/07/2018 - 10:47:02: "BOT Valdis<5><BOT><2>" stuck (position "-3857.53 6933.90 764.03") (duration "0.78") L 12/07/2018 - 10:47:02:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:03: "BOT Valdis<5><BOT><2>" stuck (position "-3848.83 6952.89 764.03") (duration "1.88") L 12/07/2018 - 10:47:03:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:04: "BOT Thiago<4><BOT><2>" stuck (position "-3575.61 6549.29 764.03") (duration "1.41") L 12/07/2018 - 10:47:04:    path_goal ( "-3580.00 6500.00 646.05" )
+L 12/07/2018 - 10:47:04: "BOT Thiago<4><BOT><2>" stuck (position "-3573.31 6548.68 795.80") (duration "1.56") L 12/07/2018 - 10:47:04:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:47:04: "BOT Vuk<6><BOT><2>" stuck (position "-3529.61 6691.51 764.03") (duration "1.41") L 12/07/2018 - 10:47:04:    path_goal ( "-3520.00 6680.00 764.03" )
+L 12/07/2018 - 10:47:04: "BOT Valdis<5><BOT><2>" stuck (position "-3849.19 6951.55 764.03") (duration "2.97") L 12/07/2018 - 10:47:04:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:04: "BOT Vuk<6><BOT><2>" stuck (position "-3533.96 6675.24 764.03") (duration "1.56") L 12/07/2018 - 10:47:04:    path_goal ( "-3580.00 6720.00 764.03" )
+L 12/07/2018 - 10:47:05: "BOT Valdis<5><BOT><2>" stuck (position "-3849.26 6951.30 764.03") (duration "0.62") L 12/07/2018 - 10:47:05:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:06: "BOT Vuk<6><BOT><2>" stuck (position "-3553.50 6683.65 764.03") (duration "0.16") L 12/07/2018 - 10:47:06:    path_goal ( "-3540.00 6780.00 764.03" )
+L 12/07/2018 - 10:47:06: "BOT Stephen<3><BOT><2>" stuck (position "-3652.94 6579.82 764.03") (duration "0.16") L 12/07/2018 - 10:47:06:    path_goal ( "-3654.51 6540.00 658.38" )
+L 12/07/2018 - 10:47:06: "BOT Valdis<5><BOT><2>" stuck (position "-3856.71 6923.48 764.03") (duration "1.72") L 12/07/2018 - 10:47:06:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:07: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_mac10<45>" at (-3462.205811, 3055.018799, 11.973518)
+L 12/07/2018 - 10:47:07: "BOT Valdis<5><BOT><2>" stuck (position "-3857.77 6919.53 764.03") (duration "0.78") L 12/07/2018 - 10:47:07:    path_goal ( "-3840.00 6930.00 759.14" )
+L 12/07/2018 - 10:47:08: "BOT Valdis<5><BOT><2>" stuck (position "-3851.72 6942.10 764.03") (duration "1.88") L 12/07/2018 - 10:47:08:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:09: "BOT Stephen<3><BOT><2>" stuck (position "-3608.80 6494.90 798.50") (duration "1.41") L 12/07/2018 - 10:47:09:    path_goal ( "-3620.00 6420.00 613.11" )
+L 12/07/2018 - 10:47:09: "BOT Vuk<6><BOT><2>" stuck (position "-3548.27 6787.57 764.03") (duration "1.41") L 12/07/2018 - 10:47:09:    path_goal ( "-3540.00 6780.00 764.03" )
+L 12/07/2018 - 10:47:09: "BOT Stephen<3><BOT><2>" stuck (position "-3613.87 6496.26 830.28") (duration "1.56") L 12/07/2018 - 10:47:09:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:10: "BOT Valdis<5><BOT><2>" stuck (position "-3854.01 6945.62 764.03") (duration "0.78") L 12/07/2018 - 10:47:10:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:12: "BOT Valdis<5><BOT><2>" stuck (position "-3866.80 6939.22 764.03") (duration "1.41") L 12/07/2018 - 10:47:12:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:12: "BOT Bruce<8><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_ppsh41<63>" at (-3746.676025, 3684.526123, 169.974075)
+L 12/07/2018 - 10:47:12: "BOT Vuk<6><BOT><2>" stuck (position "-3554.69 6664.37 764.03") (duration "1.41") L 12/07/2018 - 10:47:12:    path_goal ( "-3540.00 6680.00 764.03" )
+L 12/07/2018 - 10:47:13: "BOT Thiago<4><BOT><2>" stuck (position "-3633.98 6623.98 764.03") (duration "1.41") L 12/07/2018 - 10:47:13:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:13: "BOT Thiago<4><BOT><2>" stuck (position "-3635.93 6606.62 795.80") (duration "1.56") L 12/07/2018 - 10:47:13:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:47:15: "BOT Stephen<3><BOT><2>" stuck (position "-3600.50 6506.18 798.50") (duration "0.16") L 12/07/2018 - 10:47:15:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:15: "BOT Valdis<5><BOT><2>" stuck (position "-3849.80 6964.34 770.05") (duration "1.41") L 12/07/2018 - 10:47:15:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:15: "BOT Valdis<5><BOT><2>" stuck (position "-3861.64 6952.28 764.48") (duration "1.56") L 12/07/2018 - 10:47:15:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:15: "BOT Vuk<6><BOT><2>" stuck (position "-3530.52 6758.93 764.03") (duration "1.41") L 12/07/2018 - 10:47:15:    path_goal ( "-3540.00 6780.00 764.03" )
+L 12/07/2018 - 10:47:16: "BOT Valdis<5><BOT><2>" stuck (position "-3856.32 6924.95 764.03") (duration "0.78") L 12/07/2018 - 10:47:16:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:17: "BOT Valdis<5><BOT><2>" stuck (position "-3859.44 6913.31 764.03") (duration "1.88") L 12/07/2018 - 10:47:17:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:18: "BOT Stephen<3><BOT><2>" stuck (position "-3630.75 6644.05 764.03") (duration "1.41") L 12/07/2018 - 10:47:18:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:18: "BOT Valdis<5><BOT><2>" stuck (position "-3853.45 6935.67 764.03") (duration "0.78") L 12/07/2018 - 10:47:18:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:20: "BOT Valdis<5><BOT><2>" stuck (position "-3846.66 6961.00 766.67") (duration "1.88") L 12/07/2018 - 10:47:20:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:21: "BOT Stephen<3><BOT><2>" stuck (position "-3621.48 6567.83 764.03") (duration "1.41") L 12/07/2018 - 10:47:21:    path_goal ( "-3620.00 6580.00 764.03" )
+L 12/07/2018 - 10:47:21: "BOT Stephen<3><BOT><2>" stuck (position "-3621.31 6563.45 764.03") (duration "1.56") L 12/07/2018 - 10:47:21:    path_goal ( "-2629.06 2054.71 -56.96" )
+L 12/07/2018 - 10:47:21: "BOT Thiago<4><BOT><2>" stuck (position "-3639.91 6600.79 764.03") (duration "1.41") L 12/07/2018 - 10:47:21:    path_goal ( "-3640.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:21: "BOT Thiago<4><BOT><2>" stuck (position "-3624.87 6605.22 764.03") (duration "1.56") L 12/07/2018 - 10:47:21:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:22: "BOT Vuk<6><BOT><2>" stuck (position "-3557.37 6722.58 764.03") (duration "1.41") L 12/07/2018 - 10:47:22:    path_goal ( "-3560.00 6700.00 764.03" )
+L 12/07/2018 - 10:47:22: "BOT Vuk<6><BOT><2>" stuck (position "-3557.25 6730.94 764.03") (duration "1.56") L 12/07/2018 - 10:47:22:    path_goal ( "-3580.00 6730.00 764.03" )
+L 12/07/2018 - 10:47:23: "BOT Valdis<5><BOT><2>" stuck (position "-3854.91 6930.22 764.03") (duration "1.41") L 12/07/2018 - 10:47:23:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:23: "BOT Valdis<5><BOT><2>" stuck (position "-3852.14 6940.56 764.03") (duration "1.56") L 12/07/2018 - 10:47:23:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:27: "BOT Valdis<5><BOT><2>" stuck (position "-3858.47 6916.94 764.03") (duration "1.41") L 12/07/2018 - 10:47:27:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:27: "BOT Valdis<5><BOT><2>" stuck (position "-3859.55 6913.23 764.03") (duration "1.56") L 12/07/2018 - 10:47:27:    path_goal ( "-3840.00 6930.00 759.14" )
+L 12/07/2018 - 10:47:27: "BOT Stephen<3><BOT><2>" stuck (position "-3589.44 6556.11 764.03") (duration "0.16") L 12/07/2018 - 10:47:27:    path_goal ( "-3590.44 6460.00 764.03" )
+L 12/07/2018 - 10:47:27: "BOT Thiago<4><BOT><2>" stuck (position "-3614.64 6616.87 764.03") (duration "0.16") L 12/07/2018 - 10:47:27:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:47:28: "BOT Valdis<5><BOT><2>" stuck (position "-3849.41 6950.73 764.03") (duration "2.66") L 12/07/2018 - 10:47:28:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:29: "BOT Valdis<5><BOT><2>" stuck (position "-3849.31 6951.12 764.03") (duration "0.62") L 12/07/2018 - 10:47:29:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:30: "BOT Stephen<3><BOT><2>" stuck (position "-3589.57 6489.77 798.50") (duration "1.41") L 12/07/2018 - 10:47:30:    path_goal ( "-3590.44 6460.00 764.03" )
+L 12/07/2018 - 10:47:30: "BOT Thiago<4><BOT><2>" stuck (position "-3616.71 6497.05 798.50") (duration "1.41") L 12/07/2018 - 10:47:30:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:47:30: "BOT Valdis<5><BOT><2>" stuck (position "-3856.70 6923.53 764.03") (duration "1.72") L 12/07/2018 - 10:47:30:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:30: "BOT Stephen<3><BOT><2>" stuck (position "-3586.73 6488.99 830.28") (duration "1.56") L 12/07/2018 - 10:47:30:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:47:30: "BOT Thiago<4><BOT><2>" stuck (position "-3619.82 6499.19 827.53") (duration "1.56") L 12/07/2018 - 10:47:30:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:31: "BOT Valdis<5><BOT><2>" stuck (position "-3857.75 6919.62 764.03") (duration "0.78") L 12/07/2018 - 10:47:31:    path_goal ( "-3840.00 6930.00 759.14" )
+L 12/07/2018 - 10:47:32: "BOT Valdis<5><BOT><2>" stuck (position "-3851.71 6942.16 764.03") (duration "1.88") L 12/07/2018 - 10:47:32:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:33: "BOT Valdis<5><BOT><2>" stuck (position "-3854.02 6945.62 764.03") (duration "0.78") L 12/07/2018 - 10:47:33:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:35: "BOT Valdis<5><BOT><2>" stuck (position "-3866.80 6939.23 764.03") (duration "1.41") L 12/07/2018 - 10:47:35:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:36: "BOT Stephen<3><BOT><2>" stuck (position "-3598.08 6492.56 798.50") (duration "0.16") L 12/07/2018 - 10:47:36:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:47:36: "BOT Thiago<4><BOT><2>" stuck (position "-3625.75 6519.28 798.50") (duration "0.16") L 12/07/2018 - 10:47:36:    path_goal ( "-3625.61 6620.00 798.50" )
+L 12/07/2018 - 10:47:39: "BOT Thiago<4><BOT><2>" stuck (position "-3612.29 6610.97 764.03") (duration "1.41") L 12/07/2018 - 10:47:39:    path_goal ( "-3625.61 6620.00 798.50" )
+L 12/07/2018 - 10:47:39: "BOT Valdis<5><BOT><2>" stuck (position "-3847.50 6965.65 771.17") (duration "1.41") L 12/07/2018 - 10:47:39:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:47:39: "BOT Valdis<5><BOT><2>" stuck (position "-3854.70 6951.81 764.03") (duration "1.56") L 12/07/2018 - 10:47:39:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:40: "BOT Stephen<3><BOT><2>" stuck (position "-3628.70 6631.43 764.03") (duration "1.41") L 12/07/2018 - 10:47:40:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:40: "BOT Valdis<5><BOT><2>" stuck (position "-3849.46 6957.46 764.66") (duration "0.16") L 12/07/2018 - 10:47:40:    path_goal ( "-3840.00 6930.00 759.14" )
+L 12/07/2018 - 10:47:43: "BOT Thiago<4><BOT><2>" stuck (position "-3717.61 6524.08 764.03") (duration "1.41") L 12/07/2018 - 10:47:43:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 10:47:43: "BOT Thiago<4><BOT><2>" stuck (position "-3721.97 6525.25 764.03") (duration "1.56") L 12/07/2018 - 10:47:43:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:45: "BOT Vuk<6><BOT><2>" stuck (position "-3521.83 6721.80 764.03") (duration "0.16") L 12/07/2018 - 10:47:45:    path_goal ( "-3540.00 6700.00 685.35" )
+L 12/07/2018 - 10:47:46: "BOT Valdis<5><BOT><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m16a1<66>" at (-3752.824463, 6477.918945, 652.340759)
+L 12/07/2018 - 10:47:48: "BOT Thiago<4><BOT><2>" stuck (position "-3725.80 6528.43 764.03") (duration "0.16") L 12/07/2018 - 10:47:48:    path_goal ( "-3725.08 6560.00 668.12" )
+L 12/07/2018 - 10:47:50: "BOT Jono<11><BOT><#nva>" killed "BOT Valdis<5><BOT><#us>" with "nam_sks<69>" at (-3580.879883, 6425.733398, 624.820618)
+L 12/07/2018 - 10:47:51: "BOT Vuk<6><BOT><2>" stuck (position "-3629.06 6563.61 786.97") (duration "4.84") L 12/07/2018 - 10:47:51:    path_goal ( "-3632.39 6540.00 658.08" )
+L 12/07/2018 - 10:47:52: "BOT Stephen<3><BOT><2>" stuck (position "-3572.11 6548.35 786.97") (duration "9.53") L 12/07/2018 - 10:47:52:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:47:53: "BOT Thiago<4><BOT><2>" stuck (position "-3517.73 6735.74 764.03") (duration "1.41") L 12/07/2018 - 10:47:53:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:47:54: "BOT Thiago<4><BOT><2>" stuck (position "-3518.00 6734.74 764.03") (duration "1.56") L 12/07/2018 - 10:47:54:    path_goal ( "NULL" )
+L 12/07/2018 - 10:47:55: "BOT Thiago<4><BOT><2>" stuck (position "-3521.29 6722.51 764.03") (duration "0.31") L 12/07/2018 - 10:47:55:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:47:56: "BOT Thiago<4><BOT><2>" stuck (position "-3520.53 6725.36 764.03") (duration "1.41") L 12/07/2018 - 10:47:56:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:47:57: "BOT Stephen<3><BOT><2>" stuck (position "-3608.54 6625.77 764.03") (duration "1.41") L 12/07/2018 - 10:47:57:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:47:57: "BOT Stephen<3><BOT><2>" stuck (position "-3611.91 6632.84 795.80") (duration "1.56") L 12/07/2018 - 10:47:57:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 10:47:58: "BOT Thiago<4><BOT><2>" stuck (position "-3520.72 6728.08 764.03") (duration "0.16") L 12/07/2018 - 10:47:58:    path_goal ( "-3540.00 6700.00 685.35" )
+L 12/07/2018 - 10:48:00: "BOT Stephen<3><BOT><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m14<77>" at (-3915.372803, 6678.214844, 765.906677)
+L 12/07/2018 - 10:48:01: "BOT Vuk<6><BOT><2>" stuck (position "-2988.88 6648.73 638.92") (duration "1.41") L 12/07/2018 - 10:48:01:    path_goal ( "-2880.00 6620.00 608.49" )
+L 12/07/2018 - 10:48:06: "BOT Thiago<4><BOT><2>" stuck (position "-3825.14 6552.86 780.11") (duration "2.44") L 12/07/2018 - 10:48:06:    path_goal ( "-3840.00 6520.00 668.48" )
+L 12/07/2018 - 10:48:08: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_model10<41>" at (-3904.544434, 5883.738770, 463.523712)
+L 12/07/2018 - 10:48:11: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_model10<41>" at (-3024.887939, 6224.487305, 553.502686)
+L 12/07/2018 - 10:48:18: "BOT Stephen<3><BOT><2>" stuck (position "-3651.47 6569.62 787.98") (duration "1.41") L 12/07/2018 - 10:48:18:    path_goal ( "-3640.00 6500.00 764.03" )
+L 12/07/2018 - 10:48:18: "BOT Stephen<3><BOT><2>" stuck (position "-3648.23 6568.75 783.09") (duration "1.56") L 12/07/2018 - 10:48:18:    path_goal ( "NULL" )
+L 12/07/2018 - 10:48:19: "BOT Thiago<4><BOT><2>" stuck (position "-3534.78 6826.01 764.03") (duration "1.41") L 12/07/2018 - 10:48:19:    path_goal ( "-3540.00 6800.00 764.03" )
+L 12/07/2018 - 10:48:19: "BOT Thiago<4><BOT><2>" stuck (position "-3528.13 6815.15 795.80") (duration "1.56") L 12/07/2018 - 10:48:19:    path_goal ( "-3550.00 6700.00 764.03" )
+L 12/07/2018 - 10:48:22: "BOT Stephen<3><BOT><2>" stuck (position "-3648.77 6525.33 798.50") (duration "1.41") L 12/07/2018 - 10:48:22:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:48:23: "BOT Thiago<4><BOT><2>" stuck (position "-3529.56 6703.18 764.03") (duration "1.41") L 12/07/2018 - 10:48:23:    path_goal ( "-3540.00 6700.00 764.03" )
+L 12/07/2018 - 10:48:23: "BOT Thiago<4><BOT><2>" stuck (position "-3534.36 6710.54 764.03") (duration "1.56") L 12/07/2018 - 10:48:23:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:48:26: "BOT Stephen<3><BOT><2>" stuck (position "-3652.24 6601.39 764.03") (duration "1.41") L 12/07/2018 - 10:48:26:    path_goal ( "-3649.36 6620.00 798.50" )
+L 12/07/2018 - 10:48:30: "BOT Stephen<3><BOT><2>" stuck (position "-3648.90 6568.93 764.03") (duration "1.41") L 12/07/2018 - 10:48:30:    path_goal ( "-3650.00 6520.00 764.03" )
+L 12/07/2018 - 10:48:32: "BOT Stephen<3><BOT><2>" stuck (position "-3650.49 6533.85 798.50") (duration "1.41") L 12/07/2018 - 10:48:32:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:48:32: "BOT Stephen<3><BOT><2>" stuck (position "-3633.09 6537.79 830.28") (duration "1.56") L 12/07/2018 - 10:48:32:    path_goal ( "-3648.71 6620.00 798.50" )
+L 12/07/2018 - 10:48:34: "BOT Stephen<3><BOT><2>" stuck (position "-3575.77 6549.34 764.03") (duration "1.41") L 12/07/2018 - 10:48:34:    path_goal ( "-3584.56 6460.00 764.03" )
+L 12/07/2018 - 10:48:34: "BOT Stephen<3><BOT><2>" stuck (position "-3568.15 6547.65 764.03") (duration "1.56") L 12/07/2018 - 10:48:34:    path_goal ( "NULL" )
+L 12/07/2018 - 10:48:37: "BOT Stephen<3><BOT><2>" stuck (position "-3584.05 6488.30 798.50") (duration "1.41") L 12/07/2018 - 10:48:37:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:48:37: "BOT Stephen<3><BOT><2>" stuck (position "-3590.40 6490.00 830.28") (duration "1.56") L 12/07/2018 - 10:48:37:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:48:43: "BOT Stephen<3><BOT><2>" stuck (position "-3627.96 6616.63 764.03") (duration "1.41") L 12/07/2018 - 10:48:43:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:48:43: "BOT Stephen<3><BOT><2>" stuck (position "-3614.21 6606.62 795.80") (duration "1.56") L 12/07/2018 - 10:48:43:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:48:45: "BOT Stephen<3><BOT><2>" stuck (position "-3575.76 6549.33 764.03") (duration "1.41") L 12/07/2018 - 10:48:45:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:48:45: "BOT Stephen<3><BOT><2>" stuck (position "-3573.61 6548.76 764.03") (duration "1.56") L 12/07/2018 - 10:48:45:    path_goal ( "NULL" )
+L 12/07/2018 - 10:48:48: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_model10<41>" at (-3730.039551, 4200.027344, 181.320999)
+L 12/07/2018 - 10:48:48: "BOT Stephen<3><BOT><2>" stuck (position "-3592.54 6490.57 798.50") (duration "1.41") L 12/07/2018 - 10:48:48:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:48:49: "BOT Stephen<3><BOT><2>" stuck (position "-3593.89 6496.52 830.28") (duration "1.56") L 12/07/2018 - 10:48:49:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:48:50: "BOT Vuk<6><BOT><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_m16a1<66>" at (-3354.512207, 6004.019531, 472.380737)
+L 12/07/2018 - 10:48:52: "BOT Thiago<4><BOT><2>" stuck (position "-3523.18 6716.95 764.03") (duration "0.16") L 12/07/2018 - 10:48:52:    path_goal ( "-3540.00 6700.00 685.35" )
+L 12/07/2018 - 10:48:52: "BOT Stephen<3><BOT><2>" stuck (position "-3621.14 6629.43 764.03") (duration "1.41") L 12/07/2018 - 10:48:52:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:48:53: "BOT Valdis<5><BOT><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_m16a1<66>" at (-3373.134766, 6276.330078, 578.554932)
+L 12/07/2018 - 10:48:56: "BOT Thiago<4><BOT><2>" stuck (position "-3641.37 6566.91 764.03") (duration "1.41") L 12/07/2018 - 10:48:56:    path_goal ( "-3660.00 6500.00 798.50" )
+L 12/07/2018 - 10:48:56: "BOT Thiago<4><BOT><2>" stuck (position "-3641.44 6566.93 795.80") (duration "1.56") L 12/07/2018 - 10:48:56:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:48:57: "BOT Stephen<3><BOT><2>" stuck (position "-3518.90 6731.35 764.03") (duration "1.41") L 12/07/2018 - 10:48:57:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:48:57: "BOT Vuk<6><BOT><2>" stuck (position "-3679.45 6458.27 637.76") (duration "1.41") L 12/07/2018 - 10:48:57:    path_goal ( "-3660.00 6500.00 645.17" )
+L 12/07/2018 - 10:48:57: "BOT Stephen<3><BOT><2>" stuck (position "-3523.19 6715.33 764.03") (duration "1.56") L 12/07/2018 - 10:48:57:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:48:57: "BOT Vuk<6><BOT><2>" stuck (position "-3680.17 6458.46 637.85") (duration "1.56") L 12/07/2018 - 10:48:57:    path_goal ( "NULL" )
+L 12/07/2018 - 10:48:58: "BOT Stephen<3><BOT><2>" stuck (position "-3520.32 6726.10 764.03") (duration "1.41") L 12/07/2018 - 10:48:58:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:48:59: "BOT Stephen<3><BOT><2>" stuck (position "-3520.31 6726.14 764.03") (duration "1.56") L 12/07/2018 - 10:48:59:    path_goal ( "NULL" )
+L 12/07/2018 - 10:49:00: "BOT Thiago<4><BOT><2>" stuck (position "-3627.41 6621.33 764.03") (duration "1.41") L 12/07/2018 - 10:49:00:    path_goal ( "-3640.00 6620.00 798.50" )
+L 12/07/2018 - 10:49:00: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6654.15 625.86") (duration "1.41") L 12/07/2018 - 10:49:00:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:49:00: "BOT Thiago<4><BOT><2>" stuck (position "-3618.28 6614.99 795.80") (duration "1.56") L 12/07/2018 - 10:49:00:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:49:00: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6653.96 625.84") (duration "1.56") L 12/07/2018 - 10:49:00:    path_goal ( "-2680.00 6654.13 624.31" )
+L 12/07/2018 - 10:49:01: "BOT Valdis<5><BOT><2>" stuck (position "-2700.99 6654.38 625.99") (duration "0.62") L 12/07/2018 - 10:49:01:    path_goal ( "-2680.00 6654.36 624.34" )
+L 12/07/2018 - 10:49:02: "BOT Thiago<4><BOT><2>" stuck (position "-3618.84 6560.87 764.03") (duration "1.41") L 12/07/2018 - 10:49:02:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:49:02: "BOT Thiago<4><BOT><2>" stuck (position "-3620.95 6561.44 764.03") (duration "1.56") L 12/07/2018 - 10:49:02:    path_goal ( "NULL" )
+L 12/07/2018 - 10:49:04: "BOT Vuk<6><BOT><2>" stuck (position "-3851.35 6943.49 764.03") (duration "1.41") L 12/07/2018 - 10:49:04:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:49:04: "BOT Vuk<6><BOT><2>" stuck (position "-3850.10 6948.14 764.03") (duration "1.56") L 12/07/2018 - 10:49:04:    path_goal ( "-3880.00 6945.23 763.10" )
+L 12/07/2018 - 10:49:05: "BOT Thiago<4><BOT><2>" stuck (position "-3513.80 6750.39 764.03") (duration "1.41") L 12/07/2018 - 10:49:05:    path_goal ( "-3460.00 6740.00 764.03" )
+L 12/07/2018 - 10:49:05: "BOT Thiago<4><BOT><2>" stuck (position "-3513.45 6751.69 764.03") (duration "1.56") L 12/07/2018 - 10:49:05:    path_goal ( "-3540.00 6790.00 764.03" )
+L 12/07/2018 - 10:49:06: "BOT Thiago<4><BOT><2>" stuck (position "-3544.32 6749.48 764.03") (duration "0.78") L 12/07/2018 - 10:49:06:    path_goal ( "-3540.00 6700.00 764.03" )
+L 12/07/2018 - 10:49:06: "BOT Vuk<6><BOT><2>" stuck (position "-3874.10 6943.41 764.03") (duration "0.16") L 12/07/2018 - 10:49:06:    path_goal ( "-3900.00 6860.00 759.02" )
+L 12/07/2018 - 10:49:08: "BOT Thiago<4><BOT><2>" stuck (position "-3534.10 6703.74 764.03") (duration "1.44") L 12/07/2018 - 10:49:08:    path_goal ( "-3540.00 6700.00 764.03" )
+L 12/07/2018 - 10:49:08: "BOT Thiago<4><BOT><2>" stuck (position "-3549.23 6705.16 764.03") (duration "1.59") L 12/07/2018 - 10:49:08:    path_goal ( "-3540.00 6800.00 764.03" )
+L 12/07/2018 - 10:49:11: "BOT Thiago<4><BOT><2>" stuck (position "-3554.00 6802.11 764.03") (duration "1.41") L 12/07/2018 - 10:49:11:    path_goal ( "-3560.00 6800.00 764.03" )
+L 12/07/2018 - 10:49:11: "BOT Thiago<4><BOT><2>" stuck (position "-3549.39 6806.72 795.80") (duration "1.56") L 12/07/2018 - 10:49:11:    path_goal ( "-3552.80 6700.00 764.03" )
+L 12/07/2018 - 10:49:13: "BOT Thiago<4><BOT><2>" stuck (position "-3543.40 6714.22 764.03") (duration "1.41") L 12/07/2018 - 10:49:13:    path_goal ( "-3558.15 6700.00 764.03" )
+L 12/07/2018 - 10:49:16: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_sks<69>" at (-3375.697021, 3583.227051, 66.275307)
+L 12/07/2018 - 10:49:18: "BOT Thiago<4><BOT><2>" stuck (position "-3530.58 6785.30 764.03") (duration "1.41") L 12/07/2018 - 10:49:18:    path_goal ( "-3545.14 6800.00 764.03" )
+L 12/07/2018 - 10:49:18: "BOT Thiago<4><BOT><2>" stuck (position "-3532.12 6798.96 795.80") (duration "1.56") L 12/07/2018 - 10:49:18:    path_goal ( "-3540.00 6700.00 764.03" )
+L 12/07/2018 - 10:49:21: "BOT Thiago<4><BOT><2>" stuck (position "-3540.53 6713.62 764.03") (duration "1.41") L 12/07/2018 - 10:49:21:    path_goal ( "-3540.00 6700.00 764.03" )
+L 12/07/2018 - 10:49:21: "BOT Thiago<4><BOT><2>" stuck (position "-3554.28 6711.42 780.11") (duration "1.56") L 12/07/2018 - 10:49:21:    path_goal ( "-3549.19 6800.00 764.03" )
+L 12/07/2018 - 10:49:24: "BOT Thiago<4><BOT><2>" stuck (position "-3569.55 6777.10 764.03") (duration "1.41") L 12/07/2018 - 10:49:24:    path_goal ( "-3560.00 6800.00 764.03" )
+L 12/07/2018 - 10:49:26: "BOT Thiago<4><BOT><2>" stuck (position "-3554.86 6691.91 764.03") (duration "1.41") L 12/07/2018 - 10:49:26:    path_goal ( "-3550.00 6700.00 764.03" )
+L 12/07/2018 - 10:49:27: "BOT Thiago<4><BOT><2>" stuck (position "-3538.69 6694.28 764.03") (duration "1.56") L 12/07/2018 - 10:49:27:    path_goal ( "-3553.40 6800.00 764.03" )
+L 12/07/2018 - 10:49:28: "BOT Thiago<4><BOT><2>" stuck (position "-3521.91 6720.21 764.03") (duration "0.78") L 12/07/2018 - 10:49:28:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:49:29: "BOT Thiago<4><BOT><2>" stuck (position "-3521.60 6721.38 764.03") (duration "1.88") L 12/07/2018 - 10:49:29:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:49:30: "BOT Thiago<4><BOT><2>" stuck (position "-3521.27 6722.59 764.03") (duration "0.78") L 12/07/2018 - 10:49:30:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:49:31: "BOT Thiago<4><BOT><2>" stuck (position "-3520.73 6724.63 764.03") (duration "1.88") L 12/07/2018 - 10:49:31:    path_goal ( "-3485.00 6720.00 684.85" )
+L 12/07/2018 - 10:49:33: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_model10<41>" at (-2463.381348, 2701.999512, 136.602325)
+L 12/07/2018 - 10:49:35: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_model10<41>" at (-2672.318115, 2496.736816, -23.067244)
+L 12/07/2018 - 10:49:40: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_sks<69>" at (-2684.683594, 2800.789551, -6.494396)
+L 12/07/2018 - 10:49:58: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "grenade_nam_f1<22>" at (-1255.705078, 1154.538940, -56.968750)
+L 12/07/2018 - 10:49:59: "BOT Stephen<3><BOT><#us>" committed suicide with "player"
+L 12/07/2018 - 10:50:00: "BOT Valdis<5><BOT><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m16a1<66>" at (-4574.925781, 6065.926270, 978.383911)
+L 12/07/2018 - 10:50:03: "BOT Valdis<5><BOT><2>" stuck (position "-2770.01 6676.90 625.99") (duration "1.41") L 12/07/2018 - 10:50:03:    path_goal ( "-2780.00 6700.00 624.01" )
+L 12/07/2018 - 10:50:03: "BOT Valdis<5><BOT><2>" stuck (position "-2770.01 6676.90 625.99") (duration "1.56") L 12/07/2018 - 10:50:03:    path_goal ( "NULL" )
+L 12/07/2018 - 10:50:04: "BOT Valdis<5><BOT><2>" stuck (position "-2770.01 6676.90 625.99") (duration "0.94") L 12/07/2018 - 10:50:04:    path_goal ( "-2780.00 6700.00 624.01" )
+L 12/07/2018 - 10:50:05: "BOT Valdis<5><BOT><2>" stuck (position "-2770.18 6677.09 626.00") (duration "2.03") L 12/07/2018 - 10:50:05:    path_goal ( "-2780.00 6700.00 624.01" )
+L 12/07/2018 - 10:50:06: "BOT Vuk<6><BOT><2>" stuck (position "-3853.20 6936.59 764.03") (duration "1.41") L 12/07/2018 - 10:50:06:    path_goal ( "-3820.00 6930.00 764.03" )
+L 12/07/2018 - 10:50:06: "BOT Valdis<5><BOT><2>" stuck (position "-2770.18 6677.09 626.00") (duration "3.12") L 12/07/2018 - 10:50:06:    path_goal ( "-2780.00 6700.00 624.01" )
+L 12/07/2018 - 10:50:07: "BOT Valdis<5><BOT><2>" stuck (position "-2777.99 6684.38 625.99") (duration "0.78") L 12/07/2018 - 10:50:07:    path_goal ( "-2760.00 6700.00 626.08" )
+L 12/07/2018 - 10:50:09: "BOT Valdis<5><BOT><2>" stuck (position "-2777.99 6684.38 625.99") (duration "1.88") L 12/07/2018 - 10:50:09:    path_goal ( "-2760.00 6700.00 626.08" )
+L 12/07/2018 - 10:50:10: "BOT Valdis<5><BOT><2>" stuck (position "-2777.99 6684.38 625.99") (duration "0.78") L 12/07/2018 - 10:50:10:    path_goal ( "-2720.00 6684.38 626.49" )
+L 12/07/2018 - 10:50:11: "BOT Valdis<5><BOT><2>" stuck (position "-2777.99 6684.38 625.99") (duration "1.88") L 12/07/2018 - 10:50:11:    path_goal ( "-2720.00 6684.38 626.49" )
+L 12/07/2018 - 10:50:12: "BOT Valdis<5><BOT><2>" stuck (position "-2777.99 6684.38 625.99") (duration "0.78") L 12/07/2018 - 10:50:12:    path_goal ( "-2720.00 6684.38 626.49" )
+L 12/07/2018 - 10:50:13: "BOT Valdis<5><BOT><2>" stuck (position "-2777.99 6684.38 625.99") (duration "1.88") L 12/07/2018 - 10:50:13:    path_goal ( "-2720.00 6684.38 626.49" )
+L 12/07/2018 - 10:50:14: "BOT Valdis<5><BOT><2>" stuck (position "-2775.62 6682.14 626.00") (duration "0.78") L 12/07/2018 - 10:50:14:    path_goal ( "-2720.00 6684.38 626.49" )
+L 12/07/2018 - 10:50:15: "BOT Jono<11><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_sks<69>" at (-3185.133057, 3415.707031, 37.807995)
+L 12/07/2018 - 10:50:15: "BOT Valdis<5><BOT><2>" stuck (position "-2775.62 6682.14 626.00") (duration "1.88") L 12/07/2018 - 10:50:15:    path_goal ( "-2720.00 6684.38 626.49" )
+L 12/07/2018 - 10:50:16: "BOT Valdis<5><BOT><2>" stuck (position "-2775.40 6682.00 626.00") (duration "0.78") L 12/07/2018 - 10:50:16:    path_goal ( "-2720.00 6682.14 626.21" )
+L 12/07/2018 - 10:50:17: "BOT Valdis<5><BOT><2>" stuck (position "-2775.40 6682.00 626.00") (duration "1.88") L 12/07/2018 - 10:50:17:    path_goal ( "-2720.00 6682.14 626.21" )
+L 12/07/2018 - 10:50:18: "BOT Valdis<5><BOT><2>" stuck (position "-2775.40 6682.00 626.00") (duration "0.81") L 12/07/2018 - 10:50:18:    path_goal ( "-2720.00 6682.00 626.19" )
+L 12/07/2018 - 10:50:20: "BOT Valdis<5><BOT><2>" stuck (position "-2775.40 6682.00 626.00") (duration "1.91") L 12/07/2018 - 10:50:20:    path_goal ( "-2720.00 6682.00 626.19" )
+L 12/07/2018 - 10:50:21: "BOT Valdis<5><BOT><2>" stuck (position "-2775.40 6682.00 626.00") (duration "0.78") L 12/07/2018 - 10:50:21:    path_goal ( "-2720.00 6682.00 626.19" )
+L 12/07/2018 - 10:50:22: "BOT Valdis<5><BOT><2>" stuck (position "-2775.40 6682.00 626.00") (duration "1.88") L 12/07/2018 - 10:50:22:    path_goal ( "-2720.00 6682.00 626.19" )
+L 12/07/2018 - 10:50:31: "BOT Thiago<4><BOT><#us>" committed suicide with "player"
+L 12/07/2018 - 10:50:42: "BOT Jono<11><BOT><#nva>" killed "BOT Valdis<5><BOT><#us>" with "nam_sks<69>" at (-2775.403076, 6682.003418, 625.999084)
+L 12/07/2018 - 10:50:47: "BOT Bruce<8><BOT><#nva>" killed "BOT Stephen<3><BOT><#us>" with "nam_ppsh41<63>" at (-3185.715576, 6359.862793, 595.538391)
+L 12/07/2018 - 10:50:51: "BOT Zach<7><BOT><#nva>" killed "BOT Vuk<6><BOT><#us>" with "grenade_nam_f1<22>" at (-3694.981201, 6599.512695, 680.976624)
+L 12/07/2018 - 10:51:03: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_python<44>" at (-3523.182373, 6460.237305, 639.589661)
+L 12/07/2018 - 10:51:12: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_python<44>" at (-3136.887207, 6205.965332, 553.448547)
+L 12/07/2018 - 10:51:16: "BOT Jono<11><BOT><#nva>" killed "BOT Thiago<4><BOT><#us>" with "nam_sks<69>" at (-3596.144531, 6468.264648, 640.549377)
+L 12/07/2018 - 10:51:19: "BOT Devin<9><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "nam_sks<69>" at (-3257.969727, 6359.249512, 600.109192)
+L 12/07/2018 - 10:51:19: "BOT Zach<7><BOT><3>" stuck (position "-3838.13 6556.37 764.03") (duration "1.41") L 12/07/2018 - 10:51:19:    path_goal ( "-3840.00 6500.00 764.03" )
+L 12/07/2018 - 10:51:19: "BOT Zach<7><BOT><3>" stuck (position "-3823.56 6552.47 764.03") (duration "1.56") L 12/07/2018 - 10:51:19:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:26: "BOT Thiago<4><BOT><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m16a1<66>" at (-3559.652344, 6654.062500, 686.497253)
+L 12/07/2018 - 10:51:36: "BOT Valdis<5><BOT><2>" stuck (position "-3394.71 6847.52 699.69") (duration "1.41") L 12/07/2018 - 10:51:36:    path_goal ( "-3400.00 6840.00 696.08" )
+L 12/07/2018 - 10:51:36: "BOT Valdis<5><BOT><2>" stuck (position "-3397.72 6848.32 699.91") (duration "1.56") L 12/07/2018 - 10:51:36:    path_goal ( "-3420.00 6840.00 696.77" )
+L 12/07/2018 - 10:51:37: "BOT Valdis<5><BOT><2>" stuck (position "-3384.71 6844.84 698.64") (duration "2.66") L 12/07/2018 - 10:51:37:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:38: "BOT Valdis<5><BOT><2>" stuck (position "-3384.49 6844.77 698.61") (duration "3.75") L 12/07/2018 - 10:51:38:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:39: "BOT Valdis<5><BOT><2>" stuck (position "-3384.11 6844.66 698.56") (duration "4.91") L 12/07/2018 - 10:51:39:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:40: "BOT Valdis<5><BOT><2>" stuck (position "-3382.38 6844.19 698.33") (duration "6.00") L 12/07/2018 - 10:51:40:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:41: "BOT Valdis<5><BOT><2>" stuck (position "-3383.57 6844.54 698.48") (duration "7.09") L 12/07/2018 - 10:51:41:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:42: "BOT Valdis<5><BOT><2>" stuck (position "-3385.87 6845.15 698.80") (duration "8.19") L 12/07/2018 - 10:51:42:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:43: "BOT Valdis<5><BOT><2>" stuck (position "-3388.18 6845.77 699.09") (duration "9.28") L 12/07/2018 - 10:51:43:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:45: "BOT Valdis<5><BOT><2>" stuck (position "-3390.49 6846.38 699.38") (duration "10.38") L 12/07/2018 - 10:51:45:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:46: "BOT Valdis<5><BOT><2>" stuck (position "-3392.79 6847.00 699.55") (duration "11.47") L 12/07/2018 - 10:51:46:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:47: "BOT Valdis<5><BOT><2>" stuck (position "-3395.10 6847.61 699.71") (duration "12.56") L 12/07/2018 - 10:51:47:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:48: "BOT Valdis<5><BOT><2>" stuck (position "-3397.41 6848.23 699.88") (duration "13.66") L 12/07/2018 - 10:51:48:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:49: "BOT Valdis<5><BOT><2>" stuck (position "-3399.72 6848.84 700.04") (duration "14.75") L 12/07/2018 - 10:51:49:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:50: "BOT Valdis<5><BOT><2>" stuck (position "-3402.02 6849.46 700.20") (duration "15.84") L 12/07/2018 - 10:51:50:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:51: "BOT Stephen<3><BOT><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m14<77>" at (-3809.681641, 6522.522949, 672.968750)
+L 12/07/2018 - 10:51:51: "BOT Valdis<5><BOT><2>" stuck (position "-3404.40 6850.09 700.37") (duration "16.97") L 12/07/2018 - 10:51:51:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:52: "BOT Valdis<5><BOT><2>" stuck (position "-3406.70 6850.71 700.53") (duration "18.06") L 12/07/2018 - 10:51:52:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:53: "BOT Valdis<5><BOT><2>" stuck (position "-3408.35 6851.18 700.67") (duration "19.16") L 12/07/2018 - 10:51:53:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:54: "BOT Valdis<5><BOT><2>" stuck (position "-3410.65 6851.79 700.83") (duration "20.25") L 12/07/2018 - 10:51:54:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:56: "BOT Valdis<5><BOT><2>" stuck (position "-3412.96 6852.41 701.00") (duration "21.34") L 12/07/2018 - 10:51:56:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:57: "BOT Valdis<5><BOT><2>" stuck (position "-3415.27 6853.02 701.16") (duration "22.44") L 12/07/2018 - 10:51:57:    path_goal ( "NULL" )
+L 12/07/2018 - 10:51:57: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_python<44>" at (-3803.839111, 6547.192871, 764.031250)
+L 12/07/2018 - 10:51:58: "BOT Valdis<5><BOT><2>" stuck (position "-3418.10 6853.78 701.36") (duration "23.53") L 12/07/2018 - 10:51:58:    path_goal ( "-3455.00 6840.00 698.00" )
+L 12/07/2018 - 10:51:59: "BOT Valdis<5><BOT><2>" stuck (position "-3376.96 6842.76 697.61") (duration "24.62") L 12/07/2018 - 10:51:59:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:00: "BOT Valdis<5><BOT><2>" stuck (position "-3378.75 6843.24 697.85") (duration "25.72") L 12/07/2018 - 10:52:00:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:01: "BOT Valdis<5><BOT><2>" stuck (position "-3380.12 6843.60 698.04") (duration "26.81") L 12/07/2018 - 10:52:01:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:02: "BOT Valdis<5><BOT><2>" stuck (position "-3381.89 6844.07 698.27") (duration "27.91") L 12/07/2018 - 10:52:02:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:03: "BOT Valdis<5><BOT><2>" stuck (position "-3383.99 6844.63 698.55") (duration "29.00") L 12/07/2018 - 10:52:03:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:04: "BOT Valdis<5><BOT><2>" stuck (position "-3378.04 6843.04 697.77") (duration "30.09") L 12/07/2018 - 10:52:04:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:05: "BOT Valdis<5><BOT><2>" stuck (position "-3376.16 6842.54 697.52") (duration "31.19") L 12/07/2018 - 10:52:05:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:06: "BOT Valdis<5><BOT><2>" stuck (position "-3371.89 6841.40 697.28") (duration "32.28") L 12/07/2018 - 10:52:06:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:08: "BOT Valdis<5><BOT><2>" stuck (position "-3374.42 6842.07 697.35") (duration "33.38") L 12/07/2018 - 10:52:08:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:09: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.41") L 12/07/2018 - 10:52:09:    path_goal ( "-3602.98 6500.00 644.93" )
+L 12/07/2018 - 10:52:09: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.56") L 12/07/2018 - 10:52:09:    path_goal ( "NULL" )
+L 12/07/2018 - 10:52:14: "BOT Bruce<8><BOT><#nva>" killed "BOT Valdis<5><BOT><#us>" with "nam_ppsh41<63>" at (-3376.744629, 6784.091797, 732.432251)
+L 12/07/2018 - 10:52:17: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_python<44>" at (-3910.951660, 4260.502930, 210.898880)
+L 12/07/2018 - 10:52:18: "BOT Stephen<3><BOT><2>" stuck (position "-3417.36 6856.56 701.72") (duration "1.41") L 12/07/2018 - 10:52:18:    path_goal ( "-3455.00 6840.00 698.00" )
+L 12/07/2018 - 10:52:18: "BOT Stephen<3><BOT><2>" stuck (position "-3417.49 6856.06 701.66") (duration "1.56") L 12/07/2018 - 10:52:18:    path_goal ( "-3455.00 6840.00 698.00" )
+L 12/07/2018 - 10:52:26: "BOT Vuk<6><BOT><2>" stuck (position "-3539.31 6795.55 786.97") (duration "3.75") L 12/07/2018 - 10:52:26:    path_goal ( "-3530.00 6780.00 764.03" )
+L 12/07/2018 - 10:52:30: "BOT Vuk<6><BOT><2>" stuck (position "-3808.38 6911.82 764.03") (duration "1.41") L 12/07/2018 - 10:52:30:    path_goal ( "-3840.00 6940.00 764.03" )
+L 12/07/2018 - 10:52:30: "BOT Vuk<6><BOT><2>" stuck (position "-3808.31 6912.06 764.03") (duration "1.56") L 12/07/2018 - 10:52:30:    path_goal ( "-3780.00 6920.00 764.83" )
+L 12/07/2018 - 10:52:31: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_python<44>" at (-3101.576660, 5139.592285, 26.629555)
+L 12/07/2018 - 10:52:32: "BOT Stephen<3><BOT><2>" stuck (position "-3416.09 6855.11 701.48") (duration "0.16") L 12/07/2018 - 10:52:32:    path_goal ( "-3340.00 6855.57 696.49" )
+L 12/07/2018 - 10:52:32: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "0.16") L 12/07/2018 - 10:52:32:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:33: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.25") L 12/07/2018 - 10:52:33:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:33: "BOT Vuk<6><BOT><2>" stuck (position "-3785.14 6930.51 764.03") (duration "0.16") L 12/07/2018 - 10:52:33:    path_goal ( "-3760.00 6950.00 764.03" )
+L 12/07/2018 - 10:52:35: "BOT Thiago<4><BOT><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_m16a1<66>" at (-2854.570312, 4863.590820, -70.914703)
+L 12/07/2018 - 10:52:35: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "0.16") L 12/07/2018 - 10:52:35:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:37: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.25") L 12/07/2018 - 10:52:37:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:38: "BOT Vuk<6><BOT><2>" stuck (position "-3549.59 6681.02 764.03") (duration "1.41") L 12/07/2018 - 10:52:38:    path_goal ( "-3540.00 6680.00 764.03" )
+L 12/07/2018 - 10:52:38: "BOT Vuk<6><BOT><2>" stuck (position "-3541.82 6674.21 764.03") (duration "1.56") L 12/07/2018 - 10:52:38:    path_goal ( "-3580.00 6720.00 764.03" )
+L 12/07/2018 - 10:52:39: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "0.16") L 12/07/2018 - 10:52:39:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:39: "BOT Vuk<6><BOT><2>" stuck (position "-3531.23 6703.52 764.03") (duration "0.16") L 12/07/2018 - 10:52:39:    path_goal ( "-3580.00 6720.00 764.03" )
+L 12/07/2018 - 10:52:40: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.25") L 12/07/2018 - 10:52:40:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:42: "BOT Stephen<3><BOT><2>" stuck (position "-2706.84 6655.61 626.00") (duration "1.41") L 12/07/2018 - 10:52:42:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:52:42: "BOT Stephen<3><BOT><2>" stuck (position "-2706.84 6655.61 626.00") (duration "1.56") L 12/07/2018 - 10:52:42:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:52:42: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "0.16") L 12/07/2018 - 10:52:42:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:42: "BOT Vuk<6><BOT><2>" stuck (position "-3628.36 6681.91 764.03") (duration "1.41") L 12/07/2018 - 10:52:42:    path_goal ( "-3620.00 6680.00 764.03" )
+L 12/07/2018 - 10:52:42: "BOT Vuk<6><BOT><2>" stuck (position "-3626.62 6668.41 764.03") (duration "1.56") L 12/07/2018 - 10:52:42:    path_goal ( "-3660.00 6710.00 764.03" )
+L 12/07/2018 - 10:52:43: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.25") L 12/07/2018 - 10:52:43:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:45: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "0.16") L 12/07/2018 - 10:52:45:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:45: "BOT Devin<9><BOT><#nva>" killed "BOT Stephen<3><BOT><#us>" with "nam_sks<69>" at (-2706.843750, 6654.989258, 625.956116)
+L 12/07/2018 - 10:52:46: "BOT Thiago<4><BOT><2>" stuck (position "-3607.35 6459.66 637.47") (duration "1.25") L 12/07/2018 - 10:52:46:    path_goal ( "-3607.35 6500.00 644.84" )
+L 12/07/2018 - 10:52:47: "BOT Vuk<6><BOT><2>" stuck (position "-3609.17 6558.28 764.03") (duration "1.41") L 12/07/2018 - 10:52:47:    path_goal ( "-3620.00 6500.00 646.14" )
+L 12/07/2018 - 10:52:47: "BOT Vuk<6><BOT><2>" stuck (position "-3601.04 6556.10 764.03") (duration "1.56") L 12/07/2018 - 10:52:47:    path_goal ( "-3460.00 6740.00 764.03" )
+L 12/07/2018 - 10:52:48: "BOT Thiago<4><BOT><2>" stuck (position "-3607.07 6457.09 636.69") (duration "0.16") L 12/07/2018 - 10:52:48:    path_goal ( "-3607.35 6420.00 613.55" )
+L 12/07/2018 - 10:52:50: "BOT Vuk<6><BOT><2>" stuck (position "-3590.36 6489.99 798.50") (duration "1.44") L 12/07/2018 - 10:52:50:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:52:50: "BOT Vuk<6><BOT><2>" stuck (position "-3586.28 6489.05 830.28") (duration "1.59") L 12/07/2018 - 10:52:50:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 10:52:56: "BOT Vuk<6><BOT><2>" stuck (position "-3627.69 6619.20 764.03") (duration "1.41") L 12/07/2018 - 10:52:56:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:52:56: "BOT Vuk<6><BOT><2>" stuck (position "-3618.14 6629.40 795.80") (duration "1.56") L 12/07/2018 - 10:52:56:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 10:52:57: "BOT Thiago<4><BOT><2>" stuck (position "-2706.82 6654.36 625.88") (duration "1.41") L 12/07/2018 - 10:52:57:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:52:57: "BOT Thiago<4><BOT><2>" stuck (position "-2706.82 6654.17 625.86") (duration "1.56") L 12/07/2018 - 10:52:57:    path_goal ( "-2680.00 6654.34 624.34" )
+L 12/07/2018 - 10:52:58: "BOT Thiago<4><BOT><2>" stuck (position "-2701.68 6654.55 626.00") (duration "0.78") L 12/07/2018 - 10:52:58:    path_goal ( "-2680.00 6654.50 624.35" )
+L 12/07/2018 - 10:53:00: "BOT Vuk<6><BOT><2>" stuck (position "-3568.24 6547.32 764.03") (duration "1.41") L 12/07/2018 - 10:53:00:    path_goal ( "-3570.00 6540.00 764.03" )
+L 12/07/2018 - 10:53:00: "BOT Vuk<6><BOT><2>" stuck (position "-3568.69 6547.44 795.80") (duration "1.56") L 12/07/2018 - 10:53:00:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 10:53:02: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_python<44>" at (-3770.959473, 4699.857910, 238.547836)
+L 12/07/2018 - 10:53:04: "BOT Vuk<6><BOT><2>" stuck (position "-3613.49 6628.32 764.03") (duration "1.41") L 12/07/2018 - 10:53:04:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 10:53:04: "BOT Vuk<6><BOT><2>" stuck (position "-3623.24 6637.30 795.80") (duration "1.56") L 12/07/2018 - 10:53:04:    path_goal ( "-3640.00 6610.00 764.03" )
+L 12/07/2018 - 10:53:06: "BOT Thiago<4><BOT><2>" stuck (position "-3616.20 6452.91 635.12") (duration "1.41") L 12/07/2018 - 10:53:06:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:06: "BOT Thiago<4><BOT><2>" stuck (position "-3616.20 6452.91 635.12") (duration "1.56") L 12/07/2018 - 10:53:06:    path_goal ( "-3616.20 6500.00 644.66" )
+L 12/07/2018 - 10:53:06: "BOT Vuk<6><BOT><2>" stuck (position "-3691.87 6709.25 764.03") (duration "1.41") L 12/07/2018 - 10:53:06:    path_goal ( "-3680.00 6720.00 764.03" )
+L 12/07/2018 - 10:53:07: "BOT Vuk<6><BOT><2>" stuck (position "-3695.94 6723.39 764.03") (duration "1.56") L 12/07/2018 - 10:53:07:    path_goal ( "-3660.00 6710.00 764.03" )
+L 12/07/2018 - 10:53:07: "BOT Thiago<4><BOT><2>" stuck (position "-3616.20 6452.91 635.12") (duration "0.31") L 12/07/2018 - 10:53:07:    path_goal ( "-3616.20 6500.00 644.66" )
+L 12/07/2018 - 10:53:08: "BOT Thiago<4><BOT><2>" stuck (position "-3617.03 6455.20 635.85") (duration "1.41") L 12/07/2018 - 10:53:08:    path_goal ( "-3616.20 6500.00 644.66" )
+L 12/07/2018 - 10:53:09: "BOT Vuk<6><BOT><2>" stuck (position "-3629.71 6760.92 764.03") (duration "1.41") L 12/07/2018 - 10:53:09:    path_goal ( "-3640.00 6780.00 764.03" )
+L 12/07/2018 - 10:53:12: "BOT Vuk<6><BOT><2>" stuck (position "-3628.43 6681.75 764.03") (duration "1.41") L 12/07/2018 - 10:53:12:    path_goal ( "-3631.55 6680.00 764.03" )
+L 12/07/2018 - 10:53:12: "BOT Vuk<6><BOT><2>" stuck (position "-3631.77 6687.57 764.03") (duration "1.56") L 12/07/2018 - 10:53:12:    path_goal ( "-3660.00 6710.00 764.03" )
+L 12/07/2018 - 10:53:24: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_python<44>" at (-3171.318604, 3522.369873, 36.231667)
+L 12/07/2018 - 10:53:31: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_python<44>" at (-2776.014893, 5032.841309, -49.841537)
+L 12/07/2018 - 10:53:33: "BOT Vuk<6><BOT><2>" stuck (position "-3648.19 6692.39 764.03") (duration "0.16") L 12/07/2018 - 10:53:33:    path_goal ( "-3620.00 6685.00 764.03" )
+L 12/07/2018 - 10:53:34: "BOT Stephen<3><BOT><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_m14<77>" at (-3524.851318, 5559.420898, 402.415527)
+L 12/07/2018 - 10:53:34: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_python<44>" at (-2836.711914, 5658.097656, 4.089255)
+L 12/07/2018 - 10:53:34: "BOT Thiago<4><BOT><2>" stuck (position "-3618.51 6461.52 637.84") (duration "0.16") L 12/07/2018 - 10:53:34:    path_goal ( "-3617.94 6500.00 644.63" )
+L 12/07/2018 - 10:53:36: "BOT Vuk<6><BOT><2>" stuck (position "-3605.55 6574.85 764.03") (duration "1.41") L 12/07/2018 - 10:53:36:    path_goal ( "-3600.00 6560.00 764.03" )
+L 12/07/2018 - 10:53:36: "BOT Vuk<6><BOT><2>" stuck (position "-3588.42 6575.38 764.03") (duration "1.56") L 12/07/2018 - 10:53:36:    path_goal ( "-2820.00 6620.00 606.55" )
+L 12/07/2018 - 10:53:37: "BOT Thiago<4><BOT><2>" stuck (position "-3617.57 6513.79 654.69") (duration "0.16") L 12/07/2018 - 10:53:37:    path_goal ( "-3680.00 6520.00 652.52" )
+L 12/07/2018 - 10:53:39: "BOT Vuk<6><BOT><2>" stuck (position "-3648.17 6570.60 764.03") (duration "1.41") L 12/07/2018 - 10:53:39:    path_goal ( "-3650.00 6520.00 764.03" )
+L 12/07/2018 - 10:53:39: "BOT Vuk<6><BOT><2>" stuck (position "-3634.31 6565.42 764.03") (duration "1.56") L 12/07/2018 - 10:53:39:    path_goal ( "NULL" )
+L 12/07/2018 - 10:53:46: "BOT Thiago<4><BOT><2>" stuck (position "-3621.70 6490.10 669.95") (duration "1.41") L 12/07/2018 - 10:53:46:    path_goal ( "-3640.00 6460.00 631.06" )
+L 12/07/2018 - 10:53:46: "BOT Thiago<4><BOT><2>" stuck (position "-3626.74 6491.45 664.18") (duration "1.56") L 12/07/2018 - 10:53:46:    path_goal ( "NULL" )
+L 12/07/2018 - 10:53:51: "BOT Valdis<5><BOT><2>" stuck (position "-3596.14 6468.27 640.55") (duration "1.41") L 12/07/2018 - 10:53:51:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:51: "BOT Valdis<5><BOT><2>" stuck (position "-3596.14 6468.27 640.55") (duration "1.56") L 12/07/2018 - 10:53:51:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:52: "BOT Thiago<4><BOT><2>" stuck (position "-3593.85 6482.64 645.21") (duration "1.41") L 12/07/2018 - 10:53:52:    path_goal ( "-3620.00 6420.00 613.11" )
+L 12/07/2018 - 10:53:53: "BOT Thiago<4><BOT><2>" stuck (position "-3593.85 6482.64 645.21") (duration "1.56") L 12/07/2018 - 10:53:53:    path_goal ( "NULL" )
+L 12/07/2018 - 10:53:53: "BOT Valdis<5><BOT><2>" stuck (position "-3596.15 6468.46 640.58") (duration "0.16") L 12/07/2018 - 10:53:53:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:54: "BOT Thiago<4><BOT><2>" stuck (position "-3593.85 6482.64 661.29") (duration "2.66") L 12/07/2018 - 10:53:54:    path_goal ( "-3593.85 6420.00 614.02" )
+L 12/07/2018 - 10:53:54: "BOT Valdis<5><BOT><2>" stuck (position "-3596.15 6468.46 640.58") (duration "1.25") L 12/07/2018 - 10:53:54:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:55: "BOT Thiago<4><BOT><2>" stuck (position "-3593.85 6482.64 672.38") (duration "0.78") L 12/07/2018 - 10:53:55:    path_goal ( "-3593.85 6420.00 614.02" )
+L 12/07/2018 - 10:53:56: "BOT Thiago<4><BOT><2>" stuck (position "-3593.83 6482.63 672.97") (duration "1.88") L 12/07/2018 - 10:53:56:    path_goal ( "-3593.85 6420.00 614.02" )
+L 12/07/2018 - 10:53:56: "BOT Valdis<5><BOT><2>" stuck (position "-3596.15 6468.46 640.58") (duration "0.16") L 12/07/2018 - 10:53:56:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:57: "BOT Valdis<5><BOT><2>" stuck (position "-3596.15 6468.46 640.58") (duration "1.27") L 12/07/2018 - 10:53:57:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:53:59: "BOT Thiago<4><BOT><2>" stuck (position "-3543.54 6623.82 680.97") (duration "1.41") L 12/07/2018 - 10:53:59:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:53:59: "BOT Thiago<4><BOT><2>" stuck (position "-3543.54 6623.82 680.97") (duration "1.56") L 12/07/2018 - 10:53:59:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:53:59: "BOT Valdis<5><BOT><2>" stuck (position "-3596.15 6468.34 640.57") (duration "0.16") L 12/07/2018 - 10:53:59:    path_goal ( "-3620.00 6460.00 628.85" )
+L 12/07/2018 - 10:54:00: "BOT Thiago<4><BOT><2>" stuck (position "-3543.54 6623.82 680.97") (duration "0.78") L 12/07/2018 - 10:54:00:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:00: "BOT Valdis<5><BOT><2>" stuck (position "-3618.10 6442.70 631.31") (duration "1.25") L 12/07/2018 - 10:54:00:    path_goal ( "-3620.00 6420.00 613.11" )
+L 12/07/2018 - 10:54:01: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "1.88") L 12/07/2018 - 10:54:01:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:02: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "0.78") L 12/07/2018 - 10:54:02:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:03: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "1.88") L 12/07/2018 - 10:54:03:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:04: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "0.78") L 12/07/2018 - 10:54:04:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:05: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_python<44>" at (-2702.542725, 2786.758057, -18.859470)
+L 12/07/2018 - 10:54:05: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "1.88") L 12/07/2018 - 10:54:05:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:06: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "0.78") L 12/07/2018 - 10:54:06:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:07: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "1.88") L 12/07/2018 - 10:54:07:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:09: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "0.78") L 12/07/2018 - 10:54:09:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:10: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "1.88") L 12/07/2018 - 10:54:10:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:11: "BOT Thiago<4><BOT><2>" stuck (position "-3543.80 6623.84 680.97") (duration "0.78") L 12/07/2018 - 10:54:11:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:12: "BOT Thiago<4><BOT><2>" stuck (position "-3544.05 6623.85 681.00") (duration "1.88") L 12/07/2018 - 10:54:12:    path_goal ( "-3560.00 6640.00 680.22" )
+L 12/07/2018 - 10:54:12: "BOT Bruce<8><BOT><#nva>" killed "b00jum<2><STEAM_1:1:9014066><#us>" with "grenade_nam_f1<22>" at (-3685.455811, 3268.052979, 75.968857)
+L 12/07/2018 - 10:54:12: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6654.46 625.90") (duration "1.41") L 12/07/2018 - 10:54:12:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:12: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6651.53 625.56") (duration "1.56") L 12/07/2018 - 10:54:12:    path_goal ( "NULL" )
+L 12/07/2018 - 10:54:41: "BOT Vuk<6><BOT><#us>" committed suicide with "player"
+L 12/07/2018 - 10:54:43: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6649.01 625.27") (duration "0.16") L 12/07/2018 - 10:54:43:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:44: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6654.69 625.92") (duration "1.25") L 12/07/2018 - 10:54:44:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:46: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6654.53 625.90") (duration "0.16") L 12/07/2018 - 10:54:46:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:47: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6655.15 625.98") (duration "1.25") L 12/07/2018 - 10:54:47:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:48: "BOT Stephen<3><BOT><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_m14<77>" at (-3347.204102, 6091.006836, 522.093811)
+L 12/07/2018 - 10:54:49: "BOT Valdis<5><BOT><2>" stuck (position "-2706.01 6655.43 626.00") (duration "0.16") L 12/07/2018 - 10:54:49:    path_goal ( "-2600.00 6660.00 629.23" )
+L 12/07/2018 - 10:54:50: "BOT Valdis<5><BOT><2>" stuck (position "-2705.76 6655.36 626.00") (duration "1.25") L 12/07/2018 - 10:54:50:    path_goal ( "-2600.00 6660.00 629.23" )
+L 12/07/2018 - 10:54:52: "BOT Valdis<5><BOT><2>" stuck (position "-2705.76 6655.36 626.00") (duration "0.16") L 12/07/2018 - 10:54:52:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:53: "BOT Valdis<5><BOT><2>" stuck (position "-2706.82 6654.39 625.89") (duration "1.25") L 12/07/2018 - 10:54:53:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:54:55: "BOT Valdis<5><BOT><2>" stuck (position "-2705.44 6654.04 625.87") (duration "0.16") L 12/07/2018 - 10:54:55:    path_goal ( "-2680.00 6653.94 624.29" )
+L 12/07/2018 - 10:54:56: "BOT Valdis<5><BOT><2>" stuck (position "-2700.71 6654.36 626.00") (duration "1.25") L 12/07/2018 - 10:54:56:    path_goal ( "-2680.00 6653.94 624.29" )
+L 12/07/2018 - 10:54:59: "BOT Valdis<5><BOT><2>" stuck (position "-2700.71 6654.36 626.00") (duration "0.16") L 12/07/2018 - 10:54:59:    path_goal ( "-2680.00 6654.36 624.34" )
+L 12/07/2018 - 10:55:00: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "grenade_nam_m67<21>" at (-3085.823242, 5417.757324, 86.141556)
+L 12/07/2018 - 10:55:00: "BOT Valdis<5><BOT><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_m16a1<66>" at (-3533.427002, 5318.650879, 349.520477)
+L 12/07/2018 - 10:55:01: "BOT Thiago<4><BOT><2>" stuck (position "-3544.05 6623.85 681.00") (duration "0.16") L 12/07/2018 - 10:55:01:    path_goal ( "-3620.00 6600.00 672.58" )
+L 12/07/2018 - 10:55:02: "BOT Thiago<4><BOT><2>" stuck (position "-3544.49 6623.57 681.00") (duration "1.25") L 12/07/2018 - 10:55:02:    path_goal ( "-3620.00 6600.00 672.58" )
+L 12/07/2018 - 10:55:04: "BOT Thiago<4><BOT><2>" stuck (position "-3544.67 6623.38 681.00") (duration "0.16") L 12/07/2018 - 10:55:04:    path_goal ( "-3620.00 6600.00 672.58" )
+L 12/07/2018 - 10:55:04: "BOT Stephen<3><BOT><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_m14<77>" at (-3586.011230, 3487.927002, 84.675308)
+L 12/07/2018 - 10:55:09: "BOT Valdis<5><BOT><2>" stuck (position "-3685.16 6459.79 638.49") (duration "1.41") L 12/07/2018 - 10:55:09:    path_goal ( "-3680.00 6520.00 652.52" )
+L 12/07/2018 - 10:55:10: "BOT Valdis<5><BOT><2>" stuck (position "-3684.44 6459.60 670.26") (duration "1.56") L 12/07/2018 - 10:55:10:    path_goal ( "-3640.00 6420.00 611.78" )
+L 12/07/2018 - 10:55:13: "BOT Vuk<6><BOT><2>" stuck (position "-2526.85 6534.82 627.27") (duration "1.41") L 12/07/2018 - 10:55:13:    path_goal ( "-2600.00 6520.00 667.39" )
+L 12/07/2018 - 10:55:13: "BOT Vuk<6><BOT><2>" stuck (position "-2526.85 6536.61 627.61") (duration "1.56") L 12/07/2018 - 10:55:13:    path_goal ( "-2540.00 6460.00 622.01" )
+L 12/07/2018 - 10:55:15: "BOT Valdis<5><BOT><2>" stuck (position "-3341.56 6688.57 680.37") (duration "1.41") L 12/07/2018 - 10:55:15:    path_goal ( "-3340.00 6720.00 680.13" )
+L 12/07/2018 - 10:55:15: "BOT Valdis<5><BOT><2>" stuck (position "-3340.87 6693.29 712.14") (duration "1.56") L 12/07/2018 - 10:55:15:    path_goal ( "-3340.00 6720.00 680.13" )
+L 12/07/2018 - 10:55:16: "BOT Vuk<6><BOT><2>" stuck (position "-2509.77 6530.45 625.81") (duration "0.16") L 12/07/2018 - 10:55:16:    path_goal ( "-2540.00 6460.00 622.01" )
+L 12/07/2018 - 10:55:24: "BOT Vuk<6><BOT><2>" stuck (position "-3619.39 6450.87 634.42") (duration "1.42") L 12/07/2018 - 10:55:24:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:55:24: "BOT Vuk<6><BOT><2>" stuck (position "-3619.39 6450.87 634.42") (duration "1.58") L 12/07/2018 - 10:55:24:    path_goal ( "-3619.39 6500.00 644.60" )
+L 12/07/2018 - 10:55:25: "BOT Vuk<6><BOT><2>" stuck (position "-3619.39 6450.87 634.42") (duration "0.16") L 12/07/2018 - 10:55:25:    path_goal ( "-3619.39 6500.00 644.60" )
+L 12/07/2018 - 10:55:25: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_python<44>" at (-2442.518311, 2237.572266, -49.239296)
+L 12/07/2018 - 10:55:26: "BOT Vuk<6><BOT><2>" stuck (position "-3619.39 6450.87 634.42") (duration "1.25") L 12/07/2018 - 10:55:26:    path_goal ( "-3619.39 6500.00 644.60" )
+L 12/07/2018 - 10:55:28: "BOT Vuk<6><BOT><2>" stuck (position "-3619.11 6449.27 633.91") (duration "0.16") L 12/07/2018 - 10:55:28:    path_goal ( "-3620.00 6420.00 613.11" )
+L 12/07/2018 - 10:55:31: "BOT Geoffrey<10><BOT><3>" stuck (position "-1165.10 1573.95 -22.59") (duration "1.41") L 12/07/2018 - 10:55:31:    path_goal ( "-1230.00 1600.00 -23.11" )
+L 12/07/2018 - 10:55:31: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_python<44>" at (-2725.795410, 1991.350464, -56.968750)
+L 12/07/2018 - 10:55:34: "BOT Geoffrey<10><BOT><3>" stuck (position "-1174.37 1622.82 -23.11") (duration "1.41") L 12/07/2018 - 10:55:34:    path_goal ( "-1230.00 1600.00 -23.11" )
+L 12/07/2018 - 10:55:34: "BOT Geoffrey<10><BOT><3>" stuck (position "-1177.45 1628.11 8.66") (duration "1.56") L 12/07/2018 - 10:55:34:    path_goal ( "-1240.00 1623.26 -23.11" )
+L 12/07/2018 - 10:55:38: "BOT Valdis<5><BOT><2>" stuck (position "-3617.57 6451.98 634.81") (duration "1.41") L 12/07/2018 - 10:55:38:    path_goal ( "-3600.00 6500.00 644.99" )
+L 12/07/2018 - 10:55:38: "BOT Valdis<5><BOT><2>" stuck (position "-3617.57 6451.98 634.81") (duration "1.56") L 12/07/2018 - 10:55:38:    path_goal ( "NULL" )
+L 12/07/2018 - 10:55:39: "BOT Vuk<6><BOT><2>" stuck (position "-2706.82 6650.05 625.39") (duration "1.41") L 12/07/2018 - 10:55:39:    path_goal ( "-2740.00 6660.00 621.72" )
+L 12/07/2018 - 10:55:39: "BOT Vuk<6><BOT><2>" stuck (position "-2706.82 6649.92 625.38") (duration "1.56") L 12/07/2018 - 10:55:39:    path_goal ( "-2680.00 6650.04 623.83" )
+L 12/07/2018 - 10:55:48: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_python<44>" at (-3381.610107, 3741.381836, 66.662521)
+L 12/07/2018 - 10:55:49: "BOT Valdis<5><BOT><2>" stuck (position "-3617.09 6449.43 634.01") (duration "0.16") L 12/07/2018 - 10:55:49:    path_goal ( "-3617.57 6420.00 613.19" )
+L 12/07/2018 - 10:55:49: "BOT Vuk<6><BOT><2>" stuck (position "-2686.77 6650.27 626.07") (duration "0.16") L 12/07/2018 - 10:55:49:    path_goal ( "-2600.00 6660.00 629.23" )
+L 12/07/2018 - 10:56:02: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Bruce<8><BOT><#nva>" with "nam_python<44>" at (-3797.227783, 3143.446533, 139.810791)
+L 12/07/2018 - 10:56:15: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Geoffrey<10><BOT><#nva>" with "nam_python<44>" at (-3050.145508, 3750.501221, -20.282799)
+L 12/07/2018 - 10:56:17: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "1.41") L 12/07/2018 - 10:56:17:    path_goal ( "-2760.00 6700.00 626.08" )
+L 12/07/2018 - 10:56:18: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "1.56") L 12/07/2018 - 10:56:18:    path_goal ( "NULL" )
+L 12/07/2018 - 10:56:18: "BOT Vuk<6><BOT><2>" stuck (position "-3591.02 6619.26 681.00") (duration "1.41") L 12/07/2018 - 10:56:18:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:18: "BOT Vuk<6><BOT><2>" stuck (position "-3591.02 6619.26 681.00") (duration "1.56") L 12/07/2018 - 10:56:18:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:19: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "0.16") L 12/07/2018 - 10:56:19:    path_goal ( "-2760.00 6702.59 626.38" )
+L 12/07/2018 - 10:56:19: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Devin<9><BOT><#nva>" with "nam_python<44>" at (-2486.034912, 2644.632324, 115.039764)
+L 12/07/2018 - 10:56:20: "BOT Vuk<6><BOT><2>" stuck (position "-3591.54 6619.12 680.96") (duration "0.16") L 12/07/2018 - 10:56:20:    path_goal ( "-3620.00 6600.00 672.58" )
+L 12/07/2018 - 10:56:20: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "1.25") L 12/07/2018 - 10:56:20:    path_goal ( "-2760.00 6702.59 626.38" )
+L 12/07/2018 - 10:56:21: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Jono<11><BOT><#nva>" with "nam_python<44>" at (-2694.248535, 2541.199463, -21.204702)
+L 12/07/2018 - 10:56:22: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "0.16") L 12/07/2018 - 10:56:22:    path_goal ( "-2760.00 6702.59 626.38" )
+L 12/07/2018 - 10:56:23: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "1.25") L 12/07/2018 - 10:56:23:    path_goal ( "-2760.00 6702.59 626.38" )
+L 12/07/2018 - 10:56:25: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "0.16") L 12/07/2018 - 10:56:25:    path_goal ( "-2760.00 6702.59 626.38" )
+L 12/07/2018 - 10:56:25: "BOT Vuk<6><BOT><2>" stuck (position "-3590.18 6619.37 681.00") (duration "1.41") L 12/07/2018 - 10:56:25:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:25: "BOT Vuk<6><BOT><2>" stuck (position "-3590.18 6619.37 681.00") (duration "1.56") L 12/07/2018 - 10:56:25:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:26: "b00jum<2><STEAM_1:1:9014066><#us>" killed "BOT Zach<7><BOT><#nva>" with "nam_python<44>" at (-2833.286621, 2714.793457, -45.916046)
+L 12/07/2018 - 10:56:26: "BOT Valdis<5><BOT><2>" stuck (position "-2822.93 6702.59 625.99") (duration "1.25") L 12/07/2018 - 10:56:26:    path_goal ( "-2760.00 6702.59 626.38" )
+L 12/07/2018 - 10:56:27: "BOT Vuk<6><BOT><2>" stuck (position "-3590.18 6619.37 681.00") (duration "0.78") L 12/07/2018 - 10:56:27:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:28: "BOT Vuk<6><BOT><2>" stuck (position "-3590.18 6619.37 681.00") (duration "1.88") L 12/07/2018 - 10:56:28:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:28: "BOT Valdis<5><BOT><2>" stuck (position "-2823.00 6701.21 625.74") (duration "0.16") L 12/07/2018 - 10:56:28:    path_goal ( "-2820.00 6620.00 606.55" )
+L 12/07/2018 - 10:56:29: "BOT Vuk<6><BOT><2>" stuck (position "-3590.18 6619.37 681.00") (duration "0.78") L 12/07/2018 - 10:56:29:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:30: "BOT Vuk<6><BOT><2>" stuck (position "-3590.18 6619.37 681.00") (duration "1.88") L 12/07/2018 - 10:56:30:    path_goal ( "-3580.00 6640.00 681.70" )
+L 12/07/2018 - 10:56:31: "b00jum<2><STEAM_1:1:9014066><#us>" disconnected (reason "Disconnected.")
+L 12/07/2018 - 10:56:31: "BOT Stephen<3><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Thiago<4><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Valdis<5><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Vuk<6><BOT><#us>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Zach<7><BOT><#nva>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Bruce<8><BOT><#nva>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Devin<9><BOT><#nva>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Geoffrey<10><BOT><#nva>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 10:56:31: "BOT Jono<11><BOT><#nva>" disconnected (reason "Punting bot, server is hibernating")
+L 12/07/2018 - 11:42:17: "b00jum<12><STEAM_1:1:9014066><>" connected, address "172.73.164.22:27005"
+L 12/07/2018 - 11:42:17: "b00jum<12><STEAM_1:1:9014066><STEAM_1:1:9014066>" STEAM USERID validated
+L 12/07/2018 - 11:42:43: "b00jum<12><STEAM_1:1:9014066><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 11:42:43: "b00jum<12><STEAM_1:1:9014066><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Nik<13><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<13><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Nik<13><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 11:43:37: "BOT Serguei<14><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<14><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Serguei<14><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 11:43:37: "BOT Tom<15><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<15><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Tom<15><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 11:43:37: "BOT Rich<16><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<16><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Rich<16><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 11:43:37: "BOT Chuck<17><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<17><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Chuck<17><BOT><#Team_Unassigned>" joined team "#us"
+L 12/07/2018 - 11:43:37: "BOT Kedhrin<18><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<18><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Kedhrin<18><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 11:43:37: "BOT Cole<19><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<19><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Cole<19><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 11:43:37: "BOT Paul<20><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<20><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Paul<20><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 11:43:37: "BOT Minh<21><BOT><>" connected, address "none"
+L 12/07/2018 - 11:43:37: "<21><BOT><>" entered the game
+L 12/07/2018 - 11:43:37: "BOT Minh<21><BOT><#Team_Unassigned>" joined team "#nva"
+L 12/07/2018 - 11:43:43: "BOT Rich<16><BOT><2>" stuck (position "-1108.54 761.70 64.11") (duration "1.41") L 12/07/2018 - 11:43:43:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:43:44: "BOT Tom<15><BOT><2>" stuck (position "-1065.07 761.00 48.03") (duration "1.41") L 12/07/2018 - 11:43:44:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:43:44: "BOT Tom<15><BOT><2>" stuck (position "-1080.83 761.02 60.38") (duration "1.56") L 12/07/2018 - 11:43:44:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 11:43:49: "BOT Tom<15><BOT><2>" stuck (position "-1106.52 761.04 48.03") (duration "1.41") L 12/07/2018 - 11:43:49:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:43:50: "BOT Tom<15><BOT><2>" stuck (position "-1091.72 761.03 94.77") (duration "1.41") L 12/07/2018 - 11:43:50:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:43:50: "BOT Tom<15><BOT><2>" stuck (position "-1097.84 761.03 95.89") (duration "1.56") L 12/07/2018 - 11:43:50:    path_goal ( "NULL" )
+L 12/07/2018 - 11:43:53: "BOT Tom<15><BOT><2>" stuck (position "-1071.00 761.97 48.03") (duration "1.41") L 12/07/2018 - 11:43:53:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:43:53: "BOT Tom<15><BOT><2>" stuck (position "-1067.88 763.39 48.03") (duration "1.56") L 12/07/2018 - 11:43:53:    path_goal ( "NULL" )
+L 12/07/2018 - 11:44:00: "BOT Rich<16><BOT><2>" stuck (position "-1094.96 761.01 64.11") (duration "1.41") L 12/07/2018 - 11:44:00:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:01: "BOT Tom<15><BOT><2>" stuck (position "-1089.39 761.00 94.77") (duration "1.41") L 12/07/2018 - 11:44:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:01: "BOT Tom<15><BOT><2>" stuck (position "-1079.69 761.00 95.89") (duration "1.56") L 12/07/2018 - 11:44:01:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:03: "BOT Tom<15><BOT><2>" stuck (position "-1091.78 761.00 67.64") (duration "0.16") L 12/07/2018 - 11:44:03:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 11:44:05: "BOT Paul<20><BOT><3>" stuck (position "-1240.47 -4911.03 -15.14") (duration "1.41") L 12/07/2018 - 11:44:05:    path_goal ( "-1280.00 -4900.00 -25.51" )
+L 12/07/2018 - 11:44:05: "BOT Paul<20><BOT><3>" stuck (position "-1240.77 -4910.97 -15.14") (duration "1.56") L 12/07/2018 - 11:44:05:    path_goal ( "-1280.00 -4900.00 -25.51" )
+L 12/07/2018 - 11:44:05: "BOT Rich<16><BOT><2>" stuck (position "-1105.77 761.03 48.03") (duration "1.41") L 12/07/2018 - 11:44:05:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:05: "BOT Rich<16><BOT><2>" stuck (position "-1105.96 761.22 48.03") (duration "1.56") L 12/07/2018 - 11:44:05:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 11:44:06: "BOT Rich<16><BOT><2>" stuck (position "-1066.80 763.87 48.03") (duration "0.16") L 12/07/2018 - 11:44:06:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 11:44:06: "BOT Tom<15><BOT><2>" stuck (position "-1096.51 761.00 48.03") (duration "1.41") L 12/07/2018 - 11:44:06:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:07: "BOT Tom<15><BOT><2>" stuck (position "-1091.31 761.00 79.80") (duration "1.56") L 12/07/2018 - 11:44:07:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:10: "BOT Rich<16><BOT><2>" stuck (position "-1103.26 763.38 48.03") (duration "1.41") L 12/07/2018 - 11:44:10:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:10: "BOT Rich<16><BOT><2>" stuck (position "-1102.40 761.01 79.80") (duration "1.56") L 12/07/2018 - 11:44:10:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:10: "BOT Cole<19><BOT><3>" stuck (position "-502.23 -4373.76 -57.96") (duration "1.41") L 12/07/2018 - 11:44:10:    path_goal ( "-500.00 -4340.00 -59.92" )
+L 12/07/2018 - 11:44:10: "BOT Cole<19><BOT><3>" stuck (position "-485.76 -4374.50 -57.78") (duration "1.56") L 12/07/2018 - 11:44:10:    path_goal ( "-470.00 -4400.00 -57.50" )
+L 12/07/2018 - 11:44:12: "BOT Minh<21><BOT><3>" stuck (position "-713.12 -4412.57 -56.97") (duration "1.41") L 12/07/2018 - 11:44:12:    path_goal ( "-720.00 -4380.00 -59.58" )
+L 12/07/2018 - 11:44:12: "BOT Minh<21><BOT><3>" stuck (position "-727.34 -4415.40 -56.97") (duration "1.56") L 12/07/2018 - 11:44:12:    path_goal ( "-660.00 -4420.00 -57.93" )
+L 12/07/2018 - 11:44:14: "BOT Tom<15><BOT><2>" stuck (position "-1082.45 763.36 48.03") (duration "1.41") L 12/07/2018 - 11:44:14:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:16: "BOT Rich<16><BOT><2>" stuck (position "-1084.90 761.00 48.03") (duration "1.41") L 12/07/2018 - 11:44:16:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:16: "BOT Rich<16><BOT><2>" stuck (position "-1085.98 761.00 48.03") (duration "1.56") L 12/07/2018 - 11:44:16:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 11:44:17: "BOT Rich<16><BOT><2>" stuck (position "-1088.31 761.00 48.03") (duration "2.66") L 12/07/2018 - 11:44:17:    path_goal ( "NULL" )
+L 12/07/2018 - 11:44:17: "BOT Tom<15><BOT><2>" stuck (position "-1079.94 761.86 48.03") (duration "1.41") L 12/07/2018 - 11:44:17:    path_goal ( "-1090.00 730.00 76.75" )
+L 12/07/2018 - 11:44:17: "BOT Tom<15><BOT><2>" stuck (position "-1093.75 762.09 48.03") (duration "1.56") L 12/07/2018 - 11:44:17:    path_goal ( "-1090.00 760.00 48.03" )
+L 12/07/2018 - 11:44:18: "BOT Rich<16><BOT><2>" stuck (position "-1090.32 761.00 48.03") (duration "3.75") L 12/07/2018 - 11:44:18:    path_goal ( "NULL" )
+L 12/07/2018 - 11:44:18: "b00jum<12><STEAM_1:1:9014066><#nva>" killed "BOT Rich<16><BOT><#us>" with "nam_mg42<36>" at (-1090.489014, 761.000549, 48.031250)
+L 12/07/2018 - 11:44:18: "BOT Tom<15><BOT><2>" stuck (position "-1097.81 761.03 48.03") (duration "2.66") L 12/07/2018 - 11:44:18:    path_goal ( "NULL" )
+L 12/07/2018 - 11:44:18: "b00jum<12><STEAM_1:1:9014066><#nva>" killed "BOT Tom<15><BOT><#us>" with "nam_mg42<36>" at (-1097.895142, 761.031250, 48.031250)
+L 12/07/2018 - 11:44:24: "BOT Kedhrin<18><BOT><#nva>" killed "BOT Serguei<14><BOT><#us>" with "nam_ppsh41<63>" at (-1988.377686, -979.088135, -56.981796)
+L 12/07/2018 - 11:44:25: "BOT Paul<20><BOT><3>" stuck (position "-1240.77 -4910.97 -15.14") (duration "0.16") L 12/07/2018 - 11:44:25:    path_goal ( "-1280.00 -4900.00 -25.51" )
+L 12/07/2018 - 11:44:31: "BOT Paul<20><BOT><3>" stuck (position "-1325.21 -4267.54 -56.97") (duration "1.41") L 12/07/2018 - 11:44:31:    path_goal ( "NULL" )
+L 12/07/2018 - 11:44:31: "BOT Paul<20><BOT><3>" stuck (position "-1325.10 -4267.54 -56.97") (duration "1.56") L 12/07/2018 - 11:44:31:    path_goal ( "NULL" )
+L 12/07/2018 - 11:44:33: "BOT Paul<20><BOT><3>" stuck (position "-1326.36 -4267.89 -56.97") (duration "0.16") L 12/07/2018 - 11:44:33:    path_goal ( "-1460.00 -4340.00 -56.97" )
+L 12/07/2018 - 11:44:43: "BOT Cole<19><BOT><3>" stuck (position "-695.46 -3015.92 -76.76") (duration "1.41") L 12/07/2018 - 11:44:43:    path_goal ( "-690.00 -2960.00 -70.43" )
+L 12/07/2018 - 11:44:43: "BOT Cole<19><BOT><3>" stuck (position "-677.53 -3009.65 -75.92") (duration "1.56") L 12/07/2018 - 11:44:43:    path_goal ( "-760.00 -3020.00 -75.50" )
+L 12/07/2018 - 11:44:47: "BOT Cole<19><BOT><3>" stuck (position "-682.01 -2996.28 -73.70") (duration "0.16") L 12/07/2018 - 11:44:47:    path_goal ( "-700.00 -3020.00 -80.08" )
+L 12/07/2018 - 11:44:50: "BOT Paul<20><BOT><3>" stuck (position "-969.64 -3410.86 -56.97") (duration "1.41") L 12/07/2018 - 11:44:50:    path_goal ( "-960.00 -3440.00 -57.98" )
+L 12/07/2018 - 11:44:51: "BOT Paul<20><BOT><3>" stuck (position "-956.15 -3405.84 -56.97") (duration "1.56") L 12/07/2018 - 11:44:51:    path_goal ( "-980.00 -3320.00 -59.03" )
+L 12/07/2018 - 11:44:54: "b00jum<12><STEAM_1:1:9014066><#nva>" killed "BOT Serguei<14><BOT><#us>" with "nam_mg42<36>" at (-1032.500000, 941.664001, 48.031250)
+L 12/07/2018 - 11:45:15: Team "#nva" triggered "obj_captured" (object "")
+L 12/07/2018 - 11:45:15: "b00jum<12><STEAM_1:1:9014066><#nva>" triggered "obj_captured" (name "")
+L 12/07/2018 - 11:45:19: "BOT Minh<21><BOT><#nva>" killed "BOT Rich<16><BOT><#us>" with "nam_sks<69>" at (-703.112000, -714.145081, -56.968750)
+L 12/07/2018 - 11:45:19: "BOT Paul<20><BOT><3>" stuck (position "-955.60 -3378.89 -56.97") (duration "0.16") L 12/07/2018 - 11:45:19:    path_goal ( "-980.00 -3320.00 -59.03" )
+L 12/07/2018 - 11:45:29: "BOT Tom<15><BOT><#us>" killed "b00jum<12><STEAM_1:1:9014066><#nva>" with "nam_m16a1<66>" at (-491.307831, -597.769226, -56.968750)
+L 12/07/2018 - 11:45:34: "b00jum<12><STEAM_1:1:9014066><#nva>" say "TEST SAY"
+L 12/07/2018 - 11:45:45: "BOT Chuck<17><BOT><2>" stuck (position "-2298.97 846.97 64.11") (duration "14.06") L 12/07/2018 - 11:45:45:    path_goal ( "-2980.00 1485.60 -40.97" )
+L 12/07/2018 - 11:45:50: "BOT Nik<13><BOT><#us>" killed "BOT Chuck<17><BOT><#us>" with "nam_m14<77>" at (-2298.968750, 846.968750, 48.031250)
+L 12/07/2018 - 11:45:50: "BOT Nik<13><BOT><#us>" killed "BOT Kedhrin<18><BOT><#nva>" with "nam_m14<77>" at (-2519.998047, 438.538818, -56.968750)
+L 12/07/2018 - 11:46:01: "BOT Minh<21><BOT><#nva>" killed "BOT Tom<15><BOT><#us>" with "nam_sks<69>" at (-1235.093262, -942.956726, -56.968750)
+L 12/07/2018 - 11:46:08: "BOT Cole<19><BOT><#nva>" killed "BOT Serguei<14><BOT><#us>" with "nam_ppsh41<63>" at (-2867.983887, 1562.632568, -56.968750)
+L 12/07/2018 - 11:46:20: "BOT Paul<20><BOT><3>" stuck (position "-2885.49 1814.72 -56.97") (duration "1.41") L 12/07/2018 - 11:46:20:    path_goal ( "-2870.00 1820.00 -57.47" )
+L 12/07/2018 - 11:46:20: "BOT Paul<20><BOT><3>" stuck (position "-2884.69 1814.50 -56.97") (duration "1.56") L 12/07/2018 - 11:46:20:    path_goal ( "-2870.00 1820.00 -57.47" )
+L 12/07/2018 - 11:46:21: "BOT Paul<20><BOT><3>" stuck (position "-2879.56 1813.13 -56.97") (duration "2.72") L 12/07/2018 - 11:46:21:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:22: "BOT Paul<20><BOT><3>" stuck (position "-2882.33 1813.87 -56.97") (duration "3.81") L 12/07/2018 - 11:46:22:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:23: "BOT Rich<16><BOT><2>" stuck (position "-3729.21 6569.44 783.64") (duration "4.59") L 12/07/2018 - 11:46:23:    path_goal ( "-3720.00 6580.00 764.03" )
+L 12/07/2018 - 11:46:23: "BOT Paul<20><BOT><3>" stuck (position "-2877.65 1812.62 -56.97") (duration "4.92") L 12/07/2018 - 11:46:23:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:24: "BOT Chuck<17><BOT><2>" stuck (position "-3696.88 6630.08 786.97") (duration "2.36") L 12/07/2018 - 11:46:24:    path_goal ( "-3680.00 6620.00 764.03" )
+L 12/07/2018 - 11:46:24: "BOT Tom<15><BOT><2>" stuck (position "-3620.56 6690.90 790.11") (duration "2.52") L 12/07/2018 - 11:46:24:    path_goal ( "-3640.00 6680.00 764.03" )
+L 12/07/2018 - 11:46:24: "BOT Paul<20><BOT><3>" stuck (position "-2880.30 1813.32 -56.97") (duration "6.05") L 12/07/2018 - 11:46:24:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:25: "BOT Paul<20><BOT><3>" stuck (position "-2883.07 1814.07 -56.97") (duration "7.14") L 12/07/2018 - 11:46:25:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:26: "BOT Serguei<14><BOT><2>" stuck (position "-3535.72 6702.54 783.64") (duration "3.48") L 12/07/2018 - 11:46:26:    path_goal ( "-3560.00 6700.00 764.03" )
+L 12/07/2018 - 11:46:26: "BOT Rich<16><BOT><2>" stuck (position "-3722.20 6525.29 764.03") (duration "1.41") L 12/07/2018 - 11:46:26:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 11:46:26: "BOT Rich<16><BOT><2>" stuck (position "-3718.19 6524.21 795.80") (duration "1.56") L 12/07/2018 - 11:46:26:    path_goal ( "-3680.00 6525.30 654.49" )
+L 12/07/2018 - 11:46:26: "BOT Paul<20><BOT><3>" stuck (position "-2878.46 1812.83 -56.97") (duration "8.23") L 12/07/2018 - 11:46:26:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:27: "BOT Rich<16><BOT><2>" stuck (position "-3683.62 6518.11 798.50") (duration "0.31") L 12/07/2018 - 11:46:27:    path_goal ( "-3660.00 6530.00 798.50" )
+L 12/07/2018 - 11:46:28: "BOT Paul<20><BOT><3>" stuck (position "-2881.23 1813.57 -56.97") (duration "9.33") L 12/07/2018 - 11:46:28:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:28: "BOT Chuck<17><BOT><2>" stuck (position "-3775.87 6542.05 771.41") (duration "1.41") L 12/07/2018 - 11:46:28:    path_goal ( "-3800.00 6580.00 684.89" )
+L 12/07/2018 - 11:46:28: "BOT Chuck<17><BOT><2>" stuck (position "-3782.63 6548.97 764.03") (duration "1.56") L 12/07/2018 - 11:46:28:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:29: "BOT Paul<20><BOT><3>" stuck (position "-2881.92 1813.76 -56.97") (duration "10.42") L 12/07/2018 - 11:46:29:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:29: "b00jum<12><STEAM_1:1:9014066><#nva>" killed "BOT Nik<13><BOT><#us>" with "nam_mg42<36>" at (-2298.968750, 845.959778, 48.031250)
+L 12/07/2018 - 11:46:30: "BOT Chuck<17><BOT><2>" stuck (position "-3792.53 6558.89 764.03") (duration "0.16") L 12/07/2018 - 11:46:30:    path_goal ( "-3100.00 1520.00 -40.97" )
+L 12/07/2018 - 11:46:30: "BOT Tom<15><BOT><2>" stuck (position "-3674.24 6545.87 798.50") (duration "1.41") L 12/07/2018 - 11:46:30:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 11:46:30: "BOT Tom<15><BOT><2>" stuck (position "-3668.98 6552.41 830.28") (duration "1.56") L 12/07/2018 - 11:46:30:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:33: "BOT Serguei<14><BOT><2>" stuck (position "-3570.01 6540.60 812.58") (duration "1.41") L 12/07/2018 - 11:46:33:    path_goal ( "-3580.00 6500.00 646.05" )
+L 12/07/2018 - 11:46:34: "BOT Serguei<14><BOT><2>" stuck (position "-3570.01 6540.60 812.58") (duration "1.56") L 12/07/2018 - 11:46:34:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:46:37: "BOT Serguei<14><BOT><2>" stuck (position "-3572.30 6539.46 798.50") (duration "0.16") L 12/07/2018 - 11:46:37:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:46:38: "BOT Serguei<14><BOT><2>" stuck (position "-3586.34 6488.88 798.50") (duration "1.41") L 12/07/2018 - 11:46:38:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:46:39: "BOT Serguei<14><BOT><2>" stuck (position "-3583.41 6490.72 798.50") (duration "1.56") L 12/07/2018 - 11:46:39:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:39: "BOT Tom<15><BOT><2>" stuck (position "-3652.37 6608.83 764.03") (duration "1.41") L 12/07/2018 - 11:46:39:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:40: "BOT Serguei<14><BOT><2>" stuck (position "-3585.88 6491.12 798.50") (duration "0.16") L 12/07/2018 - 11:46:40:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 11:46:40: "BOT Rich<16><BOT><2>" stuck (position "-3671.85 6621.14 764.03") (duration "1.41") L 12/07/2018 - 11:46:40:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:41: "BOT Tom<15><BOT><2>" stuck (position "-3655.15 6528.48 798.50") (duration "1.41") L 12/07/2018 - 11:46:41:    path_goal ( "-3652.30 6520.00 764.03" )
+L 12/07/2018 - 11:46:41: "BOT Chuck<17><BOT><2>" stuck (position "-3717.61 6524.08 786.97") (duration "11.25") L 12/07/2018 - 11:46:41:    path_goal ( "-3680.00 6524.59 654.30" )
+L 12/07/2018 - 11:46:41: "BOT Tom<15><BOT><2>" stuck (position "-3638.63 6519.19 830.28") (duration "1.56") L 12/07/2018 - 11:46:41:    path_goal ( "-3653.50 6620.00 798.50" )
+L 12/07/2018 - 11:46:42: "BOT Rich<16><BOT><2>" stuck (position "-3688.35 6541.36 798.50") (duration "1.41") L 12/07/2018 - 11:46:42:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 11:46:42: "BOT Rich<16><BOT><2>" stuck (position "-3686.61 6563.46 798.50") (duration "1.56") L 12/07/2018 - 11:46:42:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:43: "BOT Serguei<14><BOT><2>" stuck (position "-3616.69 6624.65 764.03") (duration "1.41") L 12/07/2018 - 11:46:43:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:44: "BOT Chuck<17><BOT><2>" stuck (position "-3666.17 6596.78 764.03") (duration "1.42") L 12/07/2018 - 11:46:44:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:45: "BOT Tom<15><BOT><2>" stuck (position "-3619.87 6600.48 764.03") (duration "1.41") L 12/07/2018 - 11:46:45:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:45: "BOT Serguei<14><BOT><2>" stuck (position "-3638.40 6573.65 764.03") (duration "1.42") L 12/07/2018 - 11:46:45:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 11:46:46: "BOT Serguei<14><BOT><2>" stuck (position "-3619.24 6568.52 798.36") (duration "1.59") L 12/07/2018 - 11:46:46:    path_goal ( "-3560.00 6580.00 665.78" )
+L 12/07/2018 - 11:46:47: "BOT Chuck<17><BOT><2>" stuck (position "-3648.03 6568.70 764.03") (duration "1.41") L 12/07/2018 - 11:46:47:    path_goal ( "-3650.00 6520.00 764.03" )
+L 12/07/2018 - 11:46:47: "BOT Chuck<17><BOT><2>" stuck (position "-3644.96 6567.87 795.80") (duration "1.56") L 12/07/2018 - 11:46:47:    path_goal ( "-3630.00 6500.00 764.03" )
+L 12/07/2018 - 11:46:48: "BOT Rich<16><BOT><2>" stuck (position "-3652.79 6632.97 764.03") (duration "1.41") L 12/07/2018 - 11:46:48:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:48: "BOT Tom<15><BOT><2>" stuck (position "-3624.82 6562.48 764.03") (duration "1.41") L 12/07/2018 - 11:46:48:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 11:46:48: "BOT Tom<15><BOT><2>" stuck (position "-3623.08 6562.01 764.03") (duration "1.56") L 12/07/2018 - 11:46:48:    path_goal ( "-3100.00 1520.00 -40.97" )
+L 12/07/2018 - 11:46:50: "BOT Serguei<14><BOT><2>" stuck (position "-3573.08 6548.61 764.03") (duration "1.41") L 12/07/2018 - 11:46:50:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:46:50: "BOT Rich<16><BOT><2>" stuck (position "-3678.18 6574.12 764.03") (duration "1.41") L 12/07/2018 - 11:46:50:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 11:46:50: "BOT Serguei<14><BOT><2>" stuck (position "-3569.74 6547.72 764.03") (duration "1.56") L 12/07/2018 - 11:46:50:    path_goal ( "NULL" )
+L 12/07/2018 - 11:46:50: "BOT Rich<16><BOT><2>" stuck (position "-3668.09 6574.12 795.80") (duration "1.56") L 12/07/2018 - 11:46:50:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 11:46:52: "BOT Serguei<14><BOT><2>" stuck (position "-3569.04 6547.53 764.03") (duration "0.16") L 12/07/2018 - 11:46:52:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:46:55: "BOT Serguei<14><BOT><2>" stuck (position "-3586.45 6488.94 798.50") (duration "1.41") L 12/07/2018 - 11:46:55:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:46:55: "BOT Serguei<14><BOT><2>" stuck (position "-3583.29 6491.15 806.93") (duration "1.56") L 12/07/2018 - 11:46:55:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 11:46:56: "BOT Chuck<17><BOT><2>" stuck (position "-3652.43 6634.24 764.03") (duration "1.41") L 12/07/2018 - 11:46:56:    path_goal ( "-3640.00 6620.00 798.50" )
+L 12/07/2018 - 11:46:56: Team "#nva" triggered "obj_captured" (object "")
+L 12/07/2018 - 11:46:56: "b00jum<12><STEAM_1:1:9014066><#nva>" triggered "obj_captured" (name "")
+L 12/07/2018 - 11:46:57: "BOT Serguei<14><BOT><2>" stuck (position "-3587.51 6512.52 798.50") (duration "0.16") L 12/07/2018 - 11:46:57:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 11:46:59: "BOT Chuck<17><BOT><2>" stuck (position "-3672.89 6574.12 780.11") (duration "1.41") L 12/07/2018 - 11:46:59:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 11:46:59: "BOT Serguei<14><BOT><2>" stuck (position "-3625.41 6619.79 764.03") (duration "1.41") L 12/07/2018 - 11:46:59:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:00: "BOT Serguei<14><BOT><2>" stuck (position "-3625.64 6637.21 795.80") (duration "1.56") L 12/07/2018 - 11:47:00:    path_goal ( "-3640.00 6520.00 764.03" )
+L 12/07/2018 - 11:47:00: "BOT Rich<16><BOT><2>" stuck (position "-3622.68 6611.74 764.03") (duration "1.41") L 12/07/2018 - 11:47:00:    path_goal ( "-3640.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:00: "BOT Rich<16><BOT><2>" stuck (position "-3640.02 6600.73 764.03") (duration "1.56") L 12/07/2018 - 11:47:00:    path_goal ( "-3660.00 6500.00 798.50" )
+L 12/07/2018 - 11:47:01: "BOT Chuck<17><BOT><2>" stuck (position "-3693.63 6517.63 798.50") (duration "1.41") L 12/07/2018 - 11:47:01:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 11:47:02: "BOT Chuck<17><BOT><2>" stuck (position "-3684.11 6516.29 830.28") (duration "1.56") L 12/07/2018 - 11:47:02:    path_goal ( "-3660.00 6530.00 798.50" )
+L 12/07/2018 - 11:47:03: "BOT Rich<16><BOT><2>" stuck (position "-3647.76 6514.55 798.50") (duration "1.41") L 12/07/2018 - 11:47:03:    path_goal ( "-3650.00 6520.00 764.03" )
+L 12/07/2018 - 11:47:03: "BOT Serguei<14><BOT><2>" stuck (position "-3613.22 6773.78 764.03") (duration "1.41") L 12/07/2018 - 11:47:03:    path_goal ( "-3620.00 6780.00 764.03" )
+L 12/07/2018 - 11:47:03: "BOT Rich<16><BOT><2>" stuck (position "-3664.59 6520.24 830.28") (duration "1.56") L 12/07/2018 - 11:47:03:    path_goal ( "-3649.50 6620.00 798.50" )
+L 12/07/2018 - 11:47:03: "BOT Serguei<14><BOT><2>" stuck (position "-3628.34 6756.40 764.03") (duration "1.56") L 12/07/2018 - 11:47:03:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:03: "BOT Chuck<17><BOT><2>" stuck (position "-3677.05 6527.19 798.50") (duration "0.16") L 12/07/2018 - 11:47:03:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:06: "BOT Tom<15><BOT><2>" stuck (position "-3722.69 6525.41 790.11") (duration "11.88") L 12/07/2018 - 11:47:06:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 11:47:06: "BOT Serguei<14><BOT><2>" stuck (position "-3652.08 6739.84 764.03") (duration "0.16") L 12/07/2018 - 11:47:06:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:06: "BOT Chuck<17><BOT><2>" stuck (position "-3674.98 6625.37 764.03") (duration "1.41") L 12/07/2018 - 11:47:06:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:08: "BOT Tom<15><BOT><2>" stuck (position "-3724.16 6525.81 764.03") (duration "1.41") L 12/07/2018 - 11:47:08:    path_goal ( "-3710.00 6480.00 764.03" )
+L 12/07/2018 - 11:47:08: "BOT Tom<15><BOT><2>" stuck (position "-3721.99 6528.47 795.80") (duration "1.56") L 12/07/2018 - 11:47:08:    path_goal ( "-3680.00 6525.98 654.67" )
+L 12/07/2018 - 11:47:09: "BOT Chuck<17><BOT><2>" stuck (position "-3683.81 6693.14 764.03") (duration "1.41") L 12/07/2018 - 11:47:09:    path_goal ( "-3680.00 6720.00 764.03" )
+L 12/07/2018 - 11:47:09: "BOT Chuck<17><BOT><2>" stuck (position "-3666.97 6701.63 764.03") (duration "1.56") L 12/07/2018 - 11:47:09:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:11: "BOT Rich<16><BOT><2>" stuck (position "-3671.64 6627.31 764.03") (duration "1.41") L 12/07/2018 - 11:47:11:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:12: "BOT Rich<16><BOT><2>" stuck (position "-3674.21 6606.53 764.03") (duration "1.56") L 12/07/2018 - 11:47:12:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:12: "BOT Serguei<14><BOT><2>" stuck (position "-3666.36 6616.47 780.11") (duration "4.69") L 12/07/2018 - 11:47:12:    path_goal ( "-3663.91 6620.00 764.03" )
+L 12/07/2018 - 11:47:12: "BOT Chuck<17><BOT><2>" stuck (position "-3650.01 6714.64 764.03") (duration "0.16") L 12/07/2018 - 11:47:12:    path_goal ( "-3640.00 6690.00 764.03" )
+L 12/07/2018 - 11:47:14: "BOT Serguei<14><BOT><2>" stuck (position "-3684.32 6574.12 764.03") (duration "1.41") L 12/07/2018 - 11:47:14:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 11:47:14: "BOT Rich<16><BOT><2>" stuck (position "-3568.24 6547.32 764.03") (duration "1.41") L 12/07/2018 - 11:47:14:    path_goal ( "-3580.00 6500.00 646.05" )
+L 12/07/2018 - 11:47:14: "BOT Serguei<14><BOT><2>" stuck (position "-3679.72 6574.12 793.06") (duration "1.56") L 12/07/2018 - 11:47:14:    path_goal ( "-3680.00 6540.00 658.41" )
+L 12/07/2018 - 11:47:14: "BOT Rich<16><BOT><2>" stuck (position "-3575.38 6549.23 764.03") (duration "1.56") L 12/07/2018 - 11:47:14:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:47:15: "BOT Chuck<17><BOT><2>" stuck (position "-3607.79 6563.65 764.03") (duration "1.41") L 12/07/2018 - 11:47:15:    path_goal ( "-3600.00 6560.00 764.03" )
+L 12/07/2018 - 11:47:15: "BOT Chuck<17><BOT><2>" stuck (position "-3609.81 6567.20 764.03") (duration "1.56") L 12/07/2018 - 11:47:15:    path_goal ( "-2880.00 6620.00 608.49" )
+L 12/07/2018 - 11:47:17: "BOT Tom<15><BOT><2>" stuck (position "-3653.66 6630.79 764.03") (duration "1.41") L 12/07/2018 - 11:47:17:    path_goal ( "-3660.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:17: "BOT Tom<15><BOT><2>" stuck (position "-3668.50 6632.22 795.80") (duration "1.56") L 12/07/2018 - 11:47:17:    path_goal ( "-3680.00 6540.00 764.03" )
+L 12/07/2018 - 11:47:18: "BOT Chuck<17><BOT><2>" stuck (position "-3583.91 6488.82 798.50") (duration "1.41") L 12/07/2018 - 11:47:18:    path_goal ( "-3580.00 6460.00 764.03" )
+L 12/07/2018 - 11:47:19: "BOT Chuck<17><BOT><2>" stuck (position "-3589.83 6489.84 830.28") (duration "1.56") L 12/07/2018 - 11:47:19:    path_goal ( "-3620.00 6510.00 798.50" )
+L 12/07/2018 - 11:47:20: "b00jum<12><STEAM_1:1:9014066><#nva>" killed "BOT Nik<13><BOT><#us>" with "nam_mg42<36>" at (-2526.818848, 6528.348145, 626.030334)
+L 12/07/2018 - 11:47:21: "BOT Chuck<17><BOT><2>" stuck (position "-3632.86 6604.25 764.03") (duration "1.41") L 12/07/2018 - 11:47:21:    path_goal ( "-3620.00 6620.00 798.50" )
+L 12/07/2018 - 11:47:21: "BOT Chuck<17><BOT><2>" stuck (position "-3617.49 6606.01 764.03") (duration "1.56") L 12/07/2018 - 11:47:21:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:24: "BOT Chuck<17><BOT><2>" stuck (position "-3710.18 6577.44 764.03") (duration "1.41") L 12/07/2018 - 11:47:24:    path_goal ( "-3740.00 6580.00 675.04" )
+L 12/07/2018 - 11:47:24: "BOT Chuck<17><BOT><2>" stuck (position "-3727.46 6576.25 764.03") (duration "1.56") L 12/07/2018 - 11:47:24:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:25: "BOT Tom<15><BOT><2>" stuck (position "-3718.03 6524.19 764.03") (duration "1.41") L 12/07/2018 - 11:47:25:    path_goal ( "-3740.00 6500.00 764.03" )
+L 12/07/2018 - 11:47:25: "BOT Tom<15><BOT><2>" stuck (position "-3718.33 6524.27 764.03") (duration "1.56") L 12/07/2018 - 11:47:25:    path_goal ( "NULL" )
+L 12/07/2018 - 11:47:25: "BOT Chuck<17><BOT><2>" stuck (position "-3744.78 6561.82 764.03") (duration "0.31") L 12/07/2018 - 11:47:25:    path_goal ( "-3740.00 6500.00 764.03" )
+L 12/07/2018 - 11:47:28: "BOT Tom<15><BOT><2>" stuck (position "-3641.13 6612.77 764.03") (duration "1.41") L 12/07/2018 - 11:47:28:    path_goal ( "NULL" )
+L 12/07/2018 - 11:
