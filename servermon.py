@@ -37,9 +37,9 @@ class User(object):
 		self.location = self.get_location(ip)
 
 	def get_location(self, ip):
-		loc = 'TEST LOCATION SAVING CALLS'
 		# with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
-		# 	loc = ast.literal_eval(response.read().decode('UTF-8'))
+		#  	loc = ast.literal_eval(response.read().decode('UTF-8'))
+		loc = "TEST LOCATION"
 		return loc
 
 	@property
@@ -58,9 +58,9 @@ class User(object):
 	@classmethod
 	def bot_from_string(cls, line):
 		# c = 
-		c_date, c_time, steam_id, uname, ip = parse_date(line), parse_time(line), parse_bot_id(line),\
-														parse_uname(line), "none/local"
-		return cls(c_date, c_time, steam_id, uname, ip)
+		c_date, c_time, steam_id, uname = parse_date(line), parse_time(line), parse_bot_id(line),\
+														parse_uname(line)
+		return cls(c_date, c_time, steam_id, uname)
 
 
 
@@ -81,7 +81,7 @@ def handle_line(line):
 			for key,val in connections[steamid].__dict__.items():
 				print(key, ":", val)
 		else:
-			steamid = parse_steamid(line)
+			steamid = parse_steamid(line)[0]
 			connections[steamid] = User.from_string(line)
 			for key,val in connections[steamid].__dict__.items():
 				print(key, ":", val)
@@ -96,12 +96,15 @@ def handle_line(line):
 		print(line)
 	
 	elif ' killed ' in line:
-		if '<BOT>' in line:
-			steamid = parse_steamid(line) if is_first(line) else parse_bot_id(line)  # Player with SteamID in first position, killed bot
-			steamid_2 = parse_bot_id(line) if is_first(line) else parse_steamid(line)  # Bot in first position, killed Player with SteamID
+		if '<BOT>' in line and not parse_steamid(line):  # Only bots in line, bot on bot crime
+			bot_id_list = parse_bot_id(line)
+			steamid, steamid_2 = bot_id_list[0], bot_id_list[1]
+		elif '<BOT>' in line:
+			steamid = parse_steamid(line)[0] if is_first(line) else parse_bot_id(line)  # Player with SteamID in first position, killed bot
+			steamid_2 = parse_bot_id(line) if is_first(line) else parse_steamid(line)[0]  # Bot in first position, killed Player with SteamID
 		else:
-			steamid = parse_steamid(line)
-			steamid_2 = parse_steamid_2(line)
+			steamid_list = parse_steamid(line)
+			steamid, steamid_2 = steamid_list[0], steamid_2[1]
 
 		'''If all Steam IDs in kill exist as objects in connections{} then increase kill 
 		count for steamid and death count for steamid_2 
@@ -128,26 +131,32 @@ def handle_line(line):
 		print('Handling Triggered / Win Line')
 		print(line)
 
-	# else:
-	# 	print('--------->  No Action Words found in line.')
-	# 	print(line)
 
 def parse_steamid(line):
 	'''Returns first Steam ID found in line'''
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
 	steamid = steam_id_pattern.findall(line)
-	return steamid[0]
+	if not steamid:
+		return False
+	else:
+		return steamid
 
-def parse_steamid_2(line):
-	'''Retruns second Steam ID found in line'''
-	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
-	steamid = steam_id_pattern.findall(line)
-	return steamid[1]
+# def parse_steamid_2(line):
+# 	'''Retruns second Steam ID found in line'''
+# 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
+# 	steamid = steam_id_pattern.findall(line)
+# 	return steamid[1]
 
 def parse_bot_id(line):
 	'''Returns BotID from line'''
 	bot_id_pattern = re.compile(r'<(\d+)><(\w+)>')
-	return str(bot_id_pattern.search(line).group(1)) + bot_id_pattern.search(line).group(2)
+	botid = bot_id_pattern.findall(line)
+	if len(botid) > 1:
+		botid = [botid[0][0] + botid[0][1], botid[1][0] + botid[1][1]]
+		return botid
+	else:
+		botid = botid[0][0] + botid[0][1]
+		return botid
 
 def parse_uname(line):
 	'''Retrun username from line'''
@@ -197,21 +206,24 @@ def parse_message(line):
 	return msg_pattern.search(line).group()
 
 def is_first(line):
+	# import pdb; pdb.set_trace()
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
 	bot_id_pattern = re.compile(r'<(\d+)><(\w+)>')
 
-	'''Returns 1 if Steam ID shows up before BOT ID in line'''
-	for j in steam_id_pattern.finditer(line):
-		x = j.start()
+	if steam_id_pattern.search(line):
+		'''Returns 1 if Steam ID shows up before BOT ID in line'''
+		for j in steam_id_pattern.finditer(line):
+			x = j.start()
 
-	for i in bot_id_pattern.finditer(line):
-		y = i.start()
+		for i in bot_id_pattern.finditer(line):
+			y = i.start()
 
-	if x < y:
-		return 1
-	else:
-		return 0
-	
+		if x < y:
+			return 1
+		else:
+			return 0
+
+
 def main():
 	''' Open a pseudo terminal(pty) to run doi.sh script, output is buffered if piped so a pty is 
 	required for real time srcds output
@@ -230,7 +242,7 @@ def main():
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
 
 def from_file():
-	log_file = 'bot-log'
+	log_file = 'NEWlog'
 	file = open('logs/{}.txt'.format(log_file), 'r')
 	try:
 		for line in file:
@@ -244,4 +256,4 @@ def from_file():
 # 	print(c)
 
 if __name__ == "__main__":
-	main()
+	from_file()
