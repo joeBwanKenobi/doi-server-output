@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import re
 import datetime
@@ -94,7 +95,7 @@ def handle_line(line):
 		print('Handling Joined Line')
 		print(line)
 	
-	elif 'killed' in line:
+	elif ' killed ' in line:
 		if '<BOT>' in line:
 			steamid = parse_steamid(line) if is_first(line) else parse_bot_id(line)  # Player with SteamID in first position, killed bot
 			steamid_2 = parse_bot_id(line) if is_first(line) else parse_steamid(line)  # Bot in first position, killed Player with SteamID
@@ -127,9 +128,9 @@ def handle_line(line):
 		print('Handling Triggered / Win Line')
 		print(line)
 
-	else:
-		print('--------->  No Action Words found in line.')
-		print(line)
+	# else:
+	# 	print('--------->  No Action Words found in line.')
+	# 	print(line)
 
 def parse_steamid(line):
 	'''Returns first Steam ID found in line'''
@@ -145,7 +146,7 @@ def parse_steamid_2(line):
 
 def parse_bot_id(line):
 	'''Returns BotID from line'''
-	bot_id_pattern = re.compile(r'<(\d)><(\w+)>')
+	bot_id_pattern = re.compile(r'<(\d+)><(\w+)>')
 	return str(bot_id_pattern.search(line).group(1)) + bot_id_pattern.search(line).group(2)
 
 def parse_uname(line):
@@ -197,8 +198,8 @@ def parse_message(line):
 
 def is_first(line):
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
-	bot_id_pattern = re.compile(r'<(\d)><(\w+)>')
-	
+	bot_id_pattern = re.compile(r'<(\d+)><(\w+)>')
+
 	'''Returns 1 if Steam ID shows up before BOT ID in line'''
 	for j in steam_id_pattern.finditer(line):
 		x = j.start()
@@ -229,7 +230,7 @@ def main():
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
 
 def from_file():
-	log_file = 'kill-line-test'
+	log_file = 'bot-log'
 	file = open('logs/{}.txt'.format(log_file), 'r')
 	try:
 		for line in file:
@@ -243,4 +244,4 @@ def from_file():
 # 	print(c)
 
 if __name__ == "__main__":
-	from_file()
+	main()
