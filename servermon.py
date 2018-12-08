@@ -9,6 +9,7 @@ import pty
 import os
 
 connections = {}
+stored_ips = {}
 # class IterUser(type):
 # 	def __iter__(cls):
 # 		return iter(cls.instances)
@@ -20,11 +21,11 @@ class User(object):
 	"""
 	# instances = []
 	# count = 0
-	def __init__(self, c_date="", c_time="", steam_id="", uname="", ip="", team_cur=""):
+	def __init__(self, c_date="", c_time="", steam_id="", uname="", ip="", team=""):
 		self.steam_id = steam_id
 		self.uname = uname
 		self.ip = ip
-		self.team = team_cur
+		self.team = team
 		self.c_date = c_date
 		self.c_time = c_time
 		self.kills = 0
@@ -96,17 +97,15 @@ def handle_line(line):
 		if 'BOT' in line:
 			steamid = parse_bot_id(line)[0]
 			team = parse_team(line)
-			connections[steamid].team_cur = team[1]
+			connections[steamid].team = team[1]
 			print("Player: {}({}): joined team {}".format(connections[steamid].uname, team[0], team[1]))
 			print()
 		else:
 			steamid = parse_steamid(line)[0]
 			team = parse_team(line)
-			connections[steamid].team_cur = team[1]
+			connections[steamid].team = team[1]
 			print("Player: {}({}): joined team {}".format(connections[steamid].uname, team[0], team[1]))
 
-
-	
 	elif ' killed ' in line:
 		if '<BOT>' in line and not parse_steamid(line):  # Only bots in line, bot on bot crime
 			bot_id_list = parse_bot_id(line)
@@ -124,8 +123,8 @@ def handle_line(line):
 		if all (ids in connections for ids in (steamid, steamid_2)):
 			connections[steamid].kills += 1
 			connections[steamid_2].deaths += 1
-			print("{}: K:{} D:{} just killed {}: K:{} D:{}"\
-				.format(connections[steamid].uname, connections[steamid].kills, connections[steamid].deaths,\
+			print("{}-{}--> {}: K:{} D:{} just killed {}: K:{} D:{}"\
+				.format(parse_date(line), parse_time(line),connections[steamid].uname, connections[steamid].kills, connections[steamid].deaths,\
 				 connections[steamid_2].uname, connections[steamid_2].kills, connections[steamid_2].deaths))
 			print()
 		else:
@@ -133,18 +132,27 @@ def handle_line(line):
 	
 	elif ' say' in line:
 		steamid = parse_steamid(line)[0]
-		print('{} - {}> {}: {}'.format(parse_date(line), parse_time(line), connections[steamid].uname, parse_message(line)))
+		print('{}-{}--> {}: {}'.format(parse_date(line), parse_time(line), connections[steamid].uname, parse_message(line)))
 		print()
 
 	elif 'say_team' in line:
 		steamid = parse_steamid(line)[0]
-		print('{} - {}> {}({}): {}'.format(parse_date(line), parse_time(line), connections[steamid].uname,\
-		 connections[steamid].team, parse_message(line)))
+		print('{}-{}--> {}({}): {}'.format(parse_date(line), parse_time(line), connections[steamid].uname,\
+		 							connections[steamid].team, parse_message(line)))
 		print()
 
 	elif 'triggered' in line:
-		print('Handling Triggered / Win Line')
-		print(line)
+		if 'obj_captured' and 'Team' in line:
+			team = parse_team(line)[0]
+			print("{}-{}--> {} captured a point.".format(parse_date(line), parse_time(line), team.upper()))
+		elif parse_steamid(line) or parse_bot_id(line):
+			steamid = parse_steamid(line)[0] if parse_steamid(line) else parse_bot_id(line)[0]
+			team = parse_team(line)[0]
+			print("{}-{}--> {}({}): captured a point.".format(parse_date(line), parse_time(line), \
+														connections[steamid].uname, team))
+		elif 'Round_Win' in line:
+			team = parse_team(line)[0]
+			print("{}-{}--> {} has won the round!".format(parse_date(line), parse_time(line), team.upper()))
 
 
 def parse_steamid(line):
@@ -263,6 +271,10 @@ def from_file():
 			handle_line(line)
 	except KeyboardInterrupt:
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
+	for key in connections:
+		print(connections.get(key).__dict__.items())
+		# for k,v in connections[key].__dict__.items():
+		# 	print(k, ":", v)
 
 
 ''' Print Connection object instances '''
@@ -270,4 +282,4 @@ def from_file():
 # 	print(c)
 
 if __name__ == "__main__":
-	from_file()
+	main()
