@@ -1,0 +1,8 @@
+Handling Triggered / Win Line
+L 12/07/2018 - 15:10:02: Team "#nva" triggered "obj_captured" (object "")
+
+Handling Triggered / Win Line
+L 12/07/2018 - 15:10:02: "BOT Devin<3><BOT><#nva>" triggered "obj_captured" (name "")
+
+Handling Triggered / Win Line
+L 12/07/2018 - 15:10:02: Team "#nva" triggered "Round_Win"
