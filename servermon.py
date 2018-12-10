@@ -98,13 +98,13 @@ def handle_line(line):
 			steamid = parse_bot_id(line)[0]
 			team = parse_team(line)
 			connections[steamid].team = team[1]
-			print("Player: {}({}): joined team {}".format(connections[steamid].uname, team[0], team[1]))
+			print("{}-{}--> Player: {}({}): joined team {}".format(parse_time(line), parse_date(line), connections[steamid].uname, team[0], team[1]))
 			print()
 		else:
 			steamid = parse_steamid(line)[0]
 			team = parse_team(line)
 			connections[steamid].team = team[1]
-			print("Player: {}({}): joined team {}".format(connections[steamid].uname, team[0], team[1]))
+			print("{}-{}--> Player: {}({}): joined team {}".format(parse_time(line), parse_date(line), connections[steamid].uname, team[0], team[1]))
 
 	elif ' killed ' in line:
 		if '<BOT>' in line and not parse_steamid(line):  # Only bots in line, bot on bot crime
@@ -115,7 +115,8 @@ def handle_line(line):
 			steamid_2 = parse_bot_id(line)[0] if is_first(line) else parse_steamid(line)[0]  # Bot in first position, killed Player with SteamID
 		else:
 			steamid_list = parse_steamid(line)
-			steamid, steamid_2 = steamid_list[0], steamid_2[1]
+			steamid = steamid_list[0]
+			steamid_2 = steamid_list[1]
 
 		'''If all Steam IDs in kill exist as objects in connections{} then increase kill 
 		count for steamid and death count for steamid_2 
@@ -264,7 +265,7 @@ def main():
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
 
 def from_file():
-	log_file = 'saylog'
+	log_file = 'errorlog'
 	file = open('logs/{}.txt'.format(log_file), 'r')
 	try:
 		for line in file:
@@ -282,4 +283,4 @@ def from_file():
 # 	print(c)
 
 if __name__ == "__main__":
-	main()
+	from_file()
