@@ -38,9 +38,9 @@ class User(object):
 		self.location = self.get_location(ip)
 
 	def get_location(self, ip):
-		# with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
-		#  	loc = ast.literal_eval(response.read().decode('UTF-8'))
-		loc = "TEST LOCATION"
+		with urllib.request.urlopen('https://ipinfo.io/{}'.format(self.ip)) as response:
+		 	loc = ast.literal_eval(response.read().decode('UTF-8'))
+		# loc = "TEST LOCATION"
 		return loc
 
 	@property
@@ -282,4 +282,4 @@ def from_file():
 # 	print(c)
 
 if __name__ == "__main__":
-	from_file()
+	main()
