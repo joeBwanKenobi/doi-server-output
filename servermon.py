@@ -93,7 +93,6 @@ def handle_line(line):
 		print(line)
 
 	elif 'joined' in line:
-		# import pdb; pdb.set_trace()
 		if 'BOT' in line:
 			steamid = parse_bot_id(line)[0]
 			team = parse_team(line)
@@ -226,8 +225,8 @@ def parse_team(line):
 
 def parse_message(line):
 	'''Return user chat input'''
-	msg_pattern = re.compile(r'"[^\s]\D*"')
-	return msg_pattern.search(line).group()
+	msg_pattern = re.compile(r'"(.*?)"')
+	return msg_pattern.findall(line)[1]
 
 def is_first(line):
 	steam_id_pattern = re.compile(r'(STEAM_\d:\d:\d+)')
@@ -265,7 +264,7 @@ def main():
 		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
 
 def from_file():
-	log_file = 'errorlog'
+	log_file = 'error-log-12-11'
 	file = open('logs/{}.txt'.format(log_file), 'r')
 	try:
 		for line in file:
