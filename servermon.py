@@ -45,14 +45,14 @@ class User(object):
 
 	@property
 	def description(self):
-		return "> {}-{} --> connection from address: {}\n{} {}\n{}, {}, {}\n{}".format(\
+		return print("{}-{}-->  connection from address: {}\n\t\t\t{} {}\n\t\t\t{}, {}, {}\n\t\t\t{}\n".format(\
 			self.c_date, self.c_time, self.ip, self.uname, self.steam_id, self.location['city'], \
-			self.location['region'], self.location['country'], self.location['org'])
+			self.location['region'], self.location['country'], self.location['org']))
 
 	@classmethod
 	def from_string(cls, line):
 		# c = 
-		c_date, c_time, steam_id, uname, ip = parse_date(line), parse_time(line), parse_steamid(line),\
+		c_date, c_time, steam_id, uname, ip = parse_date(line), parse_time(line), parse_steamid(line)[0],\
 														parse_uname(line), parse_ip(line)
 		return cls(c_date, c_time, steam_id, uname, ip)
 
@@ -74,19 +74,19 @@ def handle_line(line):
 	joined = display team change line, update server / team data
 	"""
 	
-
 	if ' connected,' in line:
 		if '<BOT>' in line:
 			steamid = parse_bot_id(line)[0]
 			connections[steamid] = User.bot_from_string(line)
-			for key,val in connections[steamid].__dict__.items():
-				print(key, ":", val)
+			connections[steamid].description
+			# for key,val in connections[steamid].__dict__.items():
+			# 	print(key, ":", val)
 		else:
 			steamid = parse_steamid(line)[0]
 			connections[steamid] = User.from_string(line)
-			for key,val in connections[steamid].__dict__.items():
-				print(key, ":", val)
-		print()
+			connections[steamid].description
+			# for key,val in connections[steamid].__dict__.items():
+			# 	print(key, ":", val)
 
 	elif 'disconnected' in line:
 		print('Handling Disconnection Line')
@@ -97,13 +97,14 @@ def handle_line(line):
 			steamid = parse_bot_id(line)[0]
 			team = parse_team(line)
 			connections[steamid].team = team[1]
-			print("{}-{}--> Player: {}({}): joined team {}".format(parse_time(line), parse_date(line), connections[steamid].uname, team[0], team[1]))
-			print()
+			print("{}-{}--> Player: {}({}): joined team {}\n".format(parse_time(line), parse_date(line), \
+															connections[steamid].uname, team[0], team[1]))
 		else:
 			steamid = parse_steamid(line)[0]
 			team = parse_team(line)
 			connections[steamid].team = team[1]
-			print("{}-{}--> Player: {}({}): joined team {}".format(parse_time(line), parse_date(line), connections[steamid].uname, team[0], team[1]))
+			print("{}-{}--> Player: {}({}): joined team {}\n".format(parse_time(line), parse_date(line), \
+															connections[steamid].uname, team[0], team[1]))
 
 	elif ' killed ' in line:
 		if '<BOT>' in line and not parse_steamid(line):  # Only bots in line, bot on bot crime
@@ -123,36 +124,37 @@ def handle_line(line):
 		if all (ids in connections for ids in (steamid, steamid_2)):
 			connections[steamid].kills += 1
 			connections[steamid_2].deaths += 1
-			print("{}-{}--> {}: K:{} D:{} just killed {}: K:{} D:{}"\
-				.format(parse_date(line), parse_time(line),connections[steamid].uname, connections[steamid].kills, connections[steamid].deaths,\
+			print("{}-{}--> {}: K:{} D:{} just killed {}: K:{} D:{}\n"\
+				.format(parse_date(line), parse_time(line),connections[steamid].uname, \
+				connections[steamid].kills, connections[steamid].deaths,\
 				 connections[steamid_2].uname, connections[steamid_2].kills, connections[steamid_2].deaths))
 			print()
 		else:
 			print("A STEAM ID DOESN'T EXIST IN connections")
 	
-	elif ' say' in line:
+	elif ' say ' in line:
 		steamid = parse_steamid(line)[0]
 		print('{}-{}--> {}: {}'.format(parse_date(line), parse_time(line), connections[steamid].uname, parse_message(line)))
 		print()
 
 	elif 'say_team' in line:
 		steamid = parse_steamid(line)[0]
-		print('{}-{}--> {}({}): {}'.format(parse_date(line), parse_time(line), connections[steamid].uname,\
+		print('{}-{}--> {}({}): {}\n'.format(parse_date(line), parse_time(line), connections[steamid].uname,\
 		 							connections[steamid].team, parse_message(line)))
 		print()
 
 	elif 'triggered' in line:
 		if 'obj_captured' and 'Team' in line:
 			team = parse_team(line)[0]
-			print("{}-{}--> {} captured a point.".format(parse_date(line), parse_time(line), team.upper()))
+			print("{}-{}--> {} captured a point.\n".format(parse_date(line), parse_time(line), team.upper()))
 		elif parse_steamid(line) or parse_bot_id(line):
 			steamid = parse_steamid(line)[0] if parse_steamid(line) else parse_bot_id(line)[0]
 			team = parse_team(line)[0]
-			print("{}-{}--> {}({}): captured a point.".format(parse_date(line), parse_time(line), \
+			print("{}-{}--> {}({}): captured a point.\n".format(parse_date(line), parse_time(line), \
 														connections[steamid].uname, team))
 		elif 'Round_Win' in line:
 			team = parse_team(line)[0]
-			print("{}-{}--> {} has won the round!".format(parse_date(line), parse_time(line), team.upper()))
+			print("{}-{}--> {} has won the round!\n".format(parse_date(line), parse_time(line), team.upper()))
 
 
 def parse_steamid(line):
@@ -261,16 +263,16 @@ def main():
 			handle_line(line)
 			f.write(line)
 	except KeyboardInterrupt:
-		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
+		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....\n")
 
 def from_file():
-	log_file = 'error-log-12-11'
+	log_file = 'error-log-stripped'
 	file = open('logs/{}.txt'.format(log_file), 'r')
 	try:
 		for line in file:
 			handle_line(line)
 	except KeyboardInterrupt:
-		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....")
+		print("Keyboard Interrupt --> Exiting writing to logfile and exiting program....\n")
 	for key in connections:
 		print(connections.get(key).__dict__.items())
 		# for k,v in connections[key].__dict__.items():
@@ -282,4 +284,4 @@ def from_file():
 # 	print(c)
 
 if __name__ == "__main__":
-	main()
+	from_file()
